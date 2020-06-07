@@ -1,0 +1,1133 @@
+
+
+[2020-04-30 14:35:59] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-04-30 14:35:59] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-04-30 14:36:00] Unknown shader cache type, ignoring.
+[2020-04-30 14:36:00] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-04-30 14:36:00] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-04-30 14:36:01] Unknown shader cache type, ignoring.
+[2020-04-30 14:36:01] Found 0 current buckets:
+[2020-04-30 14:43:19] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1281800
+[2020-04-30 15:27:02] AppID 1281800 exited.
+[2020-04-30 15:27:02] Unknown shader cache type, ignoring.
+[2020-04-30 15:27:08] Abandoned all bucket tracking progress for AppID 1281800.
+[2020-04-30 15:27:08] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1281800.
+
+
+[2020-04-30 20:51:47] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-04-30 20:51:47] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-04-30 20:51:47] Unknown shader cache type, ignoring.
+[2020-04-30 20:51:48] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-04-30 20:51:48] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-04-30 20:51:48] Unknown shader cache type, ignoring.
+[2020-04-30 20:51:49] Found 0 current buckets:
+
+
+[2020-05-01 10:04:00] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-01 10:04:00] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-01 10:04:00] Unknown shader cache type, ignoring.
+[2020-05-01 10:04:00] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-01 10:04:00] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-01 10:04:01] Unknown shader cache type, ignoring.
+[2020-05-01 10:04:01] Found 0 current buckets:
+
+
+[2020-05-02 12:10:25] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-02 12:10:25] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-02 12:10:26] Unknown shader cache type, ignoring.
+[2020-05-02 12:10:26] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-02 12:10:26] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-02 12:10:26] Unknown shader cache type, ignoring.
+[2020-05-02 12:10:27] Found 0 current buckets:
+
+
+[2020-05-03 10:56:49] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 10:56:49] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 10:56:49] Unknown shader cache type, ignoring.
+[2020-05-03 10:56:50] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 10:56:50] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 10:56:50] Unknown shader cache type, ignoring.
+[2020-05-03 10:56:51] Found 0 current buckets:
+[2020-05-03 12:12:57] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1281800
+[2020-05-03 13:32:25] AppID 1281800 exited.
+[2020-05-03 13:32:25] Unknown shader cache type, ignoring.
+
+
+[2020-05-03 15:49:34] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 15:49:34] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 15:49:35] Unknown shader cache type, ignoring.
+[2020-05-03 15:49:35] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 15:49:35] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 15:49:35] Unknown shader cache type, ignoring.
+[2020-05-03 15:49:36] Found 0 current buckets:
+
+
+[2020-05-03 15:52:38] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 15:52:38] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 15:52:38] Unknown shader cache type, ignoring.
+[2020-05-03 15:52:39] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 15:52:39] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 15:52:39] Unknown shader cache type, ignoring.
+[2020-05-03 15:52:39] Found 0 current buckets:
+
+
+[2020-05-03 16:38:01] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 16:38:01] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-03 16:38:01] Unknown shader cache type, ignoring.
+[2020-05-03 16:38:02] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 16:38:02] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-03 16:38:02] Unknown shader cache type, ignoring.
+[2020-05-03 16:38:03] Found 0 current buckets:
+
+
+[2020-05-04 10:58:56] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-04 10:58:56] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-04 10:58:56] Unknown shader cache type, ignoring.
+[2020-05-04 10:58:57] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-04 10:58:57] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-04 10:58:57] Unknown shader cache type, ignoring.
+[2020-05-04 10:58:58] Found 0 current buckets:
+
+
+[2020-05-04 21:53:30] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-04 21:53:30] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-04 21:53:30] Unknown shader cache type, ignoring.
+[2020-05-04 21:53:31] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-04 21:53:31] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-04 21:53:31] Unknown shader cache type, ignoring.
+[2020-05-04 21:53:32] Found 0 current buckets:
+
+
+[2020-05-05 11:48:32] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-05 11:48:32] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-05 11:48:33] Unknown shader cache type, ignoring.
+[2020-05-05 11:48:33] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-05 11:48:33] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-05 11:48:33] Unknown shader cache type, ignoring.
+[2020-05-05 11:48:34] Found 0 current buckets:
+
+
+[2020-05-06 10:56:44] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-06 10:56:44] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-06 10:56:45] Unknown shader cache type, ignoring.
+[2020-05-06 10:56:45] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-06 10:56:45] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-06 10:56:46] Unknown shader cache type, ignoring.
+[2020-05-06 10:56:46] Found 0 current buckets:
+[2020-05-06 11:11:31] Abandoned all bucket tracking progress for AppID 1076600.
+[2020-05-06 11:11:31] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1076600.
+[2020-05-06 11:11:37] Abandoned all bucket tracking progress for AppID 909080.
+[2020-05-06 11:11:37] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\909080.
+[2020-05-06 11:11:41] Abandoned all bucket tracking progress for AppID 1281800.
+[2020-05-06 11:11:41] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1281800.
+
+
+[2020-05-06 11:12:47] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-06 11:12:47] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-06 11:12:48] Unknown shader cache type, ignoring.
+[2020-05-06 11:12:48] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-06 11:12:48] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-06 11:12:48] Unknown shader cache type, ignoring.
+[2020-05-06 11:12:49] Found 0 current buckets:
+
+
+[2020-05-06 11:16:11] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-06 11:16:11] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-06 11:16:11] Unknown shader cache type, ignoring.
+[2020-05-06 11:16:12] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-06 11:16:12] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-06 11:16:12] Unknown shader cache type, ignoring.
+[2020-05-06 11:16:12] Found 0 current buckets:
+[2020-05-06 13:07:03] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1281800
+[2020-05-06 13:35:02] AppID 1281800 exited.
+[2020-05-06 13:35:02] Unknown shader cache type, ignoring.
+[2020-05-06 13:35:10] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\909080
+[2020-05-06 14:04:10] AppID 909080 exited.
+[2020-05-06 14:04:10] Unknown shader cache type, ignoring.
+
+
+[2020-05-07 11:46:10] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-07 11:46:10] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-07 11:46:10] Unknown shader cache type, ignoring.
+[2020-05-07 11:46:11] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-07 11:46:11] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-07 11:46:11] Unknown shader cache type, ignoring.
+[2020-05-07 11:46:11] Found 0 current buckets:
+
+
+[2020-05-07 18:18:31] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-07 18:18:31] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-07 18:18:32] Unknown shader cache type, ignoring.
+[2020-05-07 18:18:32] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-07 18:18:32] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-07 18:18:32] Unknown shader cache type, ignoring.
+[2020-05-07 18:18:33] Found 0 current buckets:
+
+
+[2020-05-08 09:49:21] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-08 09:49:21] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-08 09:49:21] Unknown shader cache type, ignoring.
+[2020-05-08 09:49:22] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-08 09:49:22] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-08 09:49:22] Unknown shader cache type, ignoring.
+[2020-05-08 09:49:22] Found 0 current buckets:
+[2020-05-08 10:06:14] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\998930
+[2020-05-08 10:21:44] AppID 998930 exited.
+[2020-05-08 10:21:44] Unknown shader cache type, ignoring.
+[2020-05-08 10:25:15] AppID 998930 exited.
+[2020-05-08 10:25:15] Unknown shader cache type, ignoring.
+[2020-05-08 10:27:23] AppID 998930 exited.
+[2020-05-08 10:27:23] Unknown shader cache type, ignoring.
+[2020-05-08 11:20:15] AppID 909080 exited.
+[2020-05-08 11:20:15] Unknown shader cache type, ignoring.
+[2020-05-08 11:44:05] AppID 1281800 exited.
+[2020-05-08 11:44:05] Unknown shader cache type, ignoring.
+[2020-05-08 11:59:10] AppID 998930 exited.
+[2020-05-08 11:59:10] Unknown shader cache type, ignoring.
+[2020-05-08 12:26:13] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-08 12:26:36] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-08 12:26:39] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-08 12:26:39] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\219740
+[2020-05-08 12:26:44] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-08 12:26:44] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\644560
+[2020-05-08 12:26:47] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-08 12:27:21] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-08 12:27:21] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\322330
+[2020-05-08 14:25:07] AppID 322330 exited.
+[2020-05-08 14:25:07] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:07] AppID 1281800 exited.
+[2020-05-08 14:25:07] AppID 644560 exited.
+[2020-05-08 14:25:07] AppID 219740 exited.
+[2020-05-08 14:25:07] AppID 909080 exited.
+[2020-05-08 14:25:07] AppID 998930 exited.
+[2020-05-08 14:25:07] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:07] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:07] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:07] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:07] Unknown shader cache type, ignoring.
+
+
+[2020-05-08 14:25:23] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-08 14:25:23] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-08 14:25:23] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:23] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-08 14:25:23] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-08 14:25:24] Unknown shader cache type, ignoring.
+[2020-05-08 14:25:24] Found 0 current buckets:
+[2020-05-08 14:26:37] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-08 14:26:40] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-08 14:26:44] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-08 14:26:46] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-08 14:26:49] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-08 16:17:40] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-08 16:17:40] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-08 16:17:44] AppID 322330 exited.
+[2020-05-08 16:17:44] Unknown shader cache type, ignoring.
+[2020-05-08 21:19:26] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-08 22:22:15] AppID 322330 exited.
+[2020-05-08 22:22:15] Unknown shader cache type, ignoring.
+[2020-05-08 22:22:15] AppID 644560 exited.
+[2020-05-08 22:22:15] AppID 998930 exited.
+[2020-05-08 22:22:15] AppID 1281800 exited.
+[2020-05-08 22:22:15] AppID 219740 exited.
+[2020-05-08 22:22:15] AppID 909080 exited.
+[2020-05-08 22:22:15] Unknown shader cache type, ignoring.
+[2020-05-08 22:22:15] Unknown shader cache type, ignoring.
+[2020-05-08 22:22:15] Unknown shader cache type, ignoring.
+[2020-05-08 22:22:15] Unknown shader cache type, ignoring.
+[2020-05-08 22:22:15] Unknown shader cache type, ignoring.
+
+
+[2020-05-09 10:28:59] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-09 10:28:59] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-09 10:28:59] Unknown shader cache type, ignoring.
+[2020-05-09 10:29:00] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-09 10:29:00] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-09 10:29:00] Unknown shader cache type, ignoring.
+[2020-05-09 10:29:01] Found 0 current buckets:
+
+
+[2020-05-09 10:37:47] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-09 10:37:47] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-09 10:37:48] Unknown shader cache type, ignoring.
+[2020-05-09 10:37:48] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-09 10:37:48] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-09 10:37:50] Unknown shader cache type, ignoring.
+[2020-05-09 10:37:51] Found 0 current buckets:
+[2020-05-09 10:40:07] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:10] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:14] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:14] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\863550
+[2020-05-09 10:40:17] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:21] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:29] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:45] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-09 10:40:45] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\441380
+[2020-05-09 10:41:13] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-09 10:41:43] [AppID 826480] SetupShaderCacheEnvironment called.
+[2020-05-09 10:41:43] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\826480
+[2020-05-09 22:52:41] AppID 441380 exited.
+[2020-05-09 22:52:41] AppID 998930 exited.
+[2020-05-09 22:52:41] AppID 644560 exited.
+[2020-05-09 22:52:41] AppID 863550 exited.
+[2020-05-09 22:52:41] AppID 219740 exited.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] AppID 826480 exited.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] AppID 322330 exited.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] AppID 1281800 exited.
+[2020-05-09 22:52:41] AppID 909080 exited.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+[2020-05-09 22:52:41] Unknown shader cache type, ignoring.
+
+
+[2020-05-10 10:32:49] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 10:32:49] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 10:32:50] Unknown shader cache type, ignoring.
+[2020-05-10 10:32:50] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 10:32:50] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 10:32:50] Unknown shader cache type, ignoring.
+[2020-05-10 10:32:51] Found 0 current buckets:
+[2020-05-10 10:39:39] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:02] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:06] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:08] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:11] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:13] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:19] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-10 10:40:49] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-10 10:41:04] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-10 13:43:15] AppID 322330 exited.
+[2020-05-10 13:43:15] AppID 219740 exited.
+[2020-05-10 13:43:15] AppID 1281800 exited.
+[2020-05-10 13:43:15] AppID 441380 exited.
+[2020-05-10 13:43:15] AppID 644560 exited.
+[2020-05-10 13:43:15] AppID 863550 exited.
+[2020-05-10 13:43:15] AppID 909080 exited.
+[2020-05-10 13:43:15] AppID 998930 exited.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:15] Unknown shader cache type, ignoring.
+
+
+[2020-05-10 13:43:41] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:43:41] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:43:42] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:42] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:43:42] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:43:42] Unknown shader cache type, ignoring.
+[2020-05-10 13:43:43] Found 0 current buckets:
+
+
+[2020-05-10 13:47:35] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:47:35] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:47:35] Unknown shader cache type, ignoring.
+[2020-05-10 13:47:36] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:47:36] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:47:36] Unknown shader cache type, ignoring.
+[2020-05-10 13:47:37] Found 0 current buckets:
+
+
+[2020-05-10 13:48:37] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:48:37] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:48:37] Unknown shader cache type, ignoring.
+[2020-05-10 13:48:38] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:48:38] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:48:38] Unknown shader cache type, ignoring.
+[2020-05-10 13:48:39] Found 0 current buckets:
+
+
+[2020-05-10 13:52:09] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:52:09] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 13:52:09] Unknown shader cache type, ignoring.
+[2020-05-10 13:52:10] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:52:10] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 13:52:10] Unknown shader cache type, ignoring.
+[2020-05-10 13:52:11] Found 0 current buckets:
+
+
+[2020-05-10 14:04:07] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 14:04:07] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 14:04:07] Unknown shader cache type, ignoring.
+[2020-05-10 14:04:07] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 14:04:07] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 14:04:08] Unknown shader cache type, ignoring.
+[2020-05-10 14:04:08] Found 0 current buckets:
+[2020-05-10 14:05:51] [AppID 958260] SetupShaderCacheEnvironment called.
+[2020-05-10 14:05:51] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\958260
+[2020-05-10 14:05:55] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-10 14:05:57] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:00] [AppID 838380] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:00] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\838380
+[2020-05-10 14:06:05] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:08] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:11] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:13] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:16] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:20] [AppID 1122750] SetupShaderCacheEnvironment called.
+[2020-05-10 14:06:20] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\1122750
+[2020-05-10 14:06:39] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-10 14:07:21] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-10 16:55:06] AppID 219740 exited.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] AppID 1122750 exited.
+[2020-05-10 16:55:06] AppID 998930 exited.
+[2020-05-10 16:55:06] AppID 1281800 exited.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] AppID 441380 exited.
+[2020-05-10 16:55:06] AppID 644560 exited.
+[2020-05-10 16:55:06] AppID 863550 exited.
+[2020-05-10 16:55:06] AppID 838380 exited.
+[2020-05-10 16:55:06] AppID 909080 exited.
+[2020-05-10 16:55:06] AppID 958260 exited.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+[2020-05-10 16:55:06] Unknown shader cache type, ignoring.
+
+
+[2020-05-10 16:57:29] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 16:57:29] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 16:57:29] Unknown shader cache type, ignoring.
+[2020-05-10 16:57:30] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 16:57:30] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 16:57:31] Unknown shader cache type, ignoring.
+[2020-05-10 16:57:32] Found 0 current buckets:
+
+
+[2020-05-10 17:00:42] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 17:00:42] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 17:00:42] Unknown shader cache type, ignoring.
+[2020-05-10 17:00:43] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 17:00:43] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 17:00:43] Unknown shader cache type, ignoring.
+[2020-05-10 17:00:43] Found 0 current buckets:
+
+
+[2020-05-10 17:06:05] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 17:06:05] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 17:06:05] Unknown shader cache type, ignoring.
+[2020-05-10 17:06:06] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 17:06:06] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 17:06:06] Unknown shader cache type, ignoring.
+[2020-05-10 17:06:07] Found 0 current buckets:
+[2020-05-10 17:07:07] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-10 17:07:31] AppID 322330 exited.
+[2020-05-10 17:07:31] Unknown shader cache type, ignoring.
+
+
+[2020-05-10 17:32:05] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 17:32:05] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 17:32:06] Unknown shader cache type, ignoring.
+[2020-05-10 17:32:06] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 17:32:06] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 17:32:06] Unknown shader cache type, ignoring.
+[2020-05-10 17:32:07] Found 0 current buckets:
+
+
+[2020-05-10 18:27:12] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 18:27:12] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 18:27:13] Unknown shader cache type, ignoring.
+[2020-05-10 18:27:13] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 18:27:13] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 18:27:14] Unknown shader cache type, ignoring.
+[2020-05-10 18:27:14] Found 0 current buckets:
+[2020-05-10 18:28:48] [AppID 322330] SetupShaderCacheEnvironment called.
+
+
+[2020-05-10 18:29:19] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 18:29:19] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-10 18:29:19] Unknown shader cache type, ignoring.
+[2020-05-10 18:29:20] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 18:29:20] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-10 18:29:20] Unknown shader cache type, ignoring.
+[2020-05-10 18:29:20] Found 0 current buckets:
+[2020-05-10 18:30:07] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-10 18:30:39] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-10 18:30:42] [AppID 838380] SetupShaderCacheEnvironment called.
+[2020-05-10 18:30:45] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-10 18:30:51] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-10 18:30:54] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-10 18:30:57] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-10 18:31:09] [AppID 1076280] SetupShaderCacheEnvironment called.
+[2020-05-10 18:31:09] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\1076280
+[2020-05-10 18:31:12] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-10 18:31:14] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-10 18:31:29] [AppID 826480] SetupShaderCacheEnvironment called.
+[2020-05-10 20:56:03] [AppID 826480] SetupShaderCacheEnvironment called.
+[2020-05-10 22:24:55] AppID 826480 exited.
+[2020-05-10 22:24:55] AppID 1281800 exited.
+[2020-05-10 22:24:55] AppID 1076280 exited.
+[2020-05-10 22:24:55] AppID 998930 exited.
+[2020-05-10 22:24:55] AppID 644560 exited.
+[2020-05-10 22:24:55] AppID 863550 exited.
+[2020-05-10 22:24:55] AppID 219740 exited.
+[2020-05-10 22:24:55] AppID 838380 exited.
+[2020-05-10 22:24:55] AppID 909080 exited.
+[2020-05-10 22:24:55] AppID 322330 exited.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+[2020-05-10 22:24:55] Unknown shader cache type, ignoring.
+
+
+[2020-05-11 10:51:43] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 10:51:44] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 10:51:44] Unknown shader cache type, ignoring.
+[2020-05-11 10:51:44] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 10:51:44] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 10:51:45] Unknown shader cache type, ignoring.
+[2020-05-11 10:51:45] Found 0 current buckets:
+
+
+[2020-05-11 11:01:46] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 11:01:46] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 11:01:46] Unknown shader cache type, ignoring.
+[2020-05-11 11:01:47] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 11:01:47] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 11:01:47] Unknown shader cache type, ignoring.
+[2020-05-11 11:01:47] Found 0 current buckets:
+[2020-05-11 11:05:20] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-11 11:05:47] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-11 11:05:49] [AppID 332950] SetupShaderCacheEnvironment called.
+[2020-05-11 11:05:49] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\332950
+[2020-05-11 11:05:52] [AppID 838380] SetupShaderCacheEnvironment called.
+[2020-05-11 11:05:54] [AppID 921590] SetupShaderCacheEnvironment called.
+[2020-05-11 11:05:54] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\921590
+[2020-05-11 11:05:57] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-11 11:06:06] [AppID 974470] SetupShaderCacheEnvironment called.
+[2020-05-11 11:06:06] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\974470
+[2020-05-11 11:06:09] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-11 11:06:10] AppID 974470 exited.
+[2020-05-11 11:06:10] Unknown shader cache type, ignoring.
+[2020-05-11 11:06:15] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-11 11:06:18] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-11 11:06:22] [AppID 1076280] SetupShaderCacheEnvironment called.
+[2020-05-11 11:06:28] [AppID 1122750] SetupShaderCacheEnvironment called.
+[2020-05-11 11:14:29] AppID 974470 exited.
+[2020-05-11 11:14:29] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:54] AppID 332950 exited.
+[2020-05-11 11:43:54] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:54] AppID 219740 exited.
+[2020-05-11 11:43:54] AppID 909080 exited.
+[2020-05-11 11:43:54] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:54] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] AppID 838380 exited.
+[2020-05-11 11:43:56] AppID 322330 exited.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] AppID 1122750 exited.
+[2020-05-11 11:43:56] AppID 1076280 exited.
+[2020-05-11 11:43:56] AppID 998930 exited.
+[2020-05-11 11:43:56] AppID 1281800 exited.
+[2020-05-11 11:43:56] AppID 863550 exited.
+[2020-05-11 11:43:56] AppID 921590 exited.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 11:43:56] Unknown shader cache type, ignoring.
+[2020-05-11 12:29:54] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:26] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:29] [AppID 332950] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:33] [AppID 838380] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:35] [AppID 921590] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:39] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:45] [AppID 974470] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:48] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-11 12:30:53] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-11 12:31:05] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-11 12:31:08] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-11 12:31:10] [AppID 1076280] SetupShaderCacheEnvironment called.
+[2020-05-11 12:31:13] [AppID 1122750] SetupShaderCacheEnvironment called.
+[2020-05-11 12:31:39] [AppID 826480] SetupShaderCacheEnvironment called.
+[2020-05-11 12:31:43] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\644560
+[2020-05-11 13:33:18] AppID 644560 exited.
+[2020-05-11 13:33:18] Unknown shader cache type, ignoring.
+[2020-05-11 13:38:58] AppID 644560 exited.
+[2020-05-11 13:38:58] Unknown shader cache type, ignoring.
+[2020-05-11 13:40:03] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-11 13:40:28] [AppID 958260] SetupShaderCacheEnvironment called.
+[2020-05-11 13:55:39] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\862690
+[2020-05-11 13:59:47] AppID 862690 exited.
+[2020-05-11 13:59:47] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] AppID 998930 exited.
+[2020-05-11 14:00:25] AppID 441380 exited.
+[2020-05-11 14:00:25] AppID 863550 exited.
+[2020-05-11 14:00:25] AppID 974470 exited.
+[2020-05-11 14:00:25] AppID 219740 exited.
+[2020-05-11 14:00:25] AppID 921590 exited.
+[2020-05-11 14:00:25] AppID 838380 exited.
+[2020-05-11 14:00:25] AppID 332950 exited.
+[2020-05-11 14:00:25] AppID 909080 exited.
+[2020-05-11 14:00:25] AppID 322330 exited.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] AppID 958260 exited.
+[2020-05-11 14:00:25] AppID 644560 exited.
+[2020-05-11 14:00:25] AppID 826480 exited.
+[2020-05-11 14:00:25] AppID 1122750 exited.
+[2020-05-11 14:00:25] AppID 1076280 exited.
+[2020-05-11 14:00:25] AppID 1281800 exited.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:25] Unknown shader cache type, ignoring.
+
+
+[2020-05-11 14:00:38] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 14:00:38] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 14:00:39] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:39] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 14:00:39] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 14:00:40] Unknown shader cache type, ignoring.
+[2020-05-11 14:00:40] Found 0 current buckets:
+[2020-05-11 14:10:14] AppID 974470 exited.
+[2020-05-11 14:10:14] Unknown shader cache type, ignoring.
+
+
+[2020-05-11 17:58:37] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 17:58:37] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-11 17:58:37] Unknown shader cache type, ignoring.
+[2020-05-11 17:58:38] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 17:58:38] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-11 17:58:38] Unknown shader cache type, ignoring.
+[2020-05-11 17:58:39] Found 0 current buckets:
+[2020-05-11 17:59:22] [AppID 480] SetupShaderCacheEnvironment called.
+[2020-05-11 17:59:22] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\480
+[2020-05-11 17:59:28] AppID 480 exited.
+[2020-05-11 17:59:28] Unknown shader cache type, ignoring.
+[2020-05-11 17:59:29] [AppID 958260] SetupShaderCacheEnvironment called.
+[2020-05-11 17:59:45] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-11 17:59:54] [AppID 826480] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:19] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:22] [AppID 332950] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:27] [AppID 838380] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:29] [AppID 921590] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:32] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:37] [AppID 974470] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:41] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:47] [AppID 862690] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:50] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:52] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:56] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-11 18:00:59] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-11 18:01:02] [AppID 1076280] SetupShaderCacheEnvironment called.
+[2020-05-11 18:01:12] [AppID 1122750] SetupShaderCacheEnvironment called.
+[2020-05-11 18:01:25] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-11 18:01:37] [AppID 1122750] SetupShaderCacheEnvironment called.
+
+
+[2020-05-12 10:28:05] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 10:28:05] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 10:28:05] Unknown shader cache type, ignoring.
+[2020-05-12 10:28:05] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 10:28:05] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 10:28:06] Unknown shader cache type, ignoring.
+[2020-05-12 10:28:06] Found 0 current buckets:
+
+
+[2020-05-12 13:26:40] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 13:26:40] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 13:26:40] Unknown shader cache type, ignoring.
+[2020-05-12 13:26:41] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 13:26:41] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 13:26:41] Unknown shader cache type, ignoring.
+[2020-05-12 13:26:42] Found 0 current buckets:
+[2020-05-12 14:01:38] AppID 644560 exited.
+[2020-05-12 14:01:38] Unknown shader cache type, ignoring.
+[2020-05-12 14:27:53] AppID 998930 exited.
+[2020-05-12 14:27:53] Unknown shader cache type, ignoring.
+
+
+[2020-05-12 17:00:13] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 17:00:13] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 17:00:13] Unknown shader cache type, ignoring.
+[2020-05-12 17:00:14] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 17:00:14] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 17:00:14] Unknown shader cache type, ignoring.
+[2020-05-12 17:00:15] Found 0 current buckets:
+
+
+[2020-05-12 17:09:14] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 17:09:14] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-12 17:09:15] Unknown shader cache type, ignoring.
+[2020-05-12 17:09:15] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 17:09:15] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-12 17:09:16] Unknown shader cache type, ignoring.
+[2020-05-12 17:09:16] Found 0 current buckets:
+[2020-05-12 22:16:25] AppID 644560 exited.
+[2020-05-12 22:16:25] Unknown shader cache type, ignoring.
+[2020-05-12 22:38:49] AppID 909080 exited.
+[2020-05-12 22:38:49] Unknown shader cache type, ignoring.
+
+
+[2020-05-13 12:05:43] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-13 12:05:43] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-13 12:05:43] Unknown shader cache type, ignoring.
+[2020-05-13 12:05:44] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-13 12:05:44] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-13 12:05:44] Unknown shader cache type, ignoring.
+[2020-05-13 12:05:45] Found 0 current buckets:
+
+
+[2020-05-14 09:47:07] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-14 09:47:07] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-14 09:47:07] Unknown shader cache type, ignoring.
+[2020-05-14 09:47:08] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-14 09:47:08] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-14 09:47:08] Unknown shader cache type, ignoring.
+[2020-05-14 09:47:09] Found 0 current buckets:
+[2020-05-14 09:47:48] [AppID 322330] SetupShaderCacheEnvironment called.
+[2020-05-14 09:47:48] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\322330
+[2020-05-14 09:48:27] [AppID 909080] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:30] [AppID 332950] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:32] [AppID 838380] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:34] [AppID 921590] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:36] [AppID 219740] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:41] [AppID 974470] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:43] [AppID 863550] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:46] [AppID 862690] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:49] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:52] [AppID 441380] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:55] [AppID 1281800] SetupShaderCacheEnvironment called.
+[2020-05-14 09:48:58] [AppID 998930] SetupShaderCacheEnvironment called.
+[2020-05-14 09:49:00] [AppID 1076280] SetupShaderCacheEnvironment called.
+[2020-05-14 09:49:02] [AppID 1122750] SetupShaderCacheEnvironment called.
+[2020-05-14 09:49:44] [AppID 958260] SetupShaderCacheEnvironment called.
+[2020-05-14 09:50:02] [AppID 826480] SetupShaderCacheEnvironment called.
+[2020-05-14 20:40:39] AppID 826480 exited.
+[2020-05-14 20:40:39] AppID 958260 exited.
+[2020-05-14 20:40:39] AppID 1122750 exited.
+[2020-05-14 20:40:39] AppID 1076280 exited.
+[2020-05-14 20:40:39] AppID 998930 exited.
+[2020-05-14 20:40:39] AppID 1281800 exited.
+[2020-05-14 20:40:39] AppID 441380 exited.
+[2020-05-14 20:40:39] AppID 644560 exited.
+[2020-05-14 20:40:39] AppID 862690 exited.
+[2020-05-14 20:40:39] AppID 863550 exited.
+[2020-05-14 20:40:39] AppID 974470 exited.
+[2020-05-14 20:40:39] AppID 219740 exited.
+[2020-05-14 20:40:39] AppID 921590 exited.
+[2020-05-14 20:40:39] AppID 838380 exited.
+[2020-05-14 20:40:39] AppID 332950 exited.
+[2020-05-14 20:40:39] AppID 909080 exited.
+[2020-05-14 20:40:39] AppID 322330 exited.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+[2020-05-14 20:40:39] Unknown shader cache type, ignoring.
+
+
+[2020-05-14 20:53:44] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-14 20:53:44] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-14 20:53:45] Unknown shader cache type, ignoring.
+[2020-05-14 20:53:45] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-14 20:53:45] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-14 20:53:45] Unknown shader cache type, ignoring.
+[2020-05-14 20:53:46] Found 0 current buckets:
+
+
+[2020-05-14 21:51:36] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-14 21:51:36] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-14 21:51:37] Unknown shader cache type, ignoring.
+[2020-05-14 21:51:37] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-14 21:51:37] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-14 21:51:37] Unknown shader cache type, ignoring.
+[2020-05-14 21:51:38] Found 0 current buckets:
+
+
+[2020-05-16 14:50:48] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-16 14:50:48] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-16 14:50:48] Unknown shader cache type, ignoring.
+[2020-05-16 14:50:49] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-16 14:50:49] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-16 14:50:49] Unknown shader cache type, ignoring.
+[2020-05-16 14:50:50] Found 0 current buckets:
+
+
+[2020-05-16 14:56:11] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-16 14:56:11] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-16 14:56:11] Unknown shader cache type, ignoring.
+[2020-05-16 14:56:12] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-16 14:56:12] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-16 14:56:12] Unknown shader cache type, ignoring.
+[2020-05-16 14:56:12] Found 0 current buckets:
+
+
+[2020-05-19 09:33:16] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-19 09:33:16] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-19 09:33:17] Unknown shader cache type, ignoring.
+[2020-05-19 09:33:17] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-19 09:33:17] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-19 09:33:18] Unknown shader cache type, ignoring.
+[2020-05-19 09:33:18] Found 0 current buckets:
+
+
+[2020-05-20 18:58:43] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-20 18:58:43] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-20 18:58:43] Unknown shader cache type, ignoring.
+[2020-05-20 18:58:44] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-20 18:58:44] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-20 18:58:44] Unknown shader cache type, ignoring.
+[2020-05-20 18:58:45] Found 0 current buckets:
+
+
+[2020-05-21 12:28:35] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-21 12:28:35] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-21 12:28:36] Unknown shader cache type, ignoring.
+[2020-05-21 12:28:36] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-21 12:28:36] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-21 12:28:36] Unknown shader cache type, ignoring.
+[2020-05-21 12:28:37] Found 0 current buckets:
+[2020-05-21 19:24:50] AppID 644560 exited.
+[2020-05-21 19:24:50] Unknown shader cache type, ignoring.
+
+
+[2020-05-21 21:16:11] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-21 21:16:11] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-21 21:16:12] Unknown shader cache type, ignoring.
+[2020-05-21 21:16:12] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-21 21:16:12] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-21 21:16:13] Unknown shader cache type, ignoring.
+[2020-05-21 21:16:13] Found 0 current buckets:
+[2020-05-21 21:16:34] AppID 644560 exited.
+[2020-05-21 21:16:34] Unknown shader cache type, ignoring.
+[2020-05-21 21:16:57] AppID 644560 exited.
+[2020-05-21 21:16:57] Unknown shader cache type, ignoring.
+[2020-05-21 21:17:47] AppID 644560 exited.
+[2020-05-21 21:17:47] Unknown shader cache type, ignoring.
+[2020-05-21 21:20:58] AppID 909080 exited.
+[2020-05-21 21:20:58] Unknown shader cache type, ignoring.
+[2020-05-21 21:21:52] AppID 998930 exited.
+[2020-05-21 21:21:52] Unknown shader cache type, ignoring.
+[2020-05-21 21:31:28] AppID 862690 exited.
+[2020-05-21 21:31:28] Unknown shader cache type, ignoring.
+
+
+[2020-05-22 10:15:49] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-22 10:15:49] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-22 10:15:50] Unknown shader cache type, ignoring.
+[2020-05-22 10:15:50] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-22 10:15:50] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-22 10:15:50] Unknown shader cache type, ignoring.
+[2020-05-22 10:15:51] Found 0 current buckets:
+[2020-05-22 10:21:54] AppID 322330 exited.
+[2020-05-22 10:21:54] Unknown shader cache type, ignoring.
+[2020-05-22 19:13:48] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\530210
+[2020-05-22 19:26:58] AppID 530210 exited.
+[2020-05-22 19:26:58] Unknown shader cache type, ignoring.
+
+
+[2020-05-23 07:14:51] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-23 07:14:51] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-23 07:14:51] Unknown shader cache type, ignoring.
+[2020-05-23 07:14:52] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-23 07:14:52] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-23 07:14:52] Unknown shader cache type, ignoring.
+[2020-05-23 07:14:53] Found 0 current buckets:
+
+
+[2020-05-23 10:15:46] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-23 10:15:46] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-23 10:15:46] Unknown shader cache type, ignoring.
+[2020-05-23 10:15:47] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-23 10:15:47] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-23 10:15:47] Unknown shader cache type, ignoring.
+[2020-05-23 10:15:47] Found 0 current buckets:
+[2020-05-23 10:16:56] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\950460
+[2020-05-23 10:18:24] AppID 950460 exited.
+[2020-05-23 10:18:24] Unknown shader cache type, ignoring.
+[2020-05-23 10:20:02] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\579110
+[2020-05-23 10:20:23] AppID 909080 exited.
+[2020-05-23 10:20:23] Unknown shader cache type, ignoring.
+[2020-05-23 10:20:28] AppID 579110 exited.
+[2020-05-23 10:20:28] Unknown shader cache type, ignoring.
+[2020-05-23 10:23:38] AppID 1281800 exited.
+[2020-05-23 10:23:38] Unknown shader cache type, ignoring.
+[2020-05-23 10:25:29] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\308600
+[2020-05-23 10:26:59] AppID 308600 exited.
+[2020-05-23 10:26:59] Unknown shader cache type, ignoring.
+[2020-05-23 10:27:32] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1258080
+[2020-05-23 10:29:31] AppID 1258080 exited.
+[2020-05-23 10:29:31] Unknown shader cache type, ignoring.
+[2020-05-23 10:34:21] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1122750
+[2020-05-23 10:35:32] AppID 1122750 exited.
+[2020-05-23 10:35:32] Unknown shader cache type, ignoring.
+[2020-05-23 10:35:50] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\444930
+[2020-05-23 10:36:22] AppID 444930 exited.
+[2020-05-23 10:36:22] Unknown shader cache type, ignoring.
+[2020-05-23 10:37:13] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\332950
+[2020-05-23 10:38:11] AppID 332950 exited.
+[2020-05-23 10:38:11] Unknown shader cache type, ignoring.
+[2020-05-23 10:41:18] Abandoned all bucket tracking progress for AppID 332950.
+[2020-05-23 10:41:18] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\332950.
+[2020-05-23 10:41:25] Abandoned all bucket tracking progress for AppID 579110.
+[2020-05-23 10:41:25] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\579110.
+[2020-05-23 10:41:31] Abandoned all bucket tracking progress for AppID 1258080.
+[2020-05-23 10:41:31] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1258080.
+[2020-05-23 10:41:34] Abandoned all bucket tracking progress for AppID 862690.
+[2020-05-23 10:41:34] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\862690.
+[2020-05-23 10:41:45] Abandoned all bucket tracking progress for AppID 308600.
+[2020-05-23 10:41:45] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\308600.
+[2020-05-23 10:41:53] Abandoned all bucket tracking progress for AppID 444930.
+[2020-05-23 10:41:53] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\444930.
+
+
+[2020-05-25 07:51:37] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-25 07:51:37] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-25 07:51:37] Unknown shader cache type, ignoring.
+[2020-05-25 07:51:38] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-25 07:51:38] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-25 07:51:38] Unknown shader cache type, ignoring.
+[2020-05-25 07:51:39] Found 0 current buckets:
+[2020-05-25 07:52:18] Abandoned all bucket tracking progress for AppID 950460.
+[2020-05-25 07:52:18] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\950460.
+[2020-05-25 10:27:37] Abandoned all bucket tracking progress for AppID 826480.
+[2020-05-25 10:27:37] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\826480.
+[2020-05-25 10:27:42] Abandoned all bucket tracking progress for AppID 644560.
+[2020-05-25 10:27:42] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\644560.
+[2020-05-25 10:27:52] Abandoned all bucket tracking progress for AppID 1122750.
+[2020-05-25 10:27:52] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1122750.
+[2020-05-25 10:27:58] Abandoned all bucket tracking progress for AppID 1281800.
+[2020-05-25 10:27:58] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1281800.
+[2020-05-25 10:28:05] Abandoned all bucket tracking progress for AppID 909080.
+[2020-05-25 10:28:05] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\909080.
+[2020-05-25 10:28:11] Abandoned all bucket tracking progress for AppID 322330.
+[2020-05-25 10:28:11] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\322330.
+[2020-05-25 18:09:50] Abandoned all bucket tracking progress for AppID 530210.
+[2020-05-25 18:09:50] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\530210.
+[2020-05-25 18:09:54] Abandoned all bucket tracking progress for AppID 304430.
+[2020-05-25 18:09:54] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\304430.
+
+
+[2020-05-26 11:52:21] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-26 11:52:21] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-26 11:52:21] Unknown shader cache type, ignoring.
+[2020-05-26 11:52:22] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-26 11:52:22] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-26 11:52:22] Unknown shader cache type, ignoring.
+[2020-05-26 11:52:23] Found 0 current buckets:
+[2020-05-26 12:23:50] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1224230
+[2020-05-26 12:24:11] AppID 1224230 exited.
+[2020-05-26 12:24:11] Unknown shader cache type, ignoring.
+[2020-05-26 12:24:25] AppID 1224230 exited.
+[2020-05-26 12:24:25] Unknown shader cache type, ignoring.
+[2020-05-26 12:45:20] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1048290
+[2020-05-26 13:11:48] AppID 1048290 exited.
+[2020-05-26 13:11:48] Unknown shader cache type, ignoring.
+[2020-05-26 13:27:41] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\1248980
+[2020-05-26 14:04:50] AppID 1248980 exited.
+[2020-05-26 14:04:50] Unknown shader cache type, ignoring.
+[2020-05-26 14:10:24] AppID 1224230 exited.
+[2020-05-26 14:10:24] Unknown shader cache type, ignoring.
+[2020-05-26 19:24:09] AppID 1048290 exited.
+[2020-05-26 19:24:09] Unknown shader cache type, ignoring.
+
+
+[2020-05-27 09:33:07] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-27 09:33:07] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-27 09:33:07] Unknown shader cache type, ignoring.
+[2020-05-27 09:33:08] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-27 09:33:08] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-27 09:33:08] Unknown shader cache type, ignoring.
+[2020-05-27 09:33:09] Found 0 current buckets:
+[2020-05-27 12:27:48] AppID 644560 exited.
+[2020-05-27 12:27:48] Unknown shader cache type, ignoring.
+[2020-05-27 12:27:53] AppID 644560 exited.
+[2020-05-27 12:27:53] Unknown shader cache type, ignoring.
+[2020-05-27 12:28:24] AppID 644560 exited.
+[2020-05-27 12:28:24] Unknown shader cache type, ignoring.
+[2020-05-27 12:28:29] Abandoned all bucket tracking progress for AppID 644560.
+[2020-05-27 12:28:29] Deleting shader cache library folder C:\Program Files (x86)\Steam\steamapps\shadercache\644560.
+[2020-05-27 12:45:05] Creating shader cache directory: C:\Program Files (x86)\Steam\steamapps\shadercache\4217560886
+[2020-05-27 18:38:13] AppID 1048290 exited.
+[2020-05-27 18:38:13] Unknown shader cache type, ignoring.
+[2020-05-27 19:29:37] AppID 1048290 exited.
+[2020-05-27 19:29:37] Unknown shader cache type, ignoring.
+[2020-05-27 20:06:52] Creating shader cache directory: E:\SteamLibrary\steamapps\shadercache\730
+[2020-05-27 21:08:20] AppID 730 exited.
+[2020-05-27 21:08:20] Unknown shader cache type, ignoring.
+
+
+[2020-05-27 21:25:01] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-27 21:25:01] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-27 21:25:01] Unknown shader cache type, ignoring.
+[2020-05-27 21:25:01] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-27 21:25:01] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-27 21:25:02] Unknown shader cache type, ignoring.
+[2020-05-27 21:25:02] Found 0 current buckets:
+[2020-05-27 21:40:12] AppID 730 exited.
+[2020-05-27 21:40:12] Unknown shader cache type, ignoring.
+
+
+[2020-05-28 09:23:05] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-28 09:23:05] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-28 09:23:05] Unknown shader cache type, ignoring.
+[2020-05-28 09:23:06] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-28 09:23:06] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-28 09:23:06] Unknown shader cache type, ignoring.
+[2020-05-28 09:23:07] Found 0 current buckets:
+[2020-05-28 10:04:31] AppID 730 exited.
+[2020-05-28 10:04:31] Unknown shader cache type, ignoring.
+
+
+[2020-05-28 18:50:37] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-28 18:50:37] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-28 18:50:37] Unknown shader cache type, ignoring.
+[2020-05-28 18:50:38] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-28 18:50:38] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-28 18:50:38] Unknown shader cache type, ignoring.
+[2020-05-28 18:50:39] Found 0 current buckets:
+[2020-05-28 19:17:36] AppID 730 exited.
+[2020-05-28 19:17:36] Unknown shader cache type, ignoring.
+[2020-05-28 20:23:21] AppID 730 exited.
+[2020-05-28 20:23:21] Unknown shader cache type, ignoring.
+
+
+[2020-05-29 10:58:31] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-29 10:58:31] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-29 10:58:32] Unknown shader cache type, ignoring.
+[2020-05-29 10:58:32] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-29 10:58:32] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-29 10:58:33] Unknown shader cache type, ignoring.
+[2020-05-29 10:58:33] Found 0 current buckets:
+[2020-05-29 11:16:39] AppID 730 exited.
+[2020-05-29 11:16:39] Unknown shader cache type, ignoring.
+[2020-05-29 13:14:44] AppID 1048290 exited.
+[2020-05-29 13:14:44] Unknown shader cache type, ignoring.
+[2020-05-29 18:06:34] Abandoned all bucket tracking progress for AppID 730.
+[2020-05-29 18:06:34] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\730.
+[2020-05-29 22:05:31] Abandoned all bucket tracking progress for AppID 1224230.
+[2020-05-29 22:05:31] Deleting shader cache library folder E:\SteamLibrary\steamapps\shadercache\1224230.
+
+
+[2020-05-30 20:46:11] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-30 20:46:11] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-05-30 20:46:12] Unknown shader cache type, ignoring.
+[2020-05-30 20:46:12] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-30 20:46:12] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-05-30 20:46:13] Unknown shader cache type, ignoring.
+[2020-05-30 20:46:13] Found 0 current buckets:
+
+
+[2020-06-02 20:45:41] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-02 20:45:41] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-02 20:45:42] Unknown shader cache type, ignoring.
+[2020-06-02 20:45:42] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-02 20:45:42] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-02 20:45:43] Unknown shader cache type, ignoring.
+[2020-06-02 20:45:43] Found 0 current buckets:
+[2020-06-02 20:50:16] Creating shader cache directory: F:\SteamLibrary\steamapps\shadercache\644560
+[2020-06-02 20:50:23] AppID 644560 exited.
+[2020-06-02 20:50:23] Unknown shader cache type, ignoring.
+[2020-06-02 20:50:30] AppID 644560 exited.
+[2020-06-02 20:50:30] Unknown shader cache type, ignoring.
+[2020-06-02 20:50:44] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-06-02 22:02:31] AppID 644560 exited.
+[2020-06-02 22:02:31] Unknown shader cache type, ignoring.
+
+
+[2020-06-02 22:04:30] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-02 22:04:30] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-02 22:04:30] Unknown shader cache type, ignoring.
+[2020-06-02 22:04:31] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-02 22:04:31] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-02 22:04:31] Unknown shader cache type, ignoring.
+[2020-06-02 22:04:31] Found 0 current buckets:
+[2020-06-02 22:05:27] AppID 644560 exited.
+[2020-06-02 22:05:27] Unknown shader cache type, ignoring.
+[2020-06-02 22:05:41] [AppID 644560] SetupShaderCacheEnvironment called.
+[2020-06-02 22:27:27] AppID 644560 exited.
+[2020-06-02 22:27:27] Unknown shader cache type, ignoring.
+
+
+[2020-06-03 11:30:30] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-03 11:30:30] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-03 11:30:31] Unknown shader cache type, ignoring.
+[2020-06-03 11:30:31] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-03 11:30:31] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-03 11:30:32] Unknown shader cache type, ignoring.
+[2020-06-03 11:30:32] Found 0 current buckets:
+[2020-06-03 11:31:04] Abandoned all bucket tracking progress for AppID 644560.
+[2020-06-03 11:31:04] Deleting shader cache library folder F:\SteamLibrary\steamapps\shadercache\644560.
+
+
+[2020-06-03 18:02:35] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-03 18:02:35] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-03 18:02:35] Unknown shader cache type, ignoring.
+[2020-06-03 18:02:36] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-03 18:02:36] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-03 18:02:36] Unknown shader cache type, ignoring.
+[2020-06-03 18:02:36] Found 0 current buckets:
+
+
+[2020-06-05 20:51:29] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-05 20:51:29] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-05 20:51:30] Unknown shader cache type, ignoring.
+[2020-06-05 20:51:31] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-05 20:51:31] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-05 20:51:31] Unknown shader cache type, ignoring.
+[2020-06-05 20:51:32] Found 0 current buckets:
+
+
+[2020-06-07 13:03:12] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-07 13:03:12] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-07 13:03:13] Unknown shader cache type, ignoring.
+[2020-06-07 13:03:13] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-07 13:03:13] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-07 13:03:14] Unknown shader cache type, ignoring.
+[2020-06-07 13:03:14] Found 0 current buckets:
+
+
+[2020-06-07 13:04:17] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-07 13:04:17] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_64
+[2020-06-07 13:04:18] Unknown shader cache type, ignoring.
+[2020-06-07 13:04:18] Attempting to find current bucket; temporary dir: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-07 13:04:18] Creating shader cache directory: C:\Program Files (x86)\Steam\shader_cache_temp_dir_gl_32
+[2020-06-07 13:04:18] Unknown shader cache type, ignoring.
+[2020-06-07 13:04:19] Found 0 current buckets:

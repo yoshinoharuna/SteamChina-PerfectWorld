@@ -1,0 +1,1472 @@
+
+
+[2020-04-30 14:35:09] Startup - updater built May 21 2018 14:21:49
+[2020-04-30 14:35:09] Verifying installation...
+[2020-04-30 14:35:09] Unable to read and verify install manifest C:\Program Files (x86)\Steam\package\steam_client_win32.installed
+[2020-04-30 14:35:09] Verification complete
+[2020-04-30 14:35:09] Downloading Update...
+[2020-04-30 14:35:09] Checking for available update...
+[2020-04-30 14:35:16] Package file tenfoot_misc_all.zip.1ca83d76835b4613170f5cead778b176b11f2b0c missing or incorrect size
+[2020-04-30 14:35:16] Package file tenfoot_dicts_all.zip.33245b7d523f68418283e93b0572508fa127ee8f missing or incorrect size
+[2020-04-30 14:35:16] Package file tenfoot_fonts_all.zip.vz.7673e4cd32b6752bc621d8bc1a7118a9af19b64a_12077027 missing or incorrect size
+[2020-04-30 14:35:16] Package file tenfoot_ambientsounds_all.zip.89b80bcfdd11b2b99257ddbbdc374e2df54e2738 missing or incorrect size
+[2020-04-30 14:35:16] Package file tenfoot_sounds_all.zip.vz.ffef2b2fc386819a842ea79484b966a937c2ca7e_1209792 missing or incorrect size
+[2020-04-30 14:35:16] Package file tenfoot_images_all.zip.vz.4e9a101f45f3ed44e5465ce414b5349c3548c920_31340363 missing or incorrect size
+[2020-04-30 14:35:16] Package file tenfoot_all.zip.vz.f66ba979e16c762a73382e0a1def3ca50596dca2_2654042 missing or incorrect size
+[2020-04-30 14:35:16] Package file friendsui_all.zip.vz.6a4fe8edc9b21a433910cc7c17133516c8c852e6_2222267 missing or incorrect size
+[2020-04-30 14:35:16] Package file steamui_websrc_all.zip.vz.0129e38ddc70f98e9cfd1d2b2077517afb536759_2135558 missing or incorrect size
+[2020-04-30 14:35:16] Package file resources_misc_all.zip.vz.4a1fa88d21b005b67a41a9a0fc6044ae1fa46791_2225211 missing or incorrect size
+[2020-04-30 14:35:16] Package file resources_music_all.zip.vz.7a62e15083d4a65668f0d1fa58ad8c1b99fb5ace_3708050 missing or incorrect size
+[2020-04-30 14:35:16] Package file resources_hidpi_all.zip.vz.66e6d0c4758df08e7a52aeca5d75f7cf2d243268_56612 missing or incorrect size
+[2020-04-30 14:35:16] Package file resources_all.zip.vz.64d7384e19f02a34b754573b0ed046612a8b6fb3_1304057 missing or incorrect size
+[2020-04-30 14:35:16] Package file strings_en_all.zip.153743e1069b73b126f310ed01448a1ff02a17ef missing or incorrect size
+[2020-04-30 14:35:16] Package file strings_all.zip.vz.7f75228c17fa6724221f6ec87e6361064fccde80_2161568 missing or incorrect size
+[2020-04-30 14:35:16] Package file public_all.zip.vz.442f94eaff22f32e07533b7573b52a04f5d2e6b9_982556 missing or incorrect size
+[2020-04-30 14:35:16] Package file bins_codecs_win32.zip.vz.568108d774a036c6684c0a1f78a33ec2e8044b4c_2547912 missing or incorrect size
+[2020-04-30 14:35:16] Package file bins_misc_win32.zip.vz.92a71e88f46fc04b2f9e67f57ec66e7b8f0be287_12178666 missing or incorrect size
+[2020-04-30 14:35:16] Package file bins_cef_win32_win7.zip.vz.a3f38f63f78aa1a123b79302387345dc849b869a_58825169 missing or incorrect size
+[2020-04-30 14:35:16] Package file bins_webhelpers_win32_win7.zip.vz.a4ffd84be927ef0813cf20e9727a474f6efe8150_1630001 missing or incorrect size
+[2020-04-30 14:35:16] Package file bins_win32.zip.vz.ef9fe344f4e86785924100361f4d32e4b6404461_18956661 missing or incorrect size
+[2020-04-30 14:35:16] Package file steam_win32.zip.vz.b1221d7ab9239b391d991654552c043165495925_1259361 missing or incorrect size
+[2020-04-30 14:35:17] Downloading update (5,565 of 186,536 KB)...
+[2020-04-30 14:35:17] Downloading update (7,907 of 186,536 KB)...
+[2020-04-30 14:35:17] Downloading update (10,457 of 186,536 KB)...
+[2020-04-30 14:35:18] Downloading update (13,041 of 186,536 KB)...
+[2020-04-30 14:35:18] Downloading update (15,302 of 186,536 KB)...
+[2020-04-30 14:35:18] Downloading update (17,877 of 186,536 KB)...
+[2020-04-30 14:35:18] Downloading update (20,201 of 186,536 KB)...
+[2020-04-30 14:35:19] Downloading update (22,877 of 186,536 KB)...
+[2020-04-30 14:35:19] Downloading update (25,502 of 186,536 KB)...
+[2020-04-30 14:35:19] Downloading update (27,827 of 186,536 KB)...
+[2020-04-30 14:35:20] Downloading update (30,423 of 186,536 KB)...
+[2020-04-30 14:35:20] Downloading update (33,105 of 186,536 KB)...
+[2020-04-30 14:35:20] Downloading update (36,352 of 186,536 KB)...
+[2020-04-30 14:35:20] Downloading update (39,168 of 186,536 KB)...
+[2020-04-30 14:35:21] Downloading update (41,769 of 186,536 KB)...
+[2020-04-30 14:35:21] Downloading update (44,675 of 186,536 KB)...
+[2020-04-30 14:35:21] Downloading update (46,871 of 186,536 KB)...
+[2020-04-30 14:35:22] Downloading update (49,360 of 186,536 KB)...
+[2020-04-30 14:35:22] Downloading update (51,704 of 186,536 KB)...
+[2020-04-30 14:35:22] Downloading update (54,398 of 186,536 KB)...
+[2020-04-30 14:35:22] Downloading update (57,170 of 186,536 KB)...
+[2020-04-30 14:35:23] Downloading update (59,576 of 186,536 KB)...
+[2020-04-30 14:35:23] Downloading update (61,945 of 186,536 KB)...
+[2020-04-30 14:35:23] Downloading update (64,679 of 186,536 KB)...
+[2020-04-30 14:35:23] Downloading update (67,153 of 186,536 KB)...
+[2020-04-30 14:35:24] Downloading update (69,588 of 186,536 KB)...
+[2020-04-30 14:35:24] Downloading update (72,105 of 186,536 KB)...
+[2020-04-30 14:35:24] Downloading update (74,501 of 186,536 KB)...
+[2020-04-30 14:35:25] Downloading update (76,688 of 186,536 KB)...
+[2020-04-30 14:35:25] Downloading update (79,561 of 186,536 KB)...
+[2020-04-30 14:35:25] Downloading update (82,145 of 186,536 KB)...
+[2020-04-30 14:35:25] Downloading update (84,392 of 186,536 KB)...
+[2020-04-30 14:35:26] Downloading update (86,750 of 186,536 KB)...
+[2020-04-30 14:35:26] Downloading update (89,259 of 186,536 KB)...
+[2020-04-30 14:35:26] Downloading update (91,378 of 186,536 KB)...
+[2020-04-30 14:35:26] Downloading update (93,809 of 186,536 KB)...
+[2020-04-30 14:35:27] Downloading update (96,173 of 186,536 KB)...
+[2020-04-30 14:35:27] Downloading update (98,744 of 186,536 KB)...
+[2020-04-30 14:35:27] Downloading update (100,945 of 186,536 KB)...
+[2020-04-30 14:35:27] Downloading update (103,446 of 186,536 KB)...
+[2020-04-30 14:35:28] Downloading update (106,145 of 186,536 KB)...
+[2020-04-30 14:35:28] Downloading update (108,651 of 186,536 KB)...
+[2020-04-30 14:35:28] Downloading update (111,212 of 186,536 KB)...
+[2020-04-30 14:35:29] Downloading update (113,431 of 186,536 KB)...
+[2020-04-30 14:35:29] Downloading update (116,156 of 186,536 KB)...
+[2020-04-30 14:35:29] Downloading update (118,611 of 186,536 KB)...
+[2020-04-30 14:35:29] Downloading update (121,139 of 186,536 KB)...
+[2020-04-30 14:35:30] Downloading update (123,352 of 186,536 KB)...
+[2020-04-30 14:35:30] Downloading update (126,004 of 186,536 KB)...
+[2020-04-30 14:35:30] Downloading update (128,008 of 186,536 KB)...
+[2020-04-30 14:35:30] Downloading update (130,947 of 186,536 KB)...
+[2020-04-30 14:35:31] Downloading update (133,384 of 186,536 KB)...
+[2020-04-30 14:35:31] Downloading update (135,857 of 186,536 KB)...
+[2020-04-30 14:35:31] Downloading update (138,138 of 186,536 KB)...
+[2020-04-30 14:35:31] Downloading update (140,761 of 186,536 KB)...
+[2020-04-30 14:35:32] Downloading update (142,912 of 186,536 KB)...
+[2020-04-30 14:35:32] Downloading update (147,099 of 186,536 KB)...
+[2020-04-30 14:35:32] Downloading update (149,178 of 186,536 KB)...
+[2020-04-30 14:35:33] Downloading update (151,268 of 186,536 KB)...
+[2020-04-30 14:35:33] Downloading update (153,361 of 186,536 KB)...
+[2020-04-30 14:35:33] Downloading update (155,546 of 186,536 KB)...
+[2020-04-30 14:35:34] Downloading update (157,936 of 186,536 KB)...
+[2020-04-30 14:35:34] Downloading update (160,371 of 186,536 KB)...
+[2020-04-30 14:35:34] Downloading update (162,749 of 186,536 KB)...
+[2020-04-30 14:35:34] Downloading update (164,780 of 186,536 KB)...
+[2020-04-30 14:35:35] Downloading update (167,331 of 186,536 KB)...
+[2020-04-30 14:35:35] Downloading update (169,881 of 186,536 KB)...
+[2020-04-30 14:35:35] Downloading update (172,336 of 186,536 KB)...
+[2020-04-30 14:35:35] Downloading update (174,717 of 186,536 KB)...
+[2020-04-30 14:35:36] Downloading update (177,478 of 186,536 KB)...
+[2020-04-30 14:35:36] Downloading update (179,997 of 186,536 KB)...
+[2020-04-30 14:35:36] Downloading update (182,810 of 186,536 KB)...
+[2020-04-30 14:35:37] Downloading update (185,483 of 186,536 KB)...
+[2020-04-30 14:35:37] Downloading update (186,536 of 186,536 KB)...
+[2020-04-30 14:35:37] Download Complete.
+[2020-04-30 14:35:37] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-04-30 14:35:37] Extracting package...
+[2020-04-30 14:35:47] Installing update...
+[2020-04-30 14:35:54] Committing NTFS transaction (0 non-transactional backup files)
+[2020-04-30 14:35:55] Cleaning up...
+[2020-04-30 14:35:55] Update complete, launching...
+[2020-04-30 14:35:55] Shutdown
+
+
+[2020-04-30 14:35:56] Startup - updater built Apr 27 2020 14:57:22
+[2020-04-30 14:35:56] Verifying installation...
+[2020-04-30 14:35:57] Verification complete
+[2020-04-30 14:35:59] Background update loop checking for update. . .
+[2020-04-30 14:35:59] Checking for available updates...
+[2020-04-30 14:35:59] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-04-30 14:36:07] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-04-30 14:36:07] Nothing to do
+[2020-04-30 20:40:34] Shutdown
+
+
+[2020-04-30 20:51:44] Startup - updater built Apr 27 2020 14:57:22
+[2020-04-30 20:51:44] Verifying installation...
+[2020-04-30 20:51:45] Verification complete
+[2020-04-30 20:51:47] Background update loop checking for update. . .
+[2020-04-30 20:51:47] Checking for available update...
+[2020-04-30 20:51:47] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-04-30 20:51:53] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-04-30 20:51:53] Nothing to do
+
+
+[2020-05-01 10:03:50] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-01 10:03:50] Checking for update on startup
+[2020-05-01 10:03:50] Checking for available update...
+[2020-05-01 10:03:50] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-01 10:03:57] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-01 10:03:57] Nothing to do
+[2020-05-01 10:03:57] Verifying installation...
+[2020-05-01 10:03:57] Performing checksum verification of executable files
+[2020-05-01 10:03:58] Verification complete
+[2020-05-01 10:04:00] Background update loop checking for update. . .
+[2020-05-01 10:04:00] Checking for available update...
+[2020-05-01 10:04:00] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-01 10:04:01] Download skipped by HTTP 304 Not Modified
+[2020-05-01 10:04:01] Nothing to do
+[2020-05-01 17:20:41] Background update loop checking for update. . .
+[2020-05-01 17:20:41] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-01 17:20:41] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-01 17:20:41] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-01 17:20:42] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-01 17:20:42] failed to load manifest from buffer.
+[2020-05-01 17:20:42] Failed to load manifest
+[2020-05-01 17:20:42] Error: Download failed: http error 0
+[2020-05-01 21:59:40] Shutdown
+
+
+[2020-05-02 12:10:23] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-02 12:10:23] Verifying installation...
+[2020-05-02 12:10:24] Verification complete
+[2020-05-02 12:10:26] Background update loop checking for update. . .
+[2020-05-02 12:10:26] Checking for available update...
+[2020-05-02 12:10:26] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-02 12:10:32] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-02 12:10:32] Nothing to do
+[2020-05-02 20:12:23] Background update loop checking for update. . .
+[2020-05-02 20:12:23] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-02 20:12:23] Download skipped by HTTP 304 Not Modified
+[2020-05-02 20:12:23] Nothing to do
+[2020-05-02 22:30:28] Shutdown
+
+
+[2020-05-03 10:56:46] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-03 10:56:46] Verifying installation...
+[2020-05-03 10:56:47] Verification complete
+[2020-05-03 10:56:49] Background update loop checking for update. . .
+[2020-05-03 10:56:49] Checking for available update...
+[2020-05-03 10:56:49] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-03 10:56:55] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-03 10:56:55] Nothing to do
+[2020-05-03 15:39:06] Shutdown
+
+
+[2020-05-03 15:49:30] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-03 15:49:31] Verifying installation...
+[2020-05-03 15:49:32] Verification complete
+[2020-05-03 15:49:34] Background update loop checking for update. . .
+[2020-05-03 15:49:34] Checking for available update...
+[2020-05-03 15:49:34] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-03 15:49:37] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-03 15:49:37] Nothing to do
+
+
+[2020-05-03 15:52:28] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-03 15:52:28] Checking for update on startup
+[2020-05-03 15:52:28] Checking for available update...
+[2020-05-03 15:52:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-03 15:52:35] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-03 15:52:35] Nothing to do
+[2020-05-03 15:52:35] Verifying installation...
+[2020-05-03 15:52:35] Performing checksum verification of executable files
+[2020-05-03 15:52:36] Verification complete
+[2020-05-03 15:52:38] Background update loop checking for update. . .
+[2020-05-03 15:52:38] Checking for available update...
+[2020-05-03 15:52:38] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-03 15:52:38] Download skipped by HTTP 304 Not Modified
+[2020-05-03 15:52:38] Nothing to do
+[2020-05-03 16:35:37] Shutdown
+
+
+[2020-05-03 16:37:59] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-03 16:37:59] Verifying installation...
+[2020-05-03 16:38:00] Verification complete
+[2020-05-03 16:38:01] Background update loop checking for update. . .
+[2020-05-03 16:38:01] Checking for available update...
+[2020-05-03 16:38:01] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-03 16:38:04] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-03 16:38:04] Nothing to do
+[2020-05-03 21:42:12] Shutdown
+
+
+[2020-05-04 10:58:54] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-04 10:58:54] Verifying installation...
+[2020-05-04 10:58:54] Verification complete
+[2020-05-04 10:58:56] Background update loop checking for update. . .
+[2020-05-04 10:58:56] Checking for available update...
+[2020-05-04 10:58:56] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-04 10:59:03] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-04 10:59:03] Nothing to do
+[2020-05-04 18:51:54] Background update loop checking for update. . .
+[2020-05-04 18:51:54] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-04 18:51:55] Download skipped by HTTP 304 Not Modified
+[2020-05-04 18:51:55] Nothing to do
+[2020-05-04 19:45:05] Shutdown
+
+
+[2020-05-04 21:53:27] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-04 21:53:27] Verifying installation...
+[2020-05-04 21:53:28] Verification complete
+[2020-05-04 21:53:30] Background update loop checking for update. . .
+[2020-05-04 21:53:30] Checking for available update...
+[2020-05-04 21:53:30] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-04 21:53:36] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-04 21:53:36] Nothing to do
+
+
+[2020-05-05 11:48:22] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-05 11:48:22] Checking for update on startup
+[2020-05-05 11:48:22] Checking for available update...
+[2020-05-05 11:48:22] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-05 11:48:30] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-05 11:48:30] Nothing to do
+[2020-05-05 11:48:30] Verifying installation...
+[2020-05-05 11:48:30] Performing checksum verification of executable files
+[2020-05-05 11:48:31] Verification complete
+[2020-05-05 11:48:32] Background update loop checking for update. . .
+[2020-05-05 11:48:32] Checking for available update...
+[2020-05-05 11:48:32] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-05 11:48:33] Download skipped by HTTP 304 Not Modified
+[2020-05-05 11:48:33] Nothing to do
+[2020-05-05 18:20:43] Background update loop checking for update. . .
+[2020-05-05 18:20:43] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-05 18:20:43] Download skipped by HTTP 304 Not Modified
+[2020-05-05 18:20:43] Nothing to do
+[2020-05-05 22:43:17] Shutdown
+
+
+[2020-05-06 10:56:42] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-06 10:56:42] Verifying installation...
+[2020-05-06 10:56:43] Verification complete
+[2020-05-06 10:56:44] Background update loop checking for update. . .
+[2020-05-06 10:56:44] Checking for available update...
+[2020-05-06 10:56:44] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-06 10:56:51] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-06 10:56:51] Nothing to do
+[2020-05-06 11:12:45] Shutdown
+
+
+[2020-05-06 11:12:45] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-06 11:12:45] 正在验证安装...
+[2020-05-06 11:12:46] Verification complete
+[2020-05-06 11:12:47] Background update loop checking for update. . .
+[2020-05-06 11:12:47] 正在检查可用更新...
+[2020-05-06 11:12:47] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-06 11:12:53] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-06 11:12:53] Nothing to do
+[2020-05-06 11:16:00] Shutdown
+
+
+[2020-05-06 11:16:09] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-06 11:16:09] 正在验证安装...
+[2020-05-06 11:16:09] Verification complete
+[2020-05-06 11:16:11] Background update loop checking for update. . .
+[2020-05-06 11:16:11] 正在检查可用更新...
+[2020-05-06 11:16:11] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-06 11:16:17] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-06 11:16:17] Nothing to do
+[2020-05-06 18:14:29] Background update loop checking for update. . .
+[2020-05-06 18:14:29] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-06 18:14:29] Download skipped by HTTP 304 Not Modified
+[2020-05-06 18:14:29] Nothing to do
+[2020-05-06 23:02:42] Shutdown
+
+
+[2020-05-07 11:46:07] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-07 11:46:07] Verifying installation...
+[2020-05-07 11:46:08] Verification complete
+[2020-05-07 11:46:10] Background update loop checking for update. . .
+[2020-05-07 11:46:10] Checking for available update...
+[2020-05-07 11:46:10] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-07 11:46:16] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-07 11:46:16] Nothing to do
+
+
+[2020-05-07 18:18:22] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-07 18:18:22] Checking for update on startup
+[2020-05-07 18:18:22] 正在检查可用更新...
+[2020-05-07 18:18:22] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-07 18:18:29] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-07 18:18:29] Nothing to do
+[2020-05-07 18:18:29] 正在验证安装...
+[2020-05-07 18:18:29] Performing checksum verification of executable files
+[2020-05-07 18:18:30] Verification complete
+[2020-05-07 18:18:31] Background update loop checking for update. . .
+[2020-05-07 18:18:31] 正在检查可用更新...
+[2020-05-07 18:18:31] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-07 18:18:32] Download skipped by HTTP 304 Not Modified
+[2020-05-07 18:18:32] Nothing to do
+[2020-05-07 22:26:08] Shutdown
+
+
+[2020-05-08 09:49:18] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-08 09:49:18] Verifying installation...
+[2020-05-08 09:49:19] Verification complete
+[2020-05-08 09:49:21] Background update loop checking for update. . .
+[2020-05-08 09:49:21] Checking for available update...
+[2020-05-08 09:49:21] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-08 09:49:27] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-08 09:49:27] Nothing to do
+
+
+[2020-05-08 14:25:13] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-08 14:25:13] Checking for update on startup
+[2020-05-08 14:25:13] 正在检查可用更新...
+[2020-05-08 14:25:13] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-08 14:25:20] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-08 14:25:20] Nothing to do
+[2020-05-08 14:25:20] 正在验证安装...
+[2020-05-08 14:25:20] Performing checksum verification of executable files
+[2020-05-08 14:25:21] Verification complete
+[2020-05-08 14:25:23] Background update loop checking for update. . .
+[2020-05-08 14:25:23] 正在检查可用更新...
+[2020-05-08 14:25:23] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-08 14:25:23] Download skipped by HTTP 304 Not Modified
+[2020-05-08 14:25:23] Nothing to do
+[2020-05-08 20:34:19] Background update loop checking for update. . .
+[2020-05-08 20:34:19] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-08 20:34:19] Download skipped by HTTP 304 Not Modified
+[2020-05-08 20:34:19] Nothing to do
+[2020-05-08 22:22:17] Shutdown
+
+
+[2020-05-09 10:28:56] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-09 10:28:56] Verifying installation...
+[2020-05-09 10:28:57] Verification complete
+[2020-05-09 10:28:59] Background update loop checking for update. . .
+[2020-05-09 10:28:59] Checking for available update...
+[2020-05-09 10:28:59] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-09 10:29:05] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-09 10:29:05] Nothing to do
+
+
+[2020-05-09 10:37:38] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-09 10:37:38] Checking for update on startup
+[2020-05-09 10:37:38] 正在检查可用更新...
+[2020-05-09 10:37:38] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-09 10:37:45] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-09 10:37:45] Nothing to do
+[2020-05-09 10:37:45] 正在验证安装...
+[2020-05-09 10:37:45] Performing checksum verification of executable files
+[2020-05-09 10:37:46] Verification complete
+[2020-05-09 10:37:47] Background update loop checking for update. . .
+[2020-05-09 10:37:47] 正在检查可用更新...
+[2020-05-09 10:37:47] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-09 10:37:47] Download skipped by HTTP 304 Not Modified
+[2020-05-09 10:37:47] Nothing to do
+[2020-05-09 17:40:31] Background update loop checking for update. . .
+[2020-05-09 17:40:31] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-09 17:40:31] Download skipped by HTTP 304 Not Modified
+[2020-05-09 17:40:31] Nothing to do
+[2020-05-09 23:03:43] Shutdown
+
+
+[2020-05-10 10:32:46] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 10:32:46] Verifying installation...
+[2020-05-10 10:32:47] Verification complete
+[2020-05-10 10:32:49] Background update loop checking for update. . .
+[2020-05-10 10:32:49] Checking for available update...
+[2020-05-10 10:32:49] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 10:32:54] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 10:32:54] Nothing to do
+[2020-05-10 13:43:18] Shutdown
+
+
+[2020-05-10 13:43:40] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 13:43:41] 正在验证安装...
+[2020-05-10 13:43:41] Verification complete
+[2020-05-10 13:43:41] Background update loop checking for update. . .
+[2020-05-10 13:43:41] 正在检查可用更新...
+[2020-05-10 13:43:41] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 13:43:49] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 13:43:49] Nothing to do
+[2020-05-10 13:45:25] Shutdown
+
+
+[2020-05-10 13:47:33] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 13:47:33] 正在验证安装...
+[2020-05-10 13:47:34] Verification complete
+[2020-05-10 13:47:35] Background update loop checking for update. . .
+[2020-05-10 13:47:35] 正在检查可用更新...
+[2020-05-10 13:47:35] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 13:47:41] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 13:47:41] Nothing to do
+[2020-05-10 13:48:24] Shutdown
+
+
+[2020-05-10 13:48:35] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 13:48:35] 正在验证安装...
+[2020-05-10 13:48:36] Verification complete
+[2020-05-10 13:48:37] Background update loop checking for update. . .
+[2020-05-10 13:48:37] 正在检查可用更新...
+[2020-05-10 13:48:37] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 13:48:43] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 13:48:43] Nothing to do
+[2020-05-10 13:52:02] Shutdown
+
+
+[2020-05-10 13:52:08] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 13:52:08] 正在验证安装...
+[2020-05-10 13:52:09] Verification complete
+[2020-05-10 13:52:09] Background update loop checking for update. . .
+[2020-05-10 13:52:09] 正在检查可用更新...
+[2020-05-10 13:52:09] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 13:52:16] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 13:52:16] Nothing to do
+[2020-05-10 13:53:00] Shutdown
+
+
+[2020-05-10 14:04:05] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 14:04:05] 正在验证安装...
+[2020-05-10 14:04:05] Verification complete
+[2020-05-10 14:04:07] Background update loop checking for update. . .
+[2020-05-10 14:04:07] 正在检查可用更新...
+[2020-05-10 14:04:07] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 14:04:13] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 14:04:13] Nothing to do
+
+
+[2020-05-10 16:57:26] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 16:57:26] Verifying installation...
+[2020-05-10 16:57:27] Verification complete
+[2020-05-10 16:57:38] Background update loop checking for update. . .
+[2020-05-10 16:57:38] Checking for available update...
+[2020-05-10 16:57:38] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 16:57:45] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 16:57:45] Nothing to do
+[2020-05-10 16:58:19] Background update loop checking for update. . .
+[2020-05-10 16:58:19] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 16:58:20] Download skipped by HTTP 304 Not Modified
+[2020-05-10 16:58:20] Nothing to do
+
+
+[2020-05-10 17:00:32] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 17:00:32] Checking for update on startup
+[2020-05-10 17:00:32] Checking for available update...
+[2020-05-10 17:00:32] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 17:00:39] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 17:00:39] Nothing to do
+[2020-05-10 17:00:39] Verifying installation...
+[2020-05-10 17:00:39] Performing checksum verification of executable files
+[2020-05-10 17:00:40] Verification complete
+[2020-05-10 17:00:42] Background update loop checking for update. . .
+[2020-05-10 17:00:42] Checking for available update...
+[2020-05-10 17:00:42] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 17:00:42] Download skipped by HTTP 304 Not Modified
+[2020-05-10 17:00:42] Nothing to do
+
+
+[2020-05-10 17:05:55] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 17:05:55] Checking for update on startup
+[2020-05-10 17:05:55] Checking for available update...
+[2020-05-10 17:05:55] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 17:06:03] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 17:06:03] Nothing to do
+[2020-05-10 17:06:03] Verifying installation...
+[2020-05-10 17:06:03] Performing checksum verification of executable files
+[2020-05-10 17:06:03] Verification complete
+[2020-05-10 17:06:05] Background update loop checking for update. . .
+[2020-05-10 17:06:05] Checking for available update...
+[2020-05-10 17:06:05] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 17:06:05] Download skipped by HTTP 304 Not Modified
+[2020-05-10 17:06:05] Nothing to do
+[2020-05-10 17:30:03] Shutdown
+
+
+[2020-05-10 17:32:03] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 17:32:03] Verifying installation...
+[2020-05-10 17:32:03] Verification complete
+[2020-05-10 17:32:28] Background update loop checking for update. . .
+[2020-05-10 17:32:28] Checking for available update...
+[2020-05-10 17:32:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 17:32:36] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 17:32:36] Nothing to do
+[2020-05-10 17:32:45] Shutdown
+
+
+[2020-05-10 18:27:10] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 18:27:10] 正在验证安装...
+[2020-05-10 18:27:11] Verification complete
+[2020-05-10 18:27:13] Background update loop checking for update. . .
+[2020-05-10 18:27:13] 正在检查可用更新...
+[2020-05-10 18:27:13] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 18:27:19] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 18:27:19] Nothing to do
+
+
+[2020-05-10 18:29:10] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-10 18:29:10] Checking for update on startup
+[2020-05-10 18:29:10] 正在检查可用更新...
+[2020-05-10 18:29:10] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 18:29:17] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-10 18:29:17] Nothing to do
+[2020-05-10 18:29:17] 正在验证安装...
+[2020-05-10 18:29:17] Performing checksum verification of executable files
+[2020-05-10 18:29:17] Verification complete
+[2020-05-10 18:29:19] Background update loop checking for update. . .
+[2020-05-10 18:29:19] 正在检查可用更新...
+[2020-05-10 18:29:19] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-10 18:29:19] Download skipped by HTTP 304 Not Modified
+[2020-05-10 18:29:19] Nothing to do
+[2020-05-10 22:25:06] Shutdown
+
+
+[2020-05-11 10:51:41] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-11 10:51:41] Verifying installation...
+[2020-05-11 10:51:42] Verification complete
+[2020-05-11 10:51:44] Background update loop checking for update. . .
+[2020-05-11 10:51:44] Checking for available update...
+[2020-05-11 10:51:44] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 10:51:50] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-11 10:51:50] Nothing to do
+[2020-05-11 10:57:50] Background update loop checking for update. . .
+[2020-05-11 10:57:50] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 10:57:51] Download skipped by HTTP 304 Not Modified
+[2020-05-11 10:57:51] Nothing to do
+[2020-05-11 11:01:11] Background update loop checking for update. . .
+[2020-05-11 11:01:11] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 11:01:14] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 11:01:14] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 11:01:20] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 11:01:20] failed to load manifest from buffer.
+[2020-05-11 11:01:20] Failed to load manifest
+[2020-05-11 11:01:20] Error: Download failed: http error 0
+[2020-05-11 11:01:44] Shutdown
+
+
+[2020-05-11 11:01:45] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-11 11:01:45] 正在验证安装...
+[2020-05-11 11:01:45] Verification complete
+[2020-05-11 11:01:46] Background update loop checking for update. . .
+[2020-05-11 11:01:46] 正在检查可用更新...
+[2020-05-11 11:01:46] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 11:01:53] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-11 11:01:53] Nothing to do
+[2020-05-11 11:13:14] Background update loop checking for update. . .
+[2020-05-11 11:13:14] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 11:13:16] Download skipped by HTTP 304 Not Modified
+[2020-05-11 11:13:16] Nothing to do
+[2020-05-11 11:28:28] Background update loop checking for update. . .
+[2020-05-11 11:28:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 11:28:28] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 11:28:28] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 11:28:28] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 11:28:28] failed to load manifest from buffer.
+[2020-05-11 11:28:28] Failed to load manifest
+[2020-05-11 11:28:28] Error: Download failed: http error 0
+[2020-05-11 11:30:32] Background update loop checking for update. . .
+[2020-05-11 11:30:32] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 11:30:32] Download skipped by HTTP 304 Not Modified
+[2020-05-11 11:30:32] Nothing to do
+[2020-05-11 12:49:39] Background update loop checking for update. . .
+[2020-05-11 12:49:39] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 12:49:51] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:49:51] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 12:50:10] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:50:10] failed to load manifest from buffer.
+[2020-05-11 12:50:10] Failed to load manifest
+[2020-05-11 12:50:10] Error: Download failed: http error 0
+[2020-05-11 12:50:12] Background update loop checking for update. . .
+[2020-05-11 12:50:12] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 12:50:24] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:50:24] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 12:50:32] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:50:32] failed to load manifest from buffer.
+[2020-05-11 12:50:32] Failed to load manifest
+[2020-05-11 12:50:32] Error: Download failed: http error 0
+[2020-05-11 12:50:40] Background update loop checking for update. . .
+[2020-05-11 12:50:40] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 12:50:52] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:50:52] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 12:51:04] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:51:04] failed to load manifest from buffer.
+[2020-05-11 12:51:04] Failed to load manifest
+[2020-05-11 12:51:04] Error: Download failed: http error 0
+[2020-05-11 12:52:48] Background update loop checking for update. . .
+[2020-05-11 12:52:48] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 12:53:00] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:53:00] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 12:53:12] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 12:53:12] failed to load manifest from buffer.
+[2020-05-11 12:53:12] Failed to load manifest
+[2020-05-11 12:53:12] Error: Download failed: http error 0
+[2020-05-11 13:17:51] Background update loop checking for update. . .
+[2020-05-11 13:17:51] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 13:17:51] Download skipped by HTTP 304 Not Modified
+[2020-05-11 13:17:51] Nothing to do
+[2020-05-11 13:30:24] Background update loop checking for update. . .
+[2020-05-11 13:30:24] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 13:30:24] Download skipped by HTTP 304 Not Modified
+[2020-05-11 13:30:24] Nothing to do
+[2020-05-11 13:33:43] Background update loop checking for update. . .
+[2020-05-11 13:33:43] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 13:33:46] Download skipped by HTTP 304 Not Modified
+[2020-05-11 13:33:46] Nothing to do
+[2020-05-11 13:39:08] Background update loop checking for update. . .
+[2020-05-11 13:39:08] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 13:39:08] Download skipped by HTTP 304 Not Modified
+[2020-05-11 13:39:08] Nothing to do
+[2020-05-11 14:00:37] Shutdown
+
+
+[2020-05-11 14:00:37] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-11 14:00:37] 正在验证安装...
+[2020-05-11 14:00:38] Verification complete
+[2020-05-11 14:15:17] Background update loop checking for update. . .
+[2020-05-11 14:15:17] 正在检查可用更新...
+[2020-05-11 14:15:17] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 14:15:17] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-11 14:15:17] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-11 14:15:17] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-11 14:15:17] failed to load manifest from buffer.
+[2020-05-11 14:15:17] Failed to load manifest
+[2020-05-11 14:15:17] Error: Download failed: http error 0
+[2020-05-11 17:58:28] Background update loop checking for update. . .
+[2020-05-11 17:58:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 17:58:35] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-11 17:58:35] Nothing to do
+[2020-05-11 17:58:36] Shutdown
+
+
+[2020-05-11 17:58:36] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-11 17:58:36] 正在验证安装...
+[2020-05-11 17:58:36] Verification complete
+[2020-05-11 17:58:37] Background update loop checking for update. . .
+[2020-05-11 17:58:37] 正在检查可用更新...
+[2020-05-11 17:58:37] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 17:58:44] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-11 17:58:44] Nothing to do
+[2020-05-11 18:02:54] Background update loop checking for update. . .
+[2020-05-11 18:02:54] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 18:02:55] Download skipped by HTTP 304 Not Modified
+[2020-05-11 18:02:55] Nothing to do
+[2020-05-11 18:12:11] Background update loop checking for update. . .
+[2020-05-11 18:12:11] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-11 18:12:11] Download skipped by HTTP 304 Not Modified
+[2020-05-11 18:12:11] Nothing to do
+
+
+[2020-05-12 10:27:36] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-12 10:27:36] Checking for update on startup
+[2020-05-12 10:27:36] 正在检查可用更新...
+[2020-05-12 10:27:36] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 10:27:49] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-12 10:27:49] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-12 10:28:01] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-12 10:28:01] failed to load manifest from buffer.
+[2020-05-12 10:28:01] Failed to load manifest
+[2020-05-12 10:28:01] Error: Download failed: http error 0
+[2020-05-12 10:28:01] 正在验证安装...
+[2020-05-12 10:28:01] Performing checksum verification of executable files
+[2020-05-12 10:28:02] Verification complete
+[2020-05-12 10:28:05] Background update loop checking for update. . .
+[2020-05-12 10:28:05] 正在检查可用更新...
+[2020-05-12 10:28:05] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 10:28:17] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-12 10:28:17] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-12 10:28:18] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-12 10:28:18] failed to load manifest from buffer.
+[2020-05-12 10:28:18] Failed to load manifest
+[2020-05-12 10:28:18] Error: Download failed: http error 0
+[2020-05-12 10:28:28] Background update loop checking for update. . .
+[2020-05-12 10:28:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 10:28:28] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-12 10:28:28] Nothing to do
+[2020-05-12 10:32:13] Background update loop checking for update. . .
+[2020-05-12 10:32:13] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 10:32:14] Download skipped by HTTP 304 Not Modified
+[2020-05-12 10:32:14] Nothing to do
+[2020-05-12 10:32:33] Background update loop checking for update. . .
+[2020-05-12 10:32:33] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 10:32:33] Download skipped by HTTP 304 Not Modified
+[2020-05-12 10:32:33] Nothing to do
+[2020-05-12 13:23:01] Background update loop checking for update. . .
+[2020-05-12 13:23:01] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 13:23:01] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-12 13:23:01] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-12 13:23:01] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-12 13:23:01] failed to load manifest from buffer.
+[2020-05-12 13:23:01] Failed to load manifest
+[2020-05-12 13:23:01] Error: Download failed: http error 0
+[2020-05-12 13:26:06] Background update loop checking for update. . .
+[2020-05-12 13:26:06] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 13:26:06] Download skipped by HTTP 304 Not Modified
+[2020-05-12 13:26:06] Nothing to do
+[2020-05-12 13:26:36] Shutdown
+
+
+[2020-05-12 13:26:36] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-12 13:26:36] 正在验证安装...
+[2020-05-12 13:26:37] Verification complete
+[2020-05-12 13:26:40] Background update loop checking for update. . .
+[2020-05-12 13:26:40] 正在检查可用更新...
+[2020-05-12 13:26:40] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 13:26:40] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-12 13:26:40] Nothing to do
+[2020-05-12 13:26:40] Background update loop checking for update. . .
+[2020-05-12 13:26:40] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 13:26:41] Download skipped by HTTP 304 Not Modified
+[2020-05-12 13:26:41] Nothing to do
+
+
+[2020-05-12 17:00:11] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-12 17:00:11] Checking for update on startup
+[2020-05-12 17:00:11] 正在检查可用更新...
+[2020-05-12 17:00:11] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 17:00:11] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-12 17:00:11] Nothing to do
+[2020-05-12 17:00:11] 正在验证安装...
+[2020-05-12 17:00:11] Performing checksum verification of executable files
+[2020-05-12 17:00:12] Verification complete
+[2020-05-12 17:00:13] Background update loop checking for update. . .
+[2020-05-12 17:00:13] 正在检查可用更新...
+[2020-05-12 17:00:13] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 17:00:13] Download skipped by HTTP 304 Not Modified
+[2020-05-12 17:00:13] Nothing to do
+[2020-05-12 17:09:12] Shutdown
+
+
+[2020-05-12 17:09:12] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-12 17:09:12] 正在验证安装...
+[2020-05-12 17:09:13] Verification complete
+[2020-05-12 17:09:14] Background update loop checking for update. . .
+[2020-05-12 17:09:14] 正在检查可用更新...
+[2020-05-12 17:09:14] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 17:09:15] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-12 17:09:15] Nothing to do
+[2020-05-12 17:09:15] Background update loop checking for update. . .
+[2020-05-12 17:09:15] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-12 17:09:16] Download skipped by HTTP 304 Not Modified
+[2020-05-12 17:09:16] Nothing to do
+
+
+[2020-05-13 12:05:40] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-13 12:05:40] Checking for update on startup
+[2020-05-13 12:05:40] 正在检查可用更新...
+[2020-05-13 12:05:40] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-13 12:05:40] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-13 12:05:40] Nothing to do
+[2020-05-13 12:05:40] 正在验证安装...
+[2020-05-13 12:05:40] Performing checksum verification of executable files
+[2020-05-13 12:05:41] Verification complete
+[2020-05-13 12:05:43] Background update loop checking for update. . .
+[2020-05-13 12:05:43] 正在检查可用更新...
+[2020-05-13 12:05:43] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-13 12:05:43] Download skipped by HTTP 304 Not Modified
+[2020-05-13 12:05:43] Nothing to do
+[2020-05-13 12:05:43] Background update loop checking for update. . .
+[2020-05-13 12:05:43] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-13 12:05:43] Download skipped by HTTP 304 Not Modified
+[2020-05-13 12:05:43] Nothing to do
+[2020-05-13 16:38:59] Background update loop checking for update. . .
+[2020-05-13 16:38:59] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-13 16:38:59] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-13 16:38:59] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-13 16:38:59] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-13 16:38:59] failed to load manifest from buffer.
+[2020-05-13 16:38:59] Failed to load manifest
+[2020-05-13 16:38:59] Error: Download failed: http error 0
+[2020-05-13 16:41:28] Background update loop checking for update. . .
+[2020-05-13 16:41:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-13 16:41:40] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-13 16:41:40] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-13 16:41:52] Download failed: http error 0 (media.steampowered.com/client/steam_client_win32)
+[2020-05-13 16:41:52] failed to load manifest from buffer.
+[2020-05-13 16:41:52] Failed to load manifest
+[2020-05-13 16:41:52] Error: Download failed: http error 0
+[2020-05-13 22:36:33] Shutdown
+
+
+[2020-05-14 09:47:04] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-14 09:47:04] 正在验证安装...
+[2020-05-14 09:47:05] Verification complete
+[2020-05-14 09:47:07] Background update loop checking for update. . .
+[2020-05-14 09:47:07] 正在检查可用更新...
+[2020-05-14 09:47:07] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-14 09:47:13] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-14 09:47:13] Nothing to do
+[2020-05-14 16:33:33] Background update loop checking for update. . .
+[2020-05-14 16:33:33] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-14 16:33:33] Download skipped by HTTP 304 Not Modified
+[2020-05-14 16:33:33] Nothing to do
+[2020-05-14 20:41:06] Shutdown
+
+
+[2020-05-14 20:53:42] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-14 20:53:42] 正在验证安装...
+[2020-05-14 20:53:43] Verification complete
+[2020-05-14 20:53:44] Background update loop checking for update. . .
+[2020-05-14 20:53:44] 正在检查可用更新...
+[2020-05-14 20:53:44] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-14 20:53:50] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-14 20:53:50] Nothing to do
+[2020-05-14 21:51:34] Shutdown
+
+
+[2020-05-14 21:51:34] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-14 21:51:34] インストール状況を確認中...
+[2020-05-14 21:51:34] Verification complete
+[2020-05-14 21:51:36] Background update loop checking for update. . .
+[2020-05-14 21:51:36] 更新を確認中...
+[2020-05-14 21:51:36] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-14 21:51:42] Download skipped: /client/steam_client_win32 version 1588032389, installed version 1588032389
+[2020-05-14 21:51:42] Nothing to do
+[2020-05-14 22:22:41] Shutdown
+
+
+[2020-05-16 14:50:45] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-16 14:50:45] インストール状況を確認中...
+[2020-05-16 14:50:46] Verification complete
+[2020-05-16 14:50:48] Background update loop checking for update. . .
+[2020-05-16 14:50:48] 更新を確認中...
+[2020-05-16 14:50:48] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-16 14:50:54] Package file tenfoot_all.zip.vz.2407cc073f0ddb9ef7beed4ab74acc6f89a34589_2659735 missing or incorrect size
+[2020-05-16 14:50:54] Package file steamui_websrc_all.zip.vz.a2fc4e57bdd8f9a001162cea11b2f4dd606780a4_2262933 missing or incorrect size
+[2020-05-16 14:50:54] Package file strings_en_all.zip.f2fdf51e297c2b2722ed133bc5667a8c8a71794b missing or incorrect size
+[2020-05-16 14:50:54] Package file strings_all.zip.vz.35f1ac1a0945fefae73ca8e85e6afcadacf71170_2165381 missing or incorrect size
+[2020-05-16 14:50:54] Package file bins_misc_win32.zip.vz.a09acf1a2706ac92d5ac7ec9e9f8609cf31ea88e_12177998 missing or incorrect size
+[2020-05-16 14:50:54] Package file bins_cef_win32_win10-64.zip.vz.63c006f0406be6ce42230e48d24bff494e52872b_60759091 missing or incorrect size
+[2020-05-16 14:50:54] Package file bins_webhelpers_win32_win10-64.zip.vz.8751b0312d1aa29b3ed31b0982cd6389fcdf8581_2121711 missing or incorrect size
+[2020-05-16 14:50:54] Package file bins_win32.zip.vz.377232802f20d289d00e8ae191cfec7ab45417c8_18978662 missing or incorrect size
+[2020-05-16 14:50:54] Package file steam_win32_steamrow.zip.vz.37a5254015190eedf9e373f113d3e2193cbddc4e_1259595 missing or incorrect size
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/tenfoot_all.zip.vz.2407cc073f0ddb9ef7beed4ab74acc6f89a34589_2659735
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/steamui_websrc_all.zip.vz.a2fc4e57bdd8f9a001162cea11b2f4dd606780a4_2262933
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/strings_en_all.zip.f2fdf51e297c2b2722ed133bc5667a8c8a71794b
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/strings_all.zip.vz.35f1ac1a0945fefae73ca8e85e6afcadacf71170_2165381
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/bins_misc_win32.zip.vz.a09acf1a2706ac92d5ac7ec9e9f8609cf31ea88e_12177998
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/bins_cef_win32_win10-64.zip.vz.63c006f0406be6ce42230e48d24bff494e52872b_60759091
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/bins_webhelpers_win32_win10-64.zip.vz.8751b0312d1aa29b3ed31b0982cd6389fcdf8581_2121711
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/bins_win32.zip.vz.377232802f20d289d00e8ae191cfec7ab45417c8_18978662
+[2020-05-16 14:50:54] Add pending download: cdn.dota2.com.cn/client/steam_win32_steamrow.zip.vz.37a5254015190eedf9e373f113d3e2193cbddc4e_1259595
+[2020-05-16 14:50:54] 更新をダウンロード中（430 / 100,093 KB）...
+[2020-05-16 14:50:54] 更新をダウンロード中（1,948 / 100,093 KB）...
+[2020-05-16 14:50:54] 更新をダウンロード中（3,763 / 100,093 KB）...
+[2020-05-16 14:50:55] 更新をダウンロード中（5,629 / 100,093 KB）...
+[2020-05-16 14:50:55] 更新をダウンロード中（7,492 / 100,093 KB）...
+[2020-05-16 14:50:55] 更新をダウンロード中（9,338 / 100,093 KB）...
+[2020-05-16 14:50:56] 更新をダウンロード中（11,394 / 100,093 KB）...
+[2020-05-16 14:50:56] 更新をダウンロード中（13,174 / 100,093 KB）...
+[2020-05-16 14:50:56] 更新をダウンロード中（15,059 / 100,093 KB）...
+[2020-05-16 14:50:56] 更新をダウンロード中（16,894 / 100,093 KB）...
+[2020-05-16 14:50:57] 更新をダウンロード中（18,510 / 100,093 KB）...
+[2020-05-16 14:50:57] 更新をダウンロード中（20,459 / 100,093 KB）...
+[2020-05-16 14:50:57] 更新をダウンロード中（22,137 / 100,093 KB）...
+[2020-05-16 14:50:57] 更新をダウンロード中（24,203 / 100,093 KB）...
+[2020-05-16 14:50:58] 更新をダウンロード中（25,962 / 100,093 KB）...
+[2020-05-16 14:50:58] 更新をダウンロード中（27,637 / 100,093 KB）...
+[2020-05-16 14:50:58] 更新をダウンロード中（29,268 / 100,093 KB）...
+[2020-05-16 14:50:58] 更新をダウンロード中（31,397 / 100,093 KB）...
+[2020-05-16 14:50:59] 更新をダウンロード中（33,031 / 100,093 KB）...
+[2020-05-16 14:50:59] 更新をダウンロード中（34,485 / 100,093 KB）...
+[2020-05-16 14:50:59] 更新をダウンロード中（36,030 / 100,093 KB）...
+[2020-05-16 14:50:59] 更新をダウンロード中（37,416 / 100,093 KB）...
+[2020-05-16 14:51:00] 更新をダウンロード中（38,832 / 100,093 KB）...
+[2020-05-16 14:51:00] 更新をダウンロード中（40,304 / 100,093 KB）...
+[2020-05-16 14:51:00] 更新をダウンロード中（41,718 / 100,093 KB）...
+[2020-05-16 14:51:00] 更新をダウンロード中（43,069 / 100,093 KB）...
+[2020-05-16 14:51:01] 更新をダウンロード中（44,378 / 100,093 KB）...
+[2020-05-16 14:51:01] 更新をダウンロード中（45,692 / 100,093 KB）...
+[2020-05-16 14:51:01] 更新をダウンロード中（47,054 / 100,093 KB）...
+[2020-05-16 14:51:01] 更新をダウンロード中（48,646 / 100,093 KB）...
+[2020-05-16 14:51:02] 更新をダウンロード中（50,210 / 100,093 KB）...
+[2020-05-16 14:51:02] 更新をダウンロード中（51,648 / 100,093 KB）...
+[2020-05-16 14:51:02] 更新をダウンロード中（52,996 / 100,093 KB）...
+[2020-05-16 14:51:02] 更新をダウンロード中（53,634 / 100,093 KB）...
+[2020-05-16 14:51:03] 更新をダウンロード中（54,302 / 100,093 KB）...
+[2020-05-16 14:51:03] 更新をダウンロード中（55,365 / 100,093 KB）...
+[2020-05-16 14:51:03] 更新をダウンロード中（56,729 / 100,093 KB）...
+[2020-05-16 14:51:03] 更新をダウンロード中（58,260 / 100,093 KB）...
+[2020-05-16 14:51:04] 更新をダウンロード中（59,893 / 100,093 KB）...
+[2020-05-16 14:51:04] 更新をダウンロード中（61,271 / 100,093 KB）...
+[2020-05-16 14:51:04] 更新をダウンロード中（62,321 / 100,093 KB）...
+[2020-05-16 14:51:04] 更新をダウンロード中（63,407 / 100,093 KB）...
+[2020-05-16 14:51:05] 更新をダウンロード中（64,514 / 100,093 KB）...
+[2020-05-16 14:51:05] 更新をダウンロード中（65,800 / 100,093 KB）...
+[2020-05-16 14:51:05] 更新をダウンロード中（67,113 / 100,093 KB）...
+[2020-05-16 14:51:05] 更新をダウンロード中（68,561 / 100,093 KB）...
+[2020-05-16 14:51:06] 更新をダウンロード中（70,271 / 100,093 KB）...
+[2020-05-16 14:51:06] 更新をダウンロード中（71,745 / 100,093 KB）...
+[2020-05-16 14:51:06] 更新をダウンロード中（73,385 / 100,093 KB）...
+[2020-05-16 14:51:06] 更新をダウンロード中（74,572 / 100,093 KB）...
+[2020-05-16 14:51:07] 更新をダウンロード中（75,929 / 100,093 KB）...
+[2020-05-16 14:51:07] 更新をダウンロード中（77,204 / 100,093 KB）...
+[2020-05-16 14:51:07] 更新をダウンロード中（78,298 / 100,093 KB）...
+[2020-05-16 14:51:07] 更新をダウンロード中（79,288 / 100,093 KB）...
+[2020-05-16 14:51:08] 更新をダウンロード中（80,483 / 100,093 KB）...
+[2020-05-16 14:51:08] 更新をダウンロード中（81,645 / 100,093 KB）...
+[2020-05-16 14:51:08] 更新をダウンロード中（82,608 / 100,093 KB）...
+[2020-05-16 14:51:08] 更新をダウンロード中（83,850 / 100,093 KB）...
+[2020-05-16 14:51:09] 更新をダウンロード中（84,864 / 100,093 KB）...
+[2020-05-16 14:51:09] 更新をダウンロード中（85,601 / 100,093 KB）...
+[2020-05-16 14:51:09] 更新をダウンロード中（86,460 / 100,093 KB）...
+[2020-05-16 14:51:09] 更新をダウンロード中（87,475 / 100,093 KB）...
+[2020-05-16 14:51:10] 更新をダウンロード中（88,507 / 100,093 KB）...
+[2020-05-16 14:51:10] 更新をダウンロード中（89,338 / 100,093 KB）...
+[2020-05-16 14:51:10] 更新をダウンロード中（90,241 / 100,093 KB）...
+[2020-05-16 14:51:11] 更新をダウンロード中（91,742 / 100,093 KB）...
+[2020-05-16 14:51:11] 更新をダウンロード中（92,706 / 100,093 KB）...
+[2020-05-16 14:51:11] 更新をダウンロード中（93,626 / 100,093 KB）...
+[2020-05-16 14:51:12] 更新をダウンロード中（94,616 / 100,093 KB）...
+[2020-05-16 14:51:12] 更新をダウンロード中（95,553 / 100,093 KB）...
+[2020-05-16 14:51:12] 更新をダウンロード中（96,475 / 100,093 KB）...
+[2020-05-16 14:51:12] 更新をダウンロード中（97,350 / 100,093 KB）...
+[2020-05-16 14:51:13] 更新をダウンロード中（98,576 / 100,093 KB）...
+[2020-05-16 14:51:13] 更新をダウンロード中（99,910 / 100,093 KB）...
+[2020-05-16 14:51:14] 更新をダウンロード中（100,093 / 100,093 KB）...
+[2020-05-16 14:51:14] ダウンロードが終了しました。
+[2020-05-16 14:55:48] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-05-16 14:55:58] Shutdown
+
+
+[2020-05-16 14:55:58] Startup - updater built Apr 27 2020 14:57:22
+[2020-05-16 14:55:58] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-05-16 14:55:58] Found pending update
+[2020-05-16 14:55:58] 更新をインストール中...
+[2020-05-16 14:55:59] パッケージを抽出中...
+[2020-05-16 14:56:07] 更新をインストール中...
+[2020-05-16 14:56:08] Committing NTFS transaction (0 non-transactional backup files)
+[2020-05-16 14:56:08] クリーンアップ中...
+[2020-05-16 14:56:08] 更新が完了しました。Steam を起動します...
+[2020-05-16 14:56:08] Shutdown
+
+
+[2020-05-16 14:56:08] Startup - updater built May 14 2020 20:07:59
+[2020-05-16 14:56:08] インストール状況を確認中...
+[2020-05-16 14:56:09] Verification complete
+[2020-05-16 14:56:11] Background update loop checking for update. . .
+[2020-05-16 14:56:11] 更新を確認中...
+[2020-05-16 14:56:11] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-16 14:56:17] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-16 14:56:17] Nothing to do
+[2020-05-16 16:37:37] Shutdown
+
+
+[2020-05-19 09:33:10] Startup - updater built May 14 2020 20:07:59
+[2020-05-19 09:33:10] インストール状況を確認中...
+[2020-05-19 09:33:11] Verification complete
+[2020-05-19 09:33:17] Background update loop checking for update. . .
+[2020-05-19 09:33:17] 更新を確認中...
+[2020-05-19 09:33:17] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-19 09:33:18] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-19 09:33:18] Nothing to do
+
+
+[2020-05-20 18:58:33] Startup - updater built May 14 2020 20:07:59
+[2020-05-20 18:58:33] Checking for update on startup
+[2020-05-20 18:58:33] 更新を確認中...
+[2020-05-20 18:58:33] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-20 18:58:41] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-20 18:58:41] Nothing to do
+[2020-05-20 18:58:41] インストール状況を確認中...
+[2020-05-20 18:58:41] Performing checksum verification of executable files
+[2020-05-20 18:58:42] Verification complete
+[2020-05-20 18:58:43] Background update loop checking for update. . .
+[2020-05-20 18:58:43] 更新を確認中...
+[2020-05-20 18:58:43] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-20 18:58:44] Download skipped by HTTP 304 Not Modified
+[2020-05-20 18:58:44] Nothing to do
+[2020-05-20 21:38:28] Shutdown
+
+
+[2020-05-21 12:28:34] Startup - updater built May 14 2020 20:07:59
+[2020-05-21 12:28:34] Verifying installation...
+[2020-05-21 12:28:35] Verification complete
+[2020-05-21 12:28:36] Background update loop checking for update. . .
+[2020-05-21 12:28:36] Checking for available update...
+[2020-05-21 12:28:36] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-21 12:28:42] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-21 12:28:42] Nothing to do
+[2020-05-21 18:44:28] Background update loop checking for update. . .
+[2020-05-21 18:44:28] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-21 18:44:28] Download skipped by HTTP 304 Not Modified
+[2020-05-21 18:44:28] Nothing to do
+[2020-05-21 20:03:00] Shutdown
+
+
+[2020-05-21 21:16:08] Startup - updater built May 14 2020 20:07:59
+[2020-05-21 21:16:08] Verifying installation...
+[2020-05-21 21:16:09] Verification complete
+[2020-05-21 21:16:12] Background update loop checking for update. . .
+[2020-05-21 21:16:12] Checking for available update...
+[2020-05-21 21:16:12] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-21 21:16:19] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-21 21:16:19] Nothing to do
+[2020-05-21 22:03:41] Shutdown
+
+
+[2020-05-22 10:15:46] Startup - updater built May 14 2020 20:07:59
+[2020-05-22 10:15:46] インストール状況を確認中...
+[2020-05-22 10:15:47] Verification complete
+[2020-05-22 10:15:49] Background update loop checking for update. . .
+[2020-05-22 10:15:49] 更新を確認中...
+[2020-05-22 10:15:49] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-22 10:15:55] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-22 10:15:55] Nothing to do
+[2020-05-22 17:11:50] Background update loop checking for update. . .
+[2020-05-22 17:11:50] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-22 17:11:51] Download skipped by HTTP 304 Not Modified
+[2020-05-22 17:11:51] Nothing to do
+[2020-05-22 21:46:58] Shutdown
+
+
+[2020-05-23 07:14:48] Startup - updater built May 14 2020 20:07:59
+[2020-05-23 07:14:48] インストール状況を確認中...
+[2020-05-23 07:14:49] Verification complete
+[2020-05-23 07:14:51] Background update loop checking for update. . .
+[2020-05-23 07:14:51] 更新を確認中...
+[2020-05-23 07:14:51] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-23 07:14:58] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-23 07:14:58] Nothing to do
+[2020-05-23 10:15:43] Shutdown
+
+
+[2020-05-23 10:15:43] Startup - updater built May 14 2020 20:07:59
+[2020-05-23 10:15:43] 正在验证安装...
+[2020-05-23 10:15:44] Verification complete
+[2020-05-23 10:15:46] Background update loop checking for update. . .
+[2020-05-23 10:15:46] 正在检查可用更新...
+[2020-05-23 10:15:46] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-23 10:15:52] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-23 10:15:52] Nothing to do
+[2020-05-23 17:28:58] Background update loop checking for update. . .
+[2020-05-23 17:28:58] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-23 17:28:58] Download skipped by HTTP 304 Not Modified
+[2020-05-23 17:28:58] Nothing to do
+[2020-05-23 20:02:49] Background update loop checking for update. . .
+[2020-05-23 20:02:49] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-23 20:02:49] Download skipped by HTTP 304 Not Modified
+[2020-05-23 20:02:49] Nothing to do
+[2020-05-23 20:34:51] Shutdown
+
+
+[2020-05-25 07:51:34] Startup - updater built May 14 2020 20:07:59
+[2020-05-25 07:51:34] 正在验证安装...
+[2020-05-25 07:51:35] Verification complete
+[2020-05-25 07:51:37] Background update loop checking for update. . .
+[2020-05-25 07:51:37] 正在检查可用更新...
+[2020-05-25 07:51:37] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-25 07:51:43] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-25 07:51:43] Nothing to do
+[2020-05-25 14:28:50] Background update loop checking for update. . .
+[2020-05-25 14:28:50] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-25 14:28:50] Download skipped by HTTP 304 Not Modified
+[2020-05-25 14:28:50] Nothing to do
+[2020-05-25 17:34:02] Background update loop checking for update. . .
+[2020-05-25 17:34:02] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-25 17:34:03] Download skipped by HTTP 304 Not Modified
+[2020-05-25 17:34:03] Nothing to do
+[2020-05-25 18:17:32] Shutdown
+
+
+[2020-05-26 11:52:18] Startup - updater built May 14 2020 20:07:59
+[2020-05-26 11:52:18] 正在验证安装...
+[2020-05-26 11:52:19] Verification complete
+[2020-05-26 11:52:21] Background update loop checking for update. . .
+[2020-05-26 11:52:21] 正在检查可用更新...
+[2020-05-26 11:52:21] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-26 11:52:27] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-26 11:52:27] Nothing to do
+[2020-05-26 18:21:12] Background update loop checking for update. . .
+[2020-05-26 18:21:12] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-26 18:21:12] Download skipped by HTTP 304 Not Modified
+[2020-05-26 18:21:12] Nothing to do
+[2020-05-26 20:05:19] Shutdown
+
+
+[2020-05-27 09:33:04] Startup - updater built May 14 2020 20:07:59
+[2020-05-27 09:33:04] 正在验证安装...
+[2020-05-27 09:33:05] Verification complete
+[2020-05-27 09:33:07] Background update loop checking for update. . .
+[2020-05-27 09:33:07] 正在检查可用更新...
+[2020-05-27 09:33:07] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-27 09:33:13] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-27 09:33:13] Nothing to do
+[2020-05-27 11:37:00] Background update loop checking for update. . .
+[2020-05-27 11:37:00] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-27 11:37:11] Download failed: http error 0 (client-download.steampowered.com/client/steam_client_win32)
+[2020-05-27 11:37:11] Downloading manifest: media.steampowered.com/client/steam_client_win32
+[2020-05-27 11:37:19] Download skipped by HTTP 304 Not Modified
+[2020-05-27 11:37:19] Nothing to do
+[2020-05-27 19:06:53] Background update loop checking for update. . .
+[2020-05-27 19:06:53] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-27 19:06:53] Download skipped by HTTP 304 Not Modified
+[2020-05-27 19:06:53] Nothing to do
+
+
+[2020-05-27 21:24:51] Startup - updater built May 14 2020 20:07:59
+[2020-05-27 21:24:51] Checking for update on startup
+[2020-05-27 21:24:51] Checking for available update...
+[2020-05-27 21:24:51] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-27 21:24:58] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-27 21:24:58] Nothing to do
+[2020-05-27 21:24:58] Verifying installation...
+[2020-05-27 21:24:58] Performing checksum verification of executable files
+[2020-05-27 21:24:59] Verification complete
+[2020-05-27 21:25:01] Background update loop checking for update. . .
+[2020-05-27 21:25:01] Checking for available update...
+[2020-05-27 21:25:01] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-27 21:25:01] Download skipped by HTTP 304 Not Modified
+[2020-05-27 21:25:01] Nothing to do
+
+
+[2020-05-28 09:23:02] Startup - updater built May 14 2020 20:07:59
+[2020-05-28 09:23:02] 正在验证安装...
+[2020-05-28 09:23:03] Verification complete
+[2020-05-28 09:23:05] Background update loop checking for update. . .
+[2020-05-28 09:23:05] 正在检查可用更新...
+[2020-05-28 09:23:05] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-28 09:23:11] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-28 09:23:11] Nothing to do
+[2020-05-28 10:10:38] Shutdown
+
+
+[2020-05-28 18:50:34] Startup - updater built May 14 2020 20:07:59
+[2020-05-28 18:50:34] 正在验证安装...
+[2020-05-28 18:50:35] Verification complete
+[2020-05-28 18:50:37] Background update loop checking for update. . .
+[2020-05-28 18:50:37] 正在检查可用更新...
+[2020-05-28 18:50:37] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-28 18:50:45] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-28 18:50:45] Nothing to do
+[2020-05-28 23:41:36] Shutdown
+
+
+[2020-05-29 10:58:28] Startup - updater built May 14 2020 20:07:59
+[2020-05-29 10:58:28] 正在验证安装...
+[2020-05-29 10:58:29] Verification complete
+[2020-05-29 10:58:32] Background update loop checking for update. . .
+[2020-05-29 10:58:32] 正在检查可用更新...
+[2020-05-29 10:58:32] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-29 10:58:37] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-29 10:58:37] Nothing to do
+[2020-05-29 18:30:17] Background update loop checking for update. . .
+[2020-05-29 18:30:17] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-29 18:30:17] Download skipped by HTTP 304 Not Modified
+[2020-05-29 18:30:17] Nothing to do
+[2020-05-29 22:59:27] Shutdown
+
+
+[2020-05-30 20:46:08] Startup - updater built May 14 2020 20:07:59
+[2020-05-30 20:46:08] 正在验证安装...
+[2020-05-30 20:46:09] Verification complete
+[2020-05-30 20:46:12] Background update loop checking for update. . .
+[2020-05-30 20:46:12] 正在检查可用更新...
+[2020-05-30 20:46:12] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-05-30 20:46:19] Download skipped: /client/steam_client_win32 version 1589513816, installed version 1589513816
+[2020-05-30 20:46:19] Nothing to do
+[2020-05-30 21:15:19] Shutdown
+
+
+[2020-06-02 20:45:34] Startup - updater built May 14 2020 20:07:59
+[2020-06-02 20:45:34] 正在验证安装...
+[2020-06-02 20:45:35] Verification complete
+[2020-06-02 20:45:41] Background update loop checking for update. . .
+[2020-06-02 20:45:41] 正在检查可用更新...
+[2020-06-02 20:45:41] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-02 20:45:43] Package file tenfoot_all.zip.vz.6d0089527ade51a9c5e420c1f959711ffda249dd_2661538 missing or incorrect size
+[2020-06-02 20:45:43] Package file friendsui_all.zip.vz.2f252e02e551ff7b3c3d568cd592286968b73cea_2269393 missing or incorrect size
+[2020-06-02 20:45:43] Package file steamui_websrc_all.zip.vz.f2e0daa4a07891ba1bb396469ba534be7551e282_2328445 missing or incorrect size
+[2020-06-02 20:45:43] Package file strings_en_all.zip.0b5f7385798d46c9a5aabd8a93f4b4f6559a4aa6 missing or incorrect size
+[2020-06-02 20:45:43] Package file strings_all.zip.vz.30a30e01989e01c95259e094351565cb012bfc04_2170789 missing or incorrect size
+[2020-06-02 20:45:43] Package file public_all.zip.vz.184725194da9f5110574c8d4affb1db101334c99_983394 missing or incorrect size
+[2020-06-02 20:45:43] Package file bins_misc_win32.zip.vz.a2d9297ea565b609e3d39552f97fa888b89a9d20_12839476 missing or incorrect size
+[2020-06-02 20:45:43] Package file bins_cef_win32_win10-64.zip.vz.26ca77bd8567165e1734911b9e5cf5ecc820bd32_60745635 missing or incorrect size
+[2020-06-02 20:45:43] Package file bins_cef_win32_win7.zip.vz.212a2b4bab0f5a38eab34a076eda1643ce2d7237_58833489 missing or incorrect size
+[2020-06-02 20:45:43] Package file bins_webhelpers_win32_win10-64.zip.vz.876e3524cb94ed936f3d0c5b0f1c861cec84089b_2120151 missing or incorrect size
+[2020-06-02 20:45:43] Package file bins_webhelpers_win32_win7.zip.vz.dea496f39be7bd8355340cffbeabca3d35c85a3a_1629421 missing or incorrect size
+[2020-06-02 20:45:43] Package file bins_win32.zip.vz.dbd68c151c9f7c3250840ce7f4f7a0987fcbf1a0_19244570 missing or incorrect size
+[2020-06-02 20:45:43] Package file steam_win32_steamrow.zip.vz.8a03a0f992c8ff1f135e3067eeab22ef0158d776_1260273 missing or incorrect size
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/tenfoot_all.zip.vz.6d0089527ade51a9c5e420c1f959711ffda249dd_2661538
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/friendsui_all.zip.vz.2f252e02e551ff7b3c3d568cd592286968b73cea_2269393
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/steamui_websrc_all.zip.vz.f2e0daa4a07891ba1bb396469ba534be7551e282_2328445
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/strings_en_all.zip.0b5f7385798d46c9a5aabd8a93f4b4f6559a4aa6
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/strings_all.zip.vz.30a30e01989e01c95259e094351565cb012bfc04_2170789
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/public_all.zip.vz.184725194da9f5110574c8d4affb1db101334c99_983394
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/bins_misc_win32.zip.vz.a2d9297ea565b609e3d39552f97fa888b89a9d20_12839476
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/bins_cef_win32_win10-64.zip.vz.26ca77bd8567165e1734911b9e5cf5ecc820bd32_60745635
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/bins_cef_win32_win7.zip.vz.212a2b4bab0f5a38eab34a076eda1643ce2d7237_58833489
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/bins_webhelpers_win32_win10-64.zip.vz.876e3524cb94ed936f3d0c5b0f1c861cec84089b_2120151
+[2020-06-02 20:45:43] Add pending download: cdn.dota2.com.cn/client/bins_webhelpers_win32_win7.zip.vz.dea496f39be7bd8355340cffbeabca3d35c85a3a_1629421
+[2020-06-02 20:45:44] Add pending download: cdn.dota2.com.cn/client/bins_win32.zip.vz.dbd68c151c9f7c3250840ce7f4f7a0987fcbf1a0_19244570
+[2020-06-02 20:45:44] Add pending download: cdn.dota2.com.cn/client/steam_win32_steamrow.zip.vz.8a03a0f992c8ff1f135e3067eeab22ef0158d776_1260273
+[2020-06-02 20:45:44] 正在下载更新 (已下载 4,248，共 163,278 KB)...
+[2020-06-02 20:45:44] 正在下载更新 (已下载 7,537，共 163,278 KB)...
+[2020-06-02 20:45:44] 正在下载更新 (已下载 10,385，共 163,278 KB)...
+[2020-06-02 20:45:44] 正在下载更新 (已下载 13,229，共 163,278 KB)...
+[2020-06-02 20:45:45] 正在下载更新 (已下载 16,225，共 163,278 KB)...
+[2020-06-02 20:45:45] 正在下载更新 (已下载 19,432，共 163,278 KB)...
+[2020-06-02 20:45:45] 正在下载更新 (已下载 21,856，共 163,278 KB)...
+[2020-06-02 20:45:45] 正在下载更新 (已下载 25,220，共 163,278 KB)...
+[2020-06-02 20:45:46] 正在下载更新 (已下载 28,244，共 163,278 KB)...
+[2020-06-02 20:45:46] 正在下载更新 (已下载 31,354，共 163,278 KB)...
+[2020-06-02 20:45:46] 正在下载更新 (已下载 34,186，共 163,278 KB)...
+[2020-06-02 20:45:47] 正在下载更新 (已下载 37,338，共 163,278 KB)...
+[2020-06-02 20:45:47] 正在下载更新 (已下载 40,060，共 163,278 KB)...
+[2020-06-02 20:45:47] 正在下载更新 (已下载 42,684，共 163,278 KB)...
+[2020-06-02 20:45:47] 正在下载更新 (已下载 45,225，共 163,278 KB)...
+[2020-06-02 20:45:48] 正在下载更新 (已下载 47,723，共 163,278 KB)...
+[2020-06-02 20:45:48] 正在下载更新 (已下载 51,339，共 163,278 KB)...
+[2020-06-02 20:45:48] 正在下载更新 (已下载 54,068，共 163,278 KB)...
+[2020-06-02 20:45:48] 正在下载更新 (已下载 56,910，共 163,278 KB)...
+[2020-06-02 20:45:49] 正在下载更新 (已下载 58,775，共 163,278 KB)...
+[2020-06-02 20:45:49] 正在下载更新 (已下载 65,073，共 163,278 KB)...
+[2020-06-02 20:45:50] 正在下载更新 (已下载 67,722，共 163,278 KB)...
+[2020-06-02 20:45:50] 正在下载更新 (已下载 70,783，共 163,278 KB)...
+[2020-06-02 20:45:50] 正在下载更新 (已下载 73,626，共 163,278 KB)...
+[2020-06-02 20:45:50] 正在下载更新 (已下载 76,190，共 163,278 KB)...
+[2020-06-02 20:45:51] 正在下载更新 (已下载 79,550，共 163,278 KB)...
+[2020-06-02 20:45:51] 正在下载更新 (已下载 82,872，共 163,278 KB)...
+[2020-06-02 20:45:51] 正在下载更新 (已下载 85,480，共 163,278 KB)...
+[2020-06-02 20:45:52] 正在下载更新 (已下载 88,485，共 163,278 KB)...
+[2020-06-02 20:45:52] 正在下载更新 (已下载 91,323，共 163,278 KB)...
+[2020-06-02 20:45:52] 正在下载更新 (已下载 94,187，共 163,278 KB)...
+[2020-06-02 20:45:52] 正在下载更新 (已下载 96,990，共 163,278 KB)...
+[2020-06-02 20:45:53] 正在下载更新 (已下载 99,562，共 163,278 KB)...
+[2020-06-02 20:45:53] 正在下载更新 (已下载 102,571，共 163,278 KB)...
+[2020-06-02 20:45:53] 正在下载更新 (已下载 105,339，共 163,278 KB)...
+[2020-06-02 20:45:53] 正在下载更新 (已下载 107,596，共 163,278 KB)...
+[2020-06-02 20:45:54] 正在下载更新 (已下载 110,906，共 163,278 KB)...
+[2020-06-02 20:45:54] 正在下载更新 (已下载 113,496，共 163,278 KB)...
+[2020-06-02 20:45:54] 正在下载更新 (已下载 116,540，共 163,278 KB)...
+[2020-06-02 20:45:54] 正在下载更新 (已下载 119,315，共 163,278 KB)...
+[2020-06-02 20:45:55] 正在下载更新 (已下载 122,240，共 163,278 KB)...
+[2020-06-02 20:45:55] 正在下载更新 (已下载 124,607，共 163,278 KB)...
+[2020-06-02 20:45:55] 正在下载更新 (已下载 126,112，共 163,278 KB)...
+[2020-06-02 20:45:55] 正在下载更新 (已下载 127,013，共 163,278 KB)...
+[2020-06-02 20:45:56] 正在下载更新 (已下载 128,464，共 163,278 KB)...
+[2020-06-02 20:45:56] 正在下载更新 (已下载 129,902，共 163,278 KB)...
+[2020-06-02 20:45:56] 正在下载更新 (已下载 131,545，共 163,278 KB)...
+[2020-06-02 20:45:56] 正在下载更新 (已下载 133,615，共 163,278 KB)...
+[2020-06-02 20:45:57] 正在下载更新 (已下载 136,287，共 163,278 KB)...
+[2020-06-02 20:45:57] 正在下载更新 (已下载 139,017，共 163,278 KB)...
+[2020-06-02 20:45:57] 正在下载更新 (已下载 141,909，共 163,278 KB)...
+[2020-06-02 20:45:57] 正在下载更新 (已下载 145,090，共 163,278 KB)...
+[2020-06-02 20:45:58] 正在下载更新 (已下载 148,056，共 163,278 KB)...
+[2020-06-02 20:45:58] 正在下载更新 (已下载 150,858，共 163,278 KB)...
+[2020-06-02 20:45:59] 正在下载更新 (已下载 158,254，共 163,278 KB)...
+[2020-06-02 20:45:59] 正在下载更新 (已下载 160,640，共 163,278 KB)...
+[2020-06-02 20:45:59] 正在下载更新 (已下载 163,278，共 163,278 KB)...
+[2020-06-02 20:46:00] 下载完成。
+[2020-06-02 20:50:42] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-02 21:20:42] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-02 21:50:42] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-02 22:04:17] Shutdown
+
+
+[2020-06-02 22:04:17] Startup - updater built May 14 2020 20:07:59
+[2020-06-02 22:04:17] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-02 22:04:17] Found pending update
+[2020-06-02 22:04:17] 正在安装更新...
+[2020-06-02 22:04:17] 正在展开安装包...
+[2020-06-02 22:04:25] 正在安装更新...
+[2020-06-02 22:04:26] Committing NTFS transaction (0 non-transactional backup files)
+[2020-06-02 22:04:27] 正在清理...
+[2020-06-02 22:04:27] 更新完成，正在启动 Steam...
+[2020-06-02 22:04:27] Shutdown
+
+
+[2020-06-02 22:04:27] Startup - updater built Jun  1 2020 13:31:28
+[2020-06-02 22:04:27] 正在验证安装...
+[2020-06-02 22:04:27] Verification complete
+[2020-06-02 22:04:30] Background update loop checking for update. . .
+[2020-06-02 22:04:30] 正在检查可用更新...
+[2020-06-02 22:04:30] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-02 22:04:37] Download skipped: /client/steam_client_win32 version 1591052255, installed version 1591052255
+[2020-06-02 22:04:37] Nothing to do
+[2020-06-02 22:27:44] Shutdown
+
+
+[2020-06-03 11:30:27] Startup - updater built Jun  1 2020 13:31:28
+[2020-06-03 11:30:27] 正在验证安装...
+[2020-06-03 11:30:28] Verification complete
+[2020-06-03 11:30:30] Background update loop checking for update. . .
+[2020-06-03 11:30:30] 正在检查可用更新...
+[2020-06-03 11:30:30] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-03 11:30:36] Download skipped: /client/steam_client_win32 version 1591052255, installed version 1591052255
+[2020-06-03 11:30:36] Nothing to do
+[2020-06-03 11:31:24] Shutdown
+
+
+[2020-06-03 18:02:32] Startup - updater built Jun  1 2020 13:31:28
+[2020-06-03 18:02:32] 正在验证安装...
+[2020-06-03 18:02:33] Verification complete
+[2020-06-03 18:02:35] Background update loop checking for update. . .
+[2020-06-03 18:02:35] 正在检查可用更新...
+[2020-06-03 18:02:35] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-03 18:02:41] Download skipped: /client/steam_client_win32 version 1591052255, installed version 1591052255
+[2020-06-03 18:02:41] Nothing to do
+[2020-06-03 19:58:45] Background update loop checking for update. . .
+[2020-06-03 19:58:45] Error: Steam 需要 250MB 可用磁盘空间用于更新。
+[2020-06-03 20:07:51] Shutdown
+
+
+[2020-06-05 20:51:26] Startup - updater built Jun  1 2020 13:31:28
+[2020-06-05 20:51:26] 正在验证安装...
+[2020-06-05 20:51:27] Verification complete
+[2020-06-05 20:51:30] Background update loop checking for update. . .
+[2020-06-05 20:51:30] 正在检查可用更新...
+[2020-06-05 20:51:30] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-05 20:51:37] Download skipped: /client/steam_client_win32 version 1591052255, installed version 1591052255
+[2020-06-05 20:51:37] Nothing to do
+[2020-06-05 23:59:45] Background update loop checking for update. . .
+[2020-06-05 23:59:45] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-05 23:59:46] Download skipped by HTTP 304 Not Modified
+[2020-06-05 23:59:46] Nothing to do
+[2020-06-06 09:53:18] Background update loop checking for update. . .
+[2020-06-06 09:53:18] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-06 09:53:26] Package file tenfoot_all.zip.vz.a09b31c42a796e3aa29861b512054980f83f4bed_2661761 missing or incorrect size
+[2020-06-06 09:53:26] Package file steamui_websrc_all.zip.vz.0c0dc7ec5ac73321592143f9a96e87d25c4a8277_2328478 missing or incorrect size
+[2020-06-06 09:53:26] Package file strings_all.zip.vz.37d16320cd32b390efbea180007a3322dff381eb_2171390 missing or incorrect size
+[2020-06-06 09:53:26] Package file public_all.zip.vz.a9dd55339e2782e6a29c1d907e4839af1f8731b4_982945 missing or incorrect size
+[2020-06-06 09:53:26] Package file bins_misc_win32.zip.vz.8e24585e54ee5e480f66c7d7b27a33e7f0540584_12841287 missing or incorrect size
+[2020-06-06 09:53:26] Package file bins_cef_win32_win7.zip.vz.212a2b4bab0f5a38eab34a076eda1643ce2d7237_58833489 missing or incorrect size
+[2020-06-06 09:53:26] Package file bins_webhelpers_win32_win10-64.zip.vz.fd48532fd27f2f45b61703bc5e73b94c2c78d79f_2120293 missing or incorrect size
+[2020-06-06 09:53:26] Package file bins_webhelpers_win32_win7.zip.vz.2203090e5c02fbd28e4f8d2fc578e71df7e4ec96_1628825 missing or incorrect size
+[2020-06-06 09:53:26] Package file bins_win32.zip.vz.b5d19ddc7c7943434881296e0b71fb45ecfeb819_19239471 missing or incorrect size
+[2020-06-06 09:53:26] Package file steam_win32_steamrow.zip.vz.e6099a6ee845213b8aa498e86ac6fa885a239b76_1260732 missing or incorrect size
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/tenfoot_all.zip.vz.a09b31c42a796e3aa29861b512054980f83f4bed_2661761
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/steamui_websrc_all.zip.vz.0c0dc7ec5ac73321592143f9a96e87d25c4a8277_2328478
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/strings_all.zip.vz.37d16320cd32b390efbea180007a3322dff381eb_2171390
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/public_all.zip.vz.a9dd55339e2782e6a29c1d907e4839af1f8731b4_982945
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/bins_misc_win32.zip.vz.8e24585e54ee5e480f66c7d7b27a33e7f0540584_12841287
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/bins_cef_win32_win7.zip.vz.212a2b4bab0f5a38eab34a076eda1643ce2d7237_58833489
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/bins_webhelpers_win32_win10-64.zip.vz.fd48532fd27f2f45b61703bc5e73b94c2c78d79f_2120293
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/bins_webhelpers_win32_win7.zip.vz.2203090e5c02fbd28e4f8d2fc578e71df7e4ec96_1628825
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/bins_win32.zip.vz.b5d19ddc7c7943434881296e0b71fb45ecfeb819_19239471
+[2020-06-06 09:53:26] Add pending download: cdn.dota2.com.cn/client/steam_win32_steamrow.zip.vz.e6099a6ee845213b8aa498e86ac6fa885a239b76_1260732
+[2020-06-06 09:53:26] 正在下载更新 (已下载 3,864，共 101,629 KB)...
+[2020-06-06 09:53:27] 正在下载更新 (已下载 6,218，共 101,629 KB)...
+[2020-06-06 09:53:27] 正在下载更新 (已下载 9,446，共 101,629 KB)...
+[2020-06-06 09:53:27] 正在下载更新 (已下载 10,990，共 101,629 KB)...
+[2020-06-06 09:53:28] 正在下载更新 (已下载 15,172，共 101,629 KB)...
+[2020-06-06 09:53:28] 正在下载更新 (已下载 17,551，共 101,629 KB)...
+[2020-06-06 09:53:28] 正在下载更新 (已下载 20,828，共 101,629 KB)...
+[2020-06-06 09:53:28] 正在下载更新 (已下载 23,914，共 101,629 KB)...
+[2020-06-06 09:53:29] 正在下载更新 (已下载 26,904，共 101,629 KB)...
+[2020-06-06 09:53:29] 正在下载更新 (已下载 29,107，共 101,629 KB)...
+[2020-06-06 09:53:29] 正在下载更新 (已下载 32,406，共 101,629 KB)...
+[2020-06-06 09:53:29] 正在下载更新 (已下载 35,761，共 101,629 KB)...
+[2020-06-06 09:53:30] 正在下载更新 (已下载 38,250，共 101,629 KB)...
+[2020-06-06 09:53:30] 正在下载更新 (已下载 41,566，共 101,629 KB)...
+[2020-06-06 09:53:30] 正在下载更新 (已下载 44,672，共 101,629 KB)...
+[2020-06-06 09:53:30] 正在下载更新 (已下载 47,338，共 101,629 KB)...
+[2020-06-06 09:53:31] 正在下载更新 (已下载 49,700，共 101,629 KB)...
+[2020-06-06 09:53:31] 正在下载更新 (已下载 52,709，共 101,629 KB)...
+[2020-06-06 09:53:31] 正在下载更新 (已下载 56,023，共 101,629 KB)...
+[2020-06-06 09:53:31] 正在下载更新 (已下载 59,132，共 101,629 KB)...
+[2020-06-06 09:53:32] 正在下载更新 (已下载 61,498，共 101,629 KB)...
+[2020-06-06 09:53:32] 正在下载更新 (已下载 64,052，共 101,629 KB)...
+[2020-06-06 09:53:32] 正在下载更新 (已下载 67,350，共 101,629 KB)...
+[2020-06-06 09:53:32] 正在下载更新 (已下载 70,719，共 101,629 KB)...
+[2020-06-06 09:53:33] 正在下载更新 (已下载 72,969，共 101,629 KB)...
+[2020-06-06 09:53:33] 正在下载更新 (已下载 76,875，共 101,629 KB)...
+[2020-06-06 09:53:33] 正在下载更新 (已下载 79,976，共 101,629 KB)...
+[2020-06-06 09:53:33] 正在下载更新 (已下载 82,251，共 101,629 KB)...
+[2020-06-06 09:53:34] 正在下载更新 (已下载 85,809，共 101,629 KB)...
+[2020-06-06 09:53:34] 正在下载更新 (已下载 88,267，共 101,629 KB)...
+[2020-06-06 09:53:34] 正在下载更新 (已下载 91,555，共 101,629 KB)...
+[2020-06-06 09:53:34] 正在下载更新 (已下载 94,022，共 101,629 KB)...
+[2020-06-06 09:53:35] 正在下载更新 (已下载 96,343，共 101,629 KB)...
+[2020-06-06 09:53:35] 正在下载更新 (已下载 99,885，共 101,629 KB)...
+[2020-06-06 09:53:36] 正在下载更新 (已下载 101,629，共 101,629 KB)...
+[2020-06-06 09:53:36] 下载完成。
+[2020-06-06 09:58:14] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 10:28:14] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 10:58:14] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 11:29:58] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 11:59:58] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 12:29:58] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 18:13:47] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 18:43:47] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 19:13:47] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 19:43:47] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 20:13:47] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 20:43:47] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 21:13:48] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 21:43:48] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 22:13:48] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-06 22:43:48] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 10:21:01] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 10:34:11] Background update loop checking for update. . .
+[2020-06-07 10:34:11] 正在检查可用更新...
+[2020-06-07 10:34:11] Downloading manifest: client-download.steampowered.com/client/steam_client_win32
+[2020-06-07 10:34:19] 下载完成。
+[2020-06-07 10:51:01] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 11:21:01] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 11:51:01] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 12:24:21] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 12:54:22] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_win32 (1).
+[2020-06-07 13:02:42] Background update loop checking for update. . .
+[2020-06-07 13:02:42] 正在检查可用更新...
+[2020-06-07 13:02:42] Downloading manifest: client-download.steampowered.com/client/steam_client_publicbeta_win32
+[2020-06-07 13:02:42] 下载完成。
+[2020-06-07 13:02:45] Shutdown
+
+
+[2020-06-07 13:02:45] Startup - updater built Jun  1 2020 13:31:28
+[2020-06-07 13:02:45] Opted in to client beta 'publicbeta' via beta file
+[2020-06-07 13:02:45] uninstalled manifest found in C:\Program Files (x86)\Steam\package\steam_client_publicbeta_win32 (1).
+[2020-06-07 13:02:45] Found pending update
+[2020-06-07 13:02:45] 正在安装更新...
+[2020-06-07 13:02:45] 正在展开安装包...
+[2020-06-07 13:02:55] 正在安装更新...
+[2020-06-07 13:03:07] Committing NTFS transaction (0 non-transactional backup files)
+[2020-06-07 13:03:09] 正在清理...
+[2020-06-07 13:03:09] 更新完成，正在启动 Steam...
+[2020-06-07 13:03:09] Shutdown
+
+
+[2020-06-07 13:03:09] Startup - updater built Jun  3 2020 22:54:20
+[2020-06-07 13:03:09] Opted in to client beta 'publicbeta' via beta file
+[2020-06-07 13:03:09] 正在验证安装...
+[2020-06-07 13:03:09] Verification complete
+[2020-06-07 13:03:13] Background update loop checking for update. . .
+[2020-06-07 13:03:13] 正在检查可用更新...
+[2020-06-07 13:03:13] Downloading manifest: client-download.steampowered.com/client/steam_client_publicbeta_win32
+[2020-06-07 13:03:13] Download skipped by HTTP 304 Not Modified
+[2020-06-07 13:03:13] Nothing to do
+[2020-06-07 13:04:02] Shutdown
+
+
+[2020-06-07 13:04:15] Startup - updater built Jun  3 2020 22:54:20
+[2020-06-07 13:04:15] Opted in to client beta 'publicbeta' via beta file
+[2020-06-07 13:04:15] 正在验证安装...
+[2020-06-07 13:04:16] Verification complete
+[2020-06-07 13:04:17] Background update loop checking for update. . .
+[2020-06-07 13:04:17] 正在检查可用更新...
+[2020-06-07 13:04:17] Downloading manifest: client-download.steampowered.com/client/steam_client_publicbeta_win32
+[2020-06-07 13:04:18] Download skipped by HTTP 304 Not Modified
+[2020-06-07 13:04:18] Nothing to do

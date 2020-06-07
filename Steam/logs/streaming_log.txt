@@ -1,0 +1,105 @@
+
+
+[2020-04-30 14:38:56] Saving default audio device: 扬声器 (Realtek High Definition Audio)
+
+
+[2020-05-06 11:20:53] Saving default audio device: 扬声器 (Realtek High Definition Audio)
+
+
+[2020-05-11 11:01:58] Saving default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-12 10:30:25] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-12 13:26:48] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-12 17:00:16] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-12 17:09:15] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-13 12:05:48] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-14 09:47:15] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-14 20:53:47] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-14 21:51:39] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-16 14:50:51] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-16 14:56:13] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-19 09:33:24] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-20 18:58:46] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-21 12:28:38] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-21 21:16:23] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-22 10:15:51] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-23 07:15:02] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-23 10:15:48] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-25 07:51:45] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-26 11:52:23] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-27 09:33:15] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-27 21:25:03] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-28 09:23:13] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-28 18:50:47] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-29 10:58:39] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-05-30 20:46:14] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-02 20:45:48] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-02 22:04:32] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-03 11:30:38] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-03 18:02:37] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-05 20:51:32] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-07 13:03:21] Restoring default audio device: 麦克风 (Realtek High Definition Audio)
+
+
+[2020-06-07 13:04:28] Restoring default audio device: 麦克风 (Realtek High Definition Audio)

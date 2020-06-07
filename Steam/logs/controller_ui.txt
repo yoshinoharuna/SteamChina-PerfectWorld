@@ -1,0 +1,4822 @@
+
+
+[2020-04-30 14:39:52] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-04-30 14:39:57] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-04-30 14:41:32] [34330]Non-Steam Controller Configs Enabled: 1
+
+[2020-04-30 14:42:59] Lizard Mode: Privileged process
+
+[2020-04-30 14:42:59] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 14:42:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 14:43:18] Lizard Mode: Unprivileged process
+
+[2020-04-30 14:43:18] Lizard Mode: Restoring app mapping
+
+[2020-04-30 14:43:19] Starting app 1281800
+
+[2020-04-30 14:43:21] Lizard Mode: Privileged process
+
+[2020-04-30 14:43:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 14:43:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 14:44:20] Lizard Mode: Unprivileged process
+
+[2020-04-30 14:44:20] Lizard Mode: Restoring app mapping
+
+[2020-04-30 14:44:50] Lizard Mode: Privileged process
+
+[2020-04-30 14:44:50] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 14:44:50] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 14:44:51] Lizard Mode: Unprivileged process
+
+[2020-04-30 14:44:51] Lizard Mode: Restoring app mapping
+
+[2020-04-30 14:44:53] Lizard Mode: Privileged process
+
+[2020-04-30 14:44:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 14:44:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 14:44:59] Lizard Mode: Unprivileged process
+
+[2020-04-30 14:44:59] Lizard Mode: Restoring app mapping
+
+[2020-04-30 14:45:17] Lizard Mode: Privileged process
+
+[2020-04-30 14:45:17] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 14:45:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 14:45:29] Lizard Mode: Unprivileged process
+
+[2020-04-30 14:45:29] Lizard Mode: Restoring app mapping
+
+[2020-04-30 15:27:02] Exiting app 1281800
+
+[2020-04-30 15:27:21] Lizard Mode: Privileged process
+
+[2020-04-30 15:27:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 15:27:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 15:27:25] Lizard Mode: Unprivileged process
+
+[2020-04-30 15:27:25] Lizard Mode: Restoring app mapping
+
+[2020-04-30 16:53:33] Lizard Mode: Privileged process
+
+[2020-04-30 16:53:33] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 16:53:33] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 16:53:42] Lizard Mode: Unprivileged process
+
+[2020-04-30 16:53:42] Lizard Mode: Restoring app mapping
+
+[2020-04-30 17:21:02] Lizard Mode: Privileged process
+
+[2020-04-30 17:21:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 17:21:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 17:21:09] Lizard Mode: Unprivileged process
+
+[2020-04-30 17:21:09] Lizard Mode: Restoring app mapping
+
+[2020-04-30 17:41:59] Lizard Mode: Privileged process
+
+[2020-04-30 17:41:59] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 17:41:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 17:42:03] Lizard Mode: Unprivileged process
+
+[2020-04-30 17:42:03] Lizard Mode: Restoring app mapping
+
+[2020-04-30 18:56:28] [34330]Non-Steam Controller Configs Enabled: 1
+
+[2020-04-30 18:56:28] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-04-30 18:56:28] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-04-30 19:26:50] Lizard Mode: Privileged process
+
+[2020-04-30 19:26:50] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 19:26:50] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 19:27:24] Lizard Mode: Unprivileged process
+
+[2020-04-30 19:27:24] Lizard Mode: Restoring app mapping
+
+[2020-04-30 20:40:24] Lizard Mode: Privileged process
+
+[2020-04-30 20:40:24] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-04-30 20:40:24] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 20:40:26] OnFocusWindowChanged to Lizard Mode
+
+[2020-04-30 20:40:26] Lizard Mode: Unprivileged process
+
+[2020-04-30 20:40:26] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-01 10:36:09] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-01 14:54:03] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-01 17:20:54] [1281800]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-02 19:55:49] Lizard Mode: Privileged process
+
+[2020-05-02 19:55:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-02 19:55:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-02 19:56:03] Lizard Mode: Unprivileged process
+
+[2020-05-02 19:56:03] Lizard Mode: Restoring app mapping
+
+[2020-05-02 19:57:00] [34330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 19:57:01] [291480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 19:57:03] [230410]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 19:57:03] [552990]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 19:57:04] [433850]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 19:57:05] [884660]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 20:16:52] [34330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 20:16:52] [230410]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 20:16:52] [291480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 20:16:52] [433850]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 20:16:52] [552990]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 20:16:52] [884660]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-02 21:36:27] Lizard Mode: Privileged process
+
+[2020-05-02 21:36:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-02 21:36:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-02 21:36:27] Lizard Mode: Unprivileged process
+
+[2020-05-02 21:36:27] Lizard Mode: Restoring app mapping
+
+[2020-05-02 21:36:27] Lizard Mode: Privileged process
+
+[2020-05-02 21:36:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-02 21:36:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-02 21:36:57] Lizard Mode: Unprivileged process
+
+[2020-05-02 21:36:57] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-03 12:08:45] Lizard Mode: Privileged process
+
+[2020-05-03 12:08:45] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:08:45] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:09:16] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:09:16] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:09:24] Lizard Mode: Privileged process
+
+[2020-05-03 12:09:24] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:09:24] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:09:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:09:29] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:09:29] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:09:32] Lizard Mode: Privileged process
+
+[2020-05-03 12:09:32] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:09:32] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:09:34] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:09:34] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:11:18] Lizard Mode: Privileged process
+
+[2020-05-03 12:11:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:11:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:11:19] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:11:19] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:12:20] Lizard Mode: Privileged process
+
+[2020-05-03 12:12:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:12:20] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:12:51] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:12:51] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:12:55] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-03 12:12:57] Starting app 1281800
+
+[2020-05-03 12:13:04] Lizard Mode: Privileged process
+
+[2020-05-03 12:13:04] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:13:04] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:13:10] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:13:10] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:13:21] Lizard Mode: Privileged process
+
+[2020-05-03 12:13:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:13:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:13:24] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:13:24] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:13:27] Lizard Mode: Privileged process
+
+[2020-05-03 12:13:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:13:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:13:28] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:13:28] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:13:29] Lizard Mode: Privileged process
+
+[2020-05-03 12:13:29] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:13:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:13:39] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:13:39] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:51:05] Lizard Mode: Privileged process
+
+[2020-05-03 12:51:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:51:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:51:06] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:51:06] Lizard Mode: Restoring app mapping
+
+[2020-05-03 12:54:49] Lizard Mode: Privileged process
+
+[2020-05-03 12:54:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 12:54:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 12:54:51] Lizard Mode: Unprivileged process
+
+[2020-05-03 12:54:51] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:20:00] Lizard Mode: Privileged process
+
+[2020-05-03 13:20:00] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:20:00] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:20:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:20:02] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:20:02] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:32:20] Lizard Mode: Privileged process
+
+[2020-05-03 13:32:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:32:20] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:32:24] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:32:24] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:32:25] Exiting app 1281800
+
+[2020-05-03 13:35:47] Lizard Mode: Privileged process
+
+[2020-05-03 13:35:47] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:35:47] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:36:03] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:36:03] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:36:05] Lizard Mode: Privileged process
+
+[2020-05-03 13:36:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:36:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:36:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:36:48] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:36:48] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:37:54] Lizard Mode: Privileged process
+
+[2020-05-03 13:37:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:37:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:37:56] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:37:56] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:38:13] Lizard Mode: Privileged process
+
+[2020-05-03 13:38:13] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:38:13] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:38:14] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:38:14] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:38:58] Lizard Mode: Privileged process
+
+[2020-05-03 13:38:58] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:38:58] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:39:01] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:39:01] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:42:13] Lizard Mode: Privileged process
+
+[2020-05-03 13:42:13] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:42:13] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:42:23] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:42:23] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:42:49] Lizard Mode: Privileged process
+
+[2020-05-03 13:42:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:42:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:42:59] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:42:59] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:43:06] Lizard Mode: Privileged process
+
+[2020-05-03 13:43:06] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:43:06] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:43:08] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:43:08] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:43:17] Lizard Mode: Privileged process
+
+[2020-05-03 13:43:17] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:43:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:43:45] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:43:45] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:43:53] Lizard Mode: Privileged process
+
+[2020-05-03 13:43:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:43:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:44:23] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:44:23] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:44:29] Lizard Mode: Privileged process
+
+[2020-05-03 13:44:29] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:44:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:44:33] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:44:33] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:45:42] Lizard Mode: Privileged process
+
+[2020-05-03 13:45:42] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:45:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:45:46] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:45:46] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:45:46] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:45:50] Lizard Mode: Privileged process
+
+[2020-05-03 13:45:50] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:45:50] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:45:54] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:45:54] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:46:11] Lizard Mode: Privileged process
+
+[2020-05-03 13:46:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:46:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:46:14] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:46:14] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:46:18] Lizard Mode: Privileged process
+
+[2020-05-03 13:46:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:46:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:46:56] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:46:56] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:49:07] Lizard Mode: Privileged process
+
+[2020-05-03 13:49:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:49:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:49:17] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:49:17] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:49:25] Lizard Mode: Privileged process
+
+[2020-05-03 13:49:25] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:49:25] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:49:38] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:49:38] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:50:55] Lizard Mode: Privileged process
+
+[2020-05-03 13:50:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:50:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:51:02] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:51:02] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:51:06] Lizard Mode: Privileged process
+
+[2020-05-03 13:51:06] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:51:06] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:51:07] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:51:07] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:51:09] Lizard Mode: Privileged process
+
+[2020-05-03 13:51:09] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:51:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:51:10] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:51:10] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:53:34] Lizard Mode: Privileged process
+
+[2020-05-03 13:53:34] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:53:34] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:53:36] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:53:36] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:53:36] Lizard Mode: Privileged process
+
+[2020-05-03 13:53:36] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:53:36] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:53:49] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:53:49] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:53:54] Lizard Mode: Privileged process
+
+[2020-05-03 13:53:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:53:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:54:06] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:54:06] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:54:44] Lizard Mode: Privileged process
+
+[2020-05-03 13:54:44] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:54:44] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:54:44] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:54:48] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:54:48] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:54:57] Lizard Mode: Privileged process
+
+[2020-05-03 13:54:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:54:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:54:57] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:54:57] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:54:58] Lizard Mode: Privileged process
+
+[2020-05-03 13:54:58] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:54:58] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:55:00] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:55:00] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:55:04] Lizard Mode: Privileged process
+
+[2020-05-03 13:55:04] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:55:04] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:55:15] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:55:15] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:55:19] Lizard Mode: Privileged process
+
+[2020-05-03 13:55:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:55:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:55:23] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:55:23] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:55:35] Lizard Mode: Privileged process
+
+[2020-05-03 13:55:35] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:55:35] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:55:36] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:55:36] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:55:41] Lizard Mode: Privileged process
+
+[2020-05-03 13:55:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:55:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:55:57] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:55:57] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:55:58] Lizard Mode: Privileged process
+
+[2020-05-03 13:55:58] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:55:58] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:55:59] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:55:59] Lizard Mode: Restoring app mapping
+
+[2020-05-03 13:56:27] Lizard Mode: Privileged process
+
+[2020-05-03 13:56:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 13:56:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 13:57:07] Lizard Mode: Unprivileged process
+
+[2020-05-03 13:57:07] Lizard Mode: Restoring app mapping
+
+[2020-05-03 14:01:04] Lizard Mode: Privileged process
+
+[2020-05-03 14:01:04] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 14:01:04] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 14:01:06] Lizard Mode: Unprivileged process
+
+[2020-05-03 14:01:06] Lizard Mode: Restoring app mapping
+
+[2020-05-03 14:01:07] Lizard Mode: Privileged process
+
+[2020-05-03 14:01:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 14:01:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 14:01:11] Lizard Mode: Unprivileged process
+
+[2020-05-03 14:01:11] Lizard Mode: Restoring app mapping
+
+[2020-05-03 14:09:01] Lizard Mode: Privileged process
+
+[2020-05-03 14:09:01] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 14:09:01] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 14:09:03] Lizard Mode: Unprivileged process
+
+[2020-05-03 14:09:03] Lizard Mode: Restoring app mapping
+
+[2020-05-03 14:11:19] Lizard Mode: Privileged process
+
+[2020-05-03 14:11:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 14:11:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 14:11:19] Lizard Mode: Unprivileged process
+
+[2020-05-03 14:11:19] Lizard Mode: Restoring app mapping
+
+[2020-05-03 14:12:04] Lizard Mode: Privileged process
+
+[2020-05-03 14:12:04] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 14:12:04] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 14:12:05] Lizard Mode: Unprivileged process
+
+[2020-05-03 14:12:05] Lizard Mode: Restoring app mapping
+
+[2020-05-03 14:31:12] Lizard Mode: Privileged process
+
+[2020-05-03 14:31:12] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 14:31:12] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:27:02] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-03 15:35:16] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:35:16] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:35:19] Lizard Mode: Privileged process
+
+[2020-05-03 15:35:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:35:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:35:20] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:35:20] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:38:56] Lizard Mode: Privileged process
+
+[2020-05-03 15:38:56] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:38:56] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:39:00] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:39:00] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-03 15:50:01] Lizard Mode: Privileged process
+
+[2020-05-03 15:50:01] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:50:01] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:50:14] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:50:14] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:50:23] Lizard Mode: Privileged process
+
+[2020-05-03 15:50:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:50:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:50:35] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:50:35] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:50:40] Lizard Mode: Privileged process
+
+[2020-05-03 15:50:40] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:50:40] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:50:41] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:50:41] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:50:59] Lizard Mode: Privileged process
+
+[2020-05-03 15:50:59] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:50:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:51:01] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:51:01] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:51:01] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:51:35] Lizard Mode: Privileged process
+
+[2020-05-03 15:51:35] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:51:35] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:51:36] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:51:36] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-03 15:56:31] Lizard Mode: Privileged process
+
+[2020-05-03 15:56:31] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:56:31] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:56:33] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:56:33] Lizard Mode: Restoring app mapping
+
+[2020-05-03 15:58:54] Lizard Mode: Privileged process
+
+[2020-05-03 15:58:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 15:58:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 15:58:54] Lizard Mode: Unprivileged process
+
+[2020-05-03 15:58:54] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:01:14] Lizard Mode: Privileged process
+
+[2020-05-03 16:01:14] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:01:14] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:01:51] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:01:51] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:01:51] Lizard Mode: Privileged process
+
+[2020-05-03 16:01:51] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:01:51] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:02:53] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:02:53] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:03:02] Lizard Mode: Privileged process
+
+[2020-05-03 16:03:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:03:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:03:26] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:03:26] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:13:49] Lizard Mode: Privileged process
+
+[2020-05-03 16:13:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:13:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:14:04] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:14:04] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:29:55] Lizard Mode: Privileged process
+
+[2020-05-03 16:29:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:29:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:29:56] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:29:56] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:30:14] Lizard Mode: Privileged process
+
+[2020-05-03 16:30:14] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:30:14] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:30:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:30:18] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:30:18] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:31:07] Lizard Mode: Privileged process
+
+[2020-05-03 16:31:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:31:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:20] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:31:20] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:31:23] Lizard Mode: Privileged process
+
+[2020-05-03 16:31:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:31:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:25] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:30] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:31:46] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:32:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:32:13] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:32:13] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:32:14] Lizard Mode: Privileged process
+
+[2020-05-03 16:32:14] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:32:14] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:32:15] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:32:15] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:32:16] Lizard Mode: Privileged process
+
+[2020-05-03 16:32:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:32:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:32:38] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:32:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:33:53] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:33:53] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:34:19] Lizard Mode: Privileged process
+
+[2020-05-03 16:34:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:34:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:34:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:34:41] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:34:41] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:35:11] Lizard Mode: Privileged process
+
+[2020-05-03 16:35:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:35:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:35:13] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:35:19] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:35:19] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:35:23] Lizard Mode: Privileged process
+
+[2020-05-03 16:35:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:35:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:35:23] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:35:23] Lizard Mode: Restoring app mapping
+
+[2020-05-03 16:35:27] Lizard Mode: Privileged process
+
+[2020-05-03 16:35:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 16:35:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 16:35:28] Lizard Mode: Unprivileged process
+
+[2020-05-03 16:35:28] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-03 18:09:22] Lizard Mode: Privileged process
+
+[2020-05-03 18:09:22] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 18:09:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 18:09:51] Lizard Mode: Unprivileged process
+
+[2020-05-03 18:09:51] Lizard Mode: Restoring app mapping
+
+[2020-05-03 18:10:05] Lizard Mode: Privileged process
+
+[2020-05-03 18:10:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 18:10:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 18:10:41] Lizard Mode: Unprivileged process
+
+[2020-05-03 18:10:41] Lizard Mode: Restoring app mapping
+
+[2020-05-03 18:10:57] Lizard Mode: Privileged process
+
+[2020-05-03 18:10:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-03 18:10:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-03 18:11:15] Lizard Mode: Unprivileged process
+
+[2020-05-03 18:11:15] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-04 14:32:48] Lizard Mode: Privileged process
+
+[2020-05-04 14:32:48] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:32:48] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:32:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:33:06] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:33:06] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:33:06] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:33:08] Lizard Mode: Privileged process
+
+[2020-05-04 14:33:08] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:33:08] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:33:10] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:33:10] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:33:37] Lizard Mode: Privileged process
+
+[2020-05-04 14:33:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:33:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:33:39] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:33:39] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:33:45] Lizard Mode: Privileged process
+
+[2020-05-04 14:33:45] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:33:45] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:34:05] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:34:05] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:34:24] Lizard Mode: Privileged process
+
+[2020-05-04 14:34:24] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:34:24] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:34:31] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:34:31] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:34:37] Lizard Mode: Privileged process
+
+[2020-05-04 14:34:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:34:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:35:20] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:35:20] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:35:27] Lizard Mode: Privileged process
+
+[2020-05-04 14:35:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:35:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:35:29] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:35:29] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:35:33] Lizard Mode: Privileged process
+
+[2020-05-04 14:35:33] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:35:33] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:35:46] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:35:46] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:36:00] Lizard Mode: Privileged process
+
+[2020-05-04 14:36:00] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:36:00] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:36:14] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:36:14] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:38:19] Lizard Mode: Privileged process
+
+[2020-05-04 14:38:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:38:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:38:22] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:38:22] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:38:28] Lizard Mode: Privileged process
+
+[2020-05-04 14:38:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:38:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:38:37] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:38:37] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:38:52] Lizard Mode: Privileged process
+
+[2020-05-04 14:38:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:38:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:39:07] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:39:07] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:39:37] Lizard Mode: Privileged process
+
+[2020-05-04 14:39:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:39:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:40:58] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:40:58] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:41:31] Lizard Mode: Privileged process
+
+[2020-05-04 14:41:31] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:41:31] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:41:34] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:41:34] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:41:42] Lizard Mode: Privileged process
+
+[2020-05-04 14:41:42] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:41:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:41:56] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:41:56] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:41:58] Lizard Mode: Privileged process
+
+[2020-05-04 14:41:58] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:41:58] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:41:59] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:41:59] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:42:11] Lizard Mode: Privileged process
+
+[2020-05-04 14:42:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:42:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:42:21] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:42:21] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:42:23] Lizard Mode: Privileged process
+
+[2020-05-04 14:42:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:42:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:42:24] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:42:24] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:42:29] Lizard Mode: Privileged process
+
+[2020-05-04 14:42:29] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:42:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:42:35] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:42:35] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:42:52] Lizard Mode: Privileged process
+
+[2020-05-04 14:42:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:42:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:43:12] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:43:12] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:43:38] Lizard Mode: Privileged process
+
+[2020-05-04 14:43:38] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:43:38] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:43:39] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:43:39] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:45:33] Lizard Mode: Privileged process
+
+[2020-05-04 14:45:33] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:45:33] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:46:25] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:46:25] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:46:33] Lizard Mode: Privileged process
+
+[2020-05-04 14:46:33] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:46:33] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:46:36] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:46:36] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:48:05] Lizard Mode: Privileged process
+
+[2020-05-04 14:48:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:48:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:48:19] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:48:19] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:48:50] Lizard Mode: Privileged process
+
+[2020-05-04 14:48:50] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:48:50] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:49:14] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:49:14] Lizard Mode: Restoring app mapping
+
+[2020-05-04 14:49:53] Lizard Mode: Privileged process
+
+[2020-05-04 14:49:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 14:49:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 14:50:04] Lizard Mode: Unprivileged process
+
+[2020-05-04 14:50:04] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:17:34] Lizard Mode: Privileged process
+
+[2020-05-04 15:17:34] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:17:34] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:18:43] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:18:43] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:22:43] Lizard Mode: Privileged process
+
+[2020-05-04 15:22:43] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:22:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:22:44] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:22:44] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:22:49] Lizard Mode: Privileged process
+
+[2020-05-04 15:22:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:22:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:22:58] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:22:58] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:23:13] Lizard Mode: Privileged process
+
+[2020-05-04 15:23:13] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:23:13] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:23:56] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:23:56] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:25:50] Lizard Mode: Privileged process
+
+[2020-05-04 15:25:50] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:25:50] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:25:54] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:25:54] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:25:55] Lizard Mode: Privileged process
+
+[2020-05-04 15:25:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:25:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:26:35] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:26:35] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:27:28] Lizard Mode: Privileged process
+
+[2020-05-04 15:27:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:27:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:27:31] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:27:31] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:27:43] Lizard Mode: Privileged process
+
+[2020-05-04 15:27:43] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:27:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:27:57] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:27:57] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:27:58] Lizard Mode: Privileged process
+
+[2020-05-04 15:27:58] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:27:58] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:28:03] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:28:03] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:28:05] Lizard Mode: Privileged process
+
+[2020-05-04 15:28:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:28:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:28:39] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:28:39] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:28:57] Lizard Mode: Privileged process
+
+[2020-05-04 15:28:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:28:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:33:51] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:33:51] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:33:52] Lizard Mode: Privileged process
+
+[2020-05-04 15:33:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:33:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:33:56] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:33:56] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:51:16] Lizard Mode: Privileged process
+
+[2020-05-04 15:51:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:51:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:54:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:54:24] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:54:45] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:54:45] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:54:47] Lizard Mode: Privileged process
+
+[2020-05-04 15:54:47] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:54:47] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:54:47] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:54:47] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:54:53] Lizard Mode: Privileged process
+
+[2020-05-04 15:54:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:54:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:55:14] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:55:14] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:55:22] Lizard Mode: Privileged process
+
+[2020-05-04 15:55:22] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:55:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:55:44] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:55:44] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:56:20] Lizard Mode: Privileged process
+
+[2020-05-04 15:56:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:56:20] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:56:48] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:56:48] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:56:56] Lizard Mode: Privileged process
+
+[2020-05-04 15:56:56] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:56:56] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:57:15] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:57:15] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:57:54] Lizard Mode: Privileged process
+
+[2020-05-04 15:57:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:57:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:57:58] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:57:58] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:58:02] Lizard Mode: Privileged process
+
+[2020-05-04 15:58:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:58:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:58:26] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:58:26] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:58:26] Lizard Mode: Privileged process
+
+[2020-05-04 15:58:26] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:58:26] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:58:28] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:58:28] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:58:42] Lizard Mode: Privileged process
+
+[2020-05-04 15:58:42] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:58:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:58:51] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:58:51] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:59:41] Lizard Mode: Privileged process
+
+[2020-05-04 15:59:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:59:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:59:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 15:59:43] Lizard Mode: Unprivileged process
+
+[2020-05-04 15:59:43] Lizard Mode: Restoring app mapping
+
+[2020-05-04 15:59:49] Lizard Mode: Privileged process
+
+[2020-05-04 15:59:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 15:59:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:00:07] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:00:07] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:00:21] Lizard Mode: Privileged process
+
+[2020-05-04 16:00:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:00:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:01:00] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:01:00] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:01:02] Lizard Mode: Privileged process
+
+[2020-05-04 16:01:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:01:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:01:02] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:01:02] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:01:08] Lizard Mode: Privileged process
+
+[2020-05-04 16:01:08] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:01:08] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:01:18] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:01:18] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:07:34] Lizard Mode: Privileged process
+
+[2020-05-04 16:07:34] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:07:34] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:07:36] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:07:36] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:07:37] Lizard Mode: Privileged process
+
+[2020-05-04 16:07:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:07:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:07:56] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:07:56] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:10:45] Lizard Mode: Privileged process
+
+[2020-05-04 16:10:45] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:10:45] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:10:48] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:10:48] Lizard Mode: Restoring app mapping
+
+[2020-05-04 16:10:48] Lizard Mode: Privileged process
+
+[2020-05-04 16:10:48] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 16:10:48] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 16:10:53] Lizard Mode: Unprivileged process
+
+[2020-05-04 16:10:53] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-04 21:58:26] Lizard Mode: Privileged process
+
+[2020-05-04 21:58:26] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 21:58:26] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 21:58:32] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 21:58:33] Lizard Mode: Unprivileged process
+
+[2020-05-04 21:58:33] Lizard Mode: Restoring app mapping
+
+[2020-05-04 21:58:42] Lizard Mode: Privileged process
+
+[2020-05-04 21:58:42] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 21:58:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 21:58:45] Lizard Mode: Unprivileged process
+
+[2020-05-04 21:58:45] Lizard Mode: Restoring app mapping
+
+[2020-05-04 22:31:21] Lizard Mode: Privileged process
+
+[2020-05-04 22:31:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-04 22:31:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-04 22:31:22] Lizard Mode: Unprivileged process
+
+[2020-05-04 22:31:22] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-05 22:06:31] Lizard Mode: Privileged process
+
+[2020-05-05 22:06:31] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-05 22:06:31] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-05 22:06:39] Lizard Mode: Unprivileged process
+
+[2020-05-05 22:06:39] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-06 11:11:27] [1076600]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:32] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:38] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:47] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:49] [755790]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:51] [34330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:52] [1118920]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:53] [291480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:53] [433850]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:54] [552990]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:55] [230410]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 11:11:57] [884660]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-06 11:13:38] Lizard Mode: Privileged process
+
+[2020-05-06 11:13:38] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 11:13:38] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 11:14:05] Lizard Mode: Unprivileged process
+
+[2020-05-06 11:14:05] Lizard Mode: Restoring app mapping
+
+[2020-05-06 11:14:18] Lizard Mode: Privileged process
+
+[2020-05-06 11:14:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 11:14:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 11:14:44] Lizard Mode: Unprivileged process
+
+[2020-05-06 11:14:44] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-06 13:06:01] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 13:06:24] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 13:07:03] Starting app 1281800
+
+[2020-05-06 13:35:02] Exiting app 1281800
+
+[2020-05-06 13:35:10] Starting app 909080
+
+[2020-05-06 14:04:10] Exiting app 909080
+
+[2020-05-06 17:33:07] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 17:55:20] Lizard Mode: Privileged process
+
+[2020-05-06 17:55:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 17:55:20] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 17:55:39] Lizard Mode: Unprivileged process
+
+[2020-05-06 17:55:39] Lizard Mode: Restoring app mapping
+
+[2020-05-06 17:56:23] Lizard Mode: Privileged process
+
+[2020-05-06 17:56:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 17:56:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 17:56:39] Lizard Mode: Unprivileged process
+
+[2020-05-06 17:56:39] Lizard Mode: Restoring app mapping
+
+[2020-05-06 17:56:53] Lizard Mode: Privileged process
+
+[2020-05-06 17:56:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 17:56:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 17:56:58] Lizard Mode: Unprivileged process
+
+[2020-05-06 17:56:58] Lizard Mode: Restoring app mapping
+
+[2020-05-06 17:57:02] Lizard Mode: Privileged process
+
+[2020-05-06 17:57:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 17:57:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 17:57:03] Lizard Mode: Unprivileged process
+
+[2020-05-06 17:57:03] Lizard Mode: Restoring app mapping
+
+[2020-05-06 17:59:29] Lizard Mode: Privileged process
+
+[2020-05-06 17:59:29] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 17:59:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 17:59:39] Lizard Mode: Unprivileged process
+
+[2020-05-06 17:59:39] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:00:22] Lizard Mode: Privileged process
+
+[2020-05-06 18:00:22] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:00:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:00:35] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:00:35] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:00:36] Lizard Mode: Privileged process
+
+[2020-05-06 18:00:36] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:00:36] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:00:56] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:00:56] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:02:22] Lizard Mode: Privileged process
+
+[2020-05-06 18:02:22] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:02:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:02:23] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:02:23] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:20:44] Lizard Mode: Privileged process
+
+[2020-05-06 18:20:44] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:20:44] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:20:47] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:20:47] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:27:16] Lizard Mode: Privileged process
+
+[2020-05-06 18:27:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:27:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:27:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:27:17] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:27:17] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:27:26] Lizard Mode: Privileged process
+
+[2020-05-06 18:27:26] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:27:26] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:27:28] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:27:28] Lizard Mode: Restoring app mapping
+
+[2020-05-06 18:28:04] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 18:28:04] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 18:28:04] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-06 18:37:10] Lizard Mode: Privileged process
+
+[2020-05-06 18:37:10] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 18:37:10] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 18:37:17] Lizard Mode: Unprivileged process
+
+[2020-05-06 18:37:17] Lizard Mode: Restoring app mapping
+
+[2020-05-06 19:00:48] Lizard Mode: Privileged process
+
+[2020-05-06 19:00:48] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-06 19:00:48] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-06 19:00:52] Lizard Mode: Unprivileged process
+
+[2020-05-06 19:00:52] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-07 13:11:56] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 13:13:05] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 13:13:18] [1161770]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 13:13:19] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 13:15:46] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 16:46:23] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 16:53:51] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 16:53:52] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 18:00:41] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 18:00:57] Lizard Mode: Privileged process
+
+[2020-05-07 18:00:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:00:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:00:57] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:00:57] Lizard Mode: Restoring app mapping
+
+[2020-05-07 18:01:01] Lizard Mode: Privileged process
+
+[2020-05-07 18:01:01] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:01:01] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:01:09] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:01:09] Lizard Mode: Restoring app mapping
+
+[2020-05-07 18:01:10] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 18:01:40] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 18:17:07] Lizard Mode: Privileged process
+
+[2020-05-07 18:17:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:17:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:17:17] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:17:17] Lizard Mode: Restoring app mapping
+
+[2020-05-07 18:17:25] Lizard Mode: Privileged process
+
+[2020-05-07 18:17:25] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:17:25] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:17:26] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:17:26] Lizard Mode: Restoring app mapping
+
+[2020-05-07 18:17:55] Lizard Mode: Privileged process
+
+[2020-05-07 18:17:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:17:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:17:55] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:17:55] Lizard Mode: Restoring app mapping
+
+[2020-05-07 18:17:56] Lizard Mode: Privileged process
+
+[2020-05-07 18:17:56] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:17:56] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:17:58] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:17:58] Lizard Mode: Restoring app mapping
+
+[2020-05-07 18:17:58] Lizard Mode: Privileged process
+
+[2020-05-07 18:17:58] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 18:17:58] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 18:18:00] Lizard Mode: Unprivileged process
+
+[2020-05-07 18:18:00] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-07 19:13:22] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 19:14:05] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-07 21:13:40] Lizard Mode: Privileged process
+
+[2020-05-07 21:13:40] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:13:40] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:14:00] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:14:00] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:14:10] Lizard Mode: Privileged process
+
+[2020-05-07 21:14:10] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:14:10] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:14:14] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:14:14] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:14:27] Lizard Mode: Privileged process
+
+[2020-05-07 21:14:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:14:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:14:30] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:14:30] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:14:39] Lizard Mode: Privileged process
+
+[2020-05-07 21:14:39] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:14:39] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:14:41] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:14:41] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:14:50] Lizard Mode: Privileged process
+
+[2020-05-07 21:14:50] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:14:50] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:15:10] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:15:10] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:15:41] Lizard Mode: Privileged process
+
+[2020-05-07 21:15:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:15:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:16:24] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:16:24] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:16:39] Lizard Mode: Privileged process
+
+[2020-05-07 21:16:39] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:16:39] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:16:43] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:16:43] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:16:48] Lizard Mode: Privileged process
+
+[2020-05-07 21:16:48] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:16:48] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:16:56] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:16:56] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:17:03] Lizard Mode: Privileged process
+
+[2020-05-07 21:17:03] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:17:03] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:17:11] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:17:11] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:20:29] Lizard Mode: Privileged process
+
+[2020-05-07 21:20:29] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:20:29] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:26:59] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:26:59] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:39:16] Lizard Mode: Privileged process
+
+[2020-05-07 21:39:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:39:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:39:19] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:39:19] Lizard Mode: Restoring app mapping
+
+[2020-05-07 21:58:14] Lizard Mode: Privileged process
+
+[2020-05-07 21:58:14] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 21:58:14] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 21:58:17] Lizard Mode: Unprivileged process
+
+[2020-05-07 21:58:17] Lizard Mode: Restoring app mapping
+
+[2020-05-07 22:19:45] Lizard Mode: Privileged process
+
+[2020-05-07 22:19:45] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 22:19:45] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 22:19:47] Lizard Mode: Unprivileged process
+
+[2020-05-07 22:19:47] Lizard Mode: Restoring app mapping
+
+[2020-05-07 22:23:56] Lizard Mode: Privileged process
+
+[2020-05-07 22:23:56] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-07 22:23:56] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-07 22:23:57] Lizard Mode: Unprivileged process
+
+[2020-05-07 22:23:57] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-08 10:06:12] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:06:12] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:06:14] Starting app 998930
+
+[2020-05-08 10:08:28] Lizard Mode: Privileged process
+
+[2020-05-08 10:08:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:08:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:08:29] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:08:29] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:08:32] Lizard Mode: Privileged process
+
+[2020-05-08 10:08:32] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:08:32] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:08:57] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:08:57] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:09:00] Lizard Mode: Privileged process
+
+[2020-05-08 10:09:00] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:09:00] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:09:02] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:09:02] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:09:10] Lizard Mode: Privileged process
+
+[2020-05-08 10:09:10] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:09:10] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:09:16] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:09:16] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:09:32] Lizard Mode: Privileged process
+
+[2020-05-08 10:09:32] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:09:32] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:10:16] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:10:16] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:10:19] Lizard Mode: Privileged process
+
+[2020-05-08 10:10:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:10:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:10:40] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:10:40] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:21:44] Exiting app 998930
+
+[2020-05-08 10:21:50] Starting app 998930
+
+[2020-05-08 10:22:28] Lizard Mode: Privileged process
+
+[2020-05-08 10:22:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:22:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:22:31] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:22:31] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:22:31] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:25:15] Exiting app 998930
+
+[2020-05-08 10:26:02] Lizard Mode: Privileged process
+
+[2020-05-08 10:26:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 10:26:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 10:26:03] Lizard Mode: Unprivileged process
+
+[2020-05-08 10:26:03] Lizard Mode: Restoring app mapping
+
+[2020-05-08 10:26:06] Starting app 998930
+
+[2020-05-08 10:27:23] Exiting app 998930
+
+[2020-05-08 10:27:54] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:28:00] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:28:00] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:28:03] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:28:03] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:28:04] [1161770]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:29:48] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:29:52] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:29:53] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 10:47:18] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 11:04:51] Lizard Mode: Privileged process
+
+[2020-05-08 11:04:51] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 11:04:51] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:04:53] Lizard Mode: Unprivileged process
+
+[2020-05-08 11:04:53] Lizard Mode: Restoring app mapping
+
+[2020-05-08 11:04:53] Lizard Mode: Privileged process
+
+[2020-05-08 11:04:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 11:04:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:04:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:04:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:04:58] Lizard Mode: Unprivileged process
+
+[2020-05-08 11:04:58] Lizard Mode: Restoring app mapping
+
+[2020-05-08 11:04:59] Lizard Mode: Privileged process
+
+[2020-05-08 11:04:59] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 11:04:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:05:03] Lizard Mode: Unprivileged process
+
+[2020-05-08 11:05:03] Lizard Mode: Restoring app mapping
+
+[2020-05-08 11:06:18] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 11:18:58] Starting app 909080
+
+[2020-05-08 11:20:15] Exiting app 909080
+
+[2020-05-08 11:20:18] Starting app 1281800
+
+[2020-05-08 11:44:05] Exiting app 1281800
+
+[2020-05-08 11:44:06] Lizard Mode: Privileged process
+
+[2020-05-08 11:44:06] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 11:44:06] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:44:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 11:44:07] Lizard Mode: Unprivileged process
+
+[2020-05-08 11:44:07] Lizard Mode: Restoring app mapping
+
+[2020-05-08 11:58:24] Starting app 998930
+
+[2020-05-08 11:59:10] Exiting app 998930
+
+[2020-05-08 12:06:42] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 12:22:28] Lizard Mode: Privileged process
+
+[2020-05-08 12:22:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 12:22:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 12:22:29] Lizard Mode: Unprivileged process
+
+[2020-05-08 12:22:29] Lizard Mode: Restoring app mapping
+
+[2020-05-08 12:26:13] Starting app 998930
+
+[2020-05-08 12:26:36] Starting app 909080
+
+[2020-05-08 12:26:40] Starting app 219740
+
+[2020-05-08 12:26:44] Starting app 644560
+
+[2020-05-08 12:26:47] Starting app 1281800
+
+[2020-05-08 12:27:21] Starting app 322330
+
+[2020-05-08 12:28:05] Lizard Mode: Privileged process
+
+[2020-05-08 12:28:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 12:28:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 12:28:08] Lizard Mode: Unprivileged process
+
+[2020-05-08 12:28:08] Lizard Mode: Restoring app mapping
+
+[2020-05-08 12:28:09] Lizard Mode: Privileged process
+
+[2020-05-08 12:28:09] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 12:28:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 12:28:10] Lizard Mode: Unprivileged process
+
+[2020-05-08 12:28:10] Lizard Mode: Restoring app mapping
+
+[2020-05-08 12:49:34] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 12:49:34] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 12:49:34] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 13:17:54] Lizard Mode: Privileged process
+
+[2020-05-08 13:17:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 13:17:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 13:17:56] Lizard Mode: Unprivileged process
+
+[2020-05-08 13:17:56] Lizard Mode: Restoring app mapping
+
+[2020-05-08 13:34:34] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 14:19:39] Lizard Mode: Privileged process
+
+[2020-05-08 14:19:39] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 14:19:39] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 14:19:40] Lizard Mode: Unprivileged process
+
+[2020-05-08 14:19:40] Lizard Mode: Restoring app mapping
+
+[2020-05-08 14:24:33] Lizard Mode: Privileged process
+
+[2020-05-08 14:24:33] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 14:24:33] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 14:24:35] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 14:24:35] Lizard Mode: Unprivileged process
+
+[2020-05-08 14:24:35] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-08 14:25:57] Lizard Mode: Privileged process
+
+[2020-05-08 14:25:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 14:25:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 14:25:58] Lizard Mode: Unprivileged process
+
+[2020-05-08 14:25:58] Lizard Mode: Restoring app mapping
+
+[2020-05-08 14:26:12] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 14:26:37] Starting app 909080
+
+[2020-05-08 14:26:40] Starting app 219740
+
+[2020-05-08 14:26:44] Starting app 1281800
+
+[2020-05-08 14:26:46] Starting app 998930
+
+[2020-05-08 14:26:49] Starting app 644560
+
+[2020-05-08 14:26:55] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 14:26:58] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 14:27:34] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 14:27:35] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 14:27:42] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:01:18] Lizard Mode: Privileged process
+
+[2020-05-08 15:01:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:01:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:01:18] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:01:18] Lizard Mode: Restoring app mapping
+
+[2020-05-08 15:01:30] Lizard Mode: Privileged process
+
+[2020-05-08 15:01:30] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:01:30] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:01:32] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:01:32] Lizard Mode: Restoring app mapping
+
+[2020-05-08 15:01:48] Lizard Mode: Privileged process
+
+[2020-05-08 15:01:48] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:01:48] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:01:52] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:01:52] Lizard Mode: Restoring app mapping
+
+[2020-05-08 15:02:02] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:02:02] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:02:02] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:02:02] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:02:02] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:02:02] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 15:38:17] Lizard Mode: Privileged process
+
+[2020-05-08 15:38:17] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:38:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:38:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:38:23] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:38:23] Lizard Mode: Restoring app mapping
+
+[2020-05-08 15:38:44] Lizard Mode: Privileged process
+
+[2020-05-08 15:38:44] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:38:44] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:38:48] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:38:48] Lizard Mode: Restoring app mapping
+
+[2020-05-08 15:40:52] Lizard Mode: Privileged process
+
+[2020-05-08 15:40:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:40:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:40:52] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:40:52] Lizard Mode: Restoring app mapping
+
+[2020-05-08 15:56:42] Lizard Mode: Privileged process
+
+[2020-05-08 15:56:42] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 15:56:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 15:56:43] Lizard Mode: Unprivileged process
+
+[2020-05-08 15:56:43] Lizard Mode: Restoring app mapping
+
+[2020-05-08 16:16:03] Lizard Mode: Privileged process
+
+[2020-05-08 16:16:03] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 16:16:03] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 16:16:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 16:16:05] Lizard Mode: Unprivileged process
+
+[2020-05-08 16:16:05] Lizard Mode: Restoring app mapping
+
+[2020-05-08 16:16:46] Lizard Mode: Privileged process
+
+[2020-05-08 16:16:46] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-08 16:16:46] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-08 16:16:49] Lizard Mode: Unprivileged process
+
+[2020-05-08 16:16:49] Lizard Mode: Restoring app mapping
+
+[2020-05-08 16:17:40] Starting app 322330
+
+[2020-05-08 16:17:44] Exiting app 322330
+
+[2020-05-08 18:47:03] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-08 21:19:27] Starting app 322330
+
+[2020-05-08 22:22:15] Exiting app 322330
+
+[2020-05-08 22:22:15] Exiting app 644560
+
+[2020-05-08 22:22:15] Exiting app 998930
+
+[2020-05-08 22:22:15] Exiting app 1281800
+
+[2020-05-08 22:22:15] Exiting app 219740
+
+[2020-05-08 22:22:15] Exiting app 909080
+
+
+
+[2020-05-09 10:35:15] Lizard Mode: Privileged process
+
+[2020-05-09 10:35:15] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:35:15] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:35:23] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:35:23] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:35:25] Lizard Mode: Privileged process
+
+[2020-05-09 10:35:25] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:35:25] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:35:27] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:35:27] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:35:54] Lizard Mode: Privileged process
+
+[2020-05-09 10:35:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:35:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:35:56] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:35:56] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:35:59] Lizard Mode: Privileged process
+
+[2020-05-09 10:35:59] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:35:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:36:04] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:36:04] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:36:11] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:36:55] Lizard Mode: Privileged process
+
+[2020-05-09 10:36:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:36:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:36:57] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:36:57] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:37:24] Lizard Mode: Privileged process
+
+[2020-05-09 10:37:24] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:37:24] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:37:26] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:37:26] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:37:31] [219740]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-09 10:39:30] Lizard Mode: Privileged process
+
+[2020-05-09 10:39:30] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:39:30] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:39:33] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:39:33] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:39:59] Lizard Mode: Privileged process
+
+[2020-05-09 10:39:59] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:39:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:07] Starting app 909080
+
+[2020-05-09 10:40:08] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:08] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:09] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:09] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:10] Starting app 219740
+
+[2020-05-09 10:40:11] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:11] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:12] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:12] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:12] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:14] Starting app 863550
+
+[2020-05-09 10:40:14] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:14] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:16] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:18] Starting app 644560
+
+[2020-05-09 10:40:18] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:18] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:19] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:21] Starting app 1281800
+
+[2020-05-09 10:40:22] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:22] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:23] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:29] Starting app 998930
+
+[2020-05-09 10:40:30] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:30] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:31] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:31] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:31] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:33] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:33] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:36] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:40:37] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:40:39] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:40:42] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:42] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:45] Starting app 441380
+
+[2020-05-09 10:40:46] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:46] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:40:47] Lizard Mode: Privileged process
+
+[2020-05-09 10:40:47] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:40:47] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:40:48] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:40:48] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:41:06] Lizard Mode: Privileged process
+
+[2020-05-09 10:41:06] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:41:06] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:41:13] Starting app 322330
+
+[2020-05-09 10:41:14] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:41:14] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:41:16] Lizard Mode: Privileged process
+
+[2020-05-09 10:41:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:41:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:41:16] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:41:16] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:41:25] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:41:27] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:41:28] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:41:29] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:41:31] Lizard Mode: Privileged process
+
+[2020-05-09 10:41:31] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:41:31] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:41:33] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:41:33] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:41:37] Lizard Mode: Privileged process
+
+[2020-05-09 10:41:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:41:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:41:43] Starting app 826480
+
+[2020-05-09 10:41:43] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:41:43] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:41:45] Lizard Mode: Privileged process
+
+[2020-05-09 10:41:45] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:41:45] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:41:45] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:41:45] Lizard Mode: Restoring app mapping
+
+[2020-05-09 10:41:51] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:42:11] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 10:42:39] Lizard Mode: Privileged process
+
+[2020-05-09 10:42:39] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 10:42:39] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 10:42:40] Lizard Mode: Unprivileged process
+
+[2020-05-09 10:42:40] Lizard Mode: Restoring app mapping
+
+[2020-05-09 18:52:58] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-09 22:19:17] Lizard Mode: Privileged process
+
+[2020-05-09 22:19:17] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:19:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:19:27] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:19:27] Lizard Mode: Restoring app mapping
+
+[2020-05-09 22:21:07] Lizard Mode: Privileged process
+
+[2020-05-09 22:21:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:21:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:21:09] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:21:09] Lizard Mode: Restoring app mapping
+
+[2020-05-09 22:52:41] Lizard Mode: Privileged process
+
+[2020-05-09 22:52:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:52:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:52:41] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:52:41] Lizard Mode: Restoring app mapping
+
+[2020-05-09 22:52:41] Exiting app 441380
+
+[2020-05-09 22:52:41] Exiting app 998930
+
+[2020-05-09 22:52:41] Exiting app 644560
+
+[2020-05-09 22:52:41] Exiting app 863550
+
+[2020-05-09 22:52:41] Exiting app 219740
+
+[2020-05-09 22:52:41] Exiting app 826480
+
+[2020-05-09 22:52:41] Exiting app 322330
+
+[2020-05-09 22:52:41] Exiting app 1281800
+
+[2020-05-09 22:52:41] Exiting app 909080
+
+[2020-05-09 22:54:08] Lizard Mode: Privileged process
+
+[2020-05-09 22:54:08] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:54:08] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:54:09] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:54:09] Lizard Mode: Restoring app mapping
+
+[2020-05-09 22:54:09] Lizard Mode: Privileged process
+
+[2020-05-09 22:54:09] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:54:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:54:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:54:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:54:19] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:54:19] Lizard Mode: Restoring app mapping
+
+[2020-05-09 22:58:26] Lizard Mode: Privileged process
+
+[2020-05-09 22:58:26] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:58:26] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:58:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:58:29] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:58:29] Lizard Mode: Restoring app mapping
+
+[2020-05-09 22:58:52] Lizard Mode: Privileged process
+
+[2020-05-09 22:58:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-09 22:58:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-09 22:58:56] Lizard Mode: Unprivileged process
+
+[2020-05-09 22:58:56] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-10 10:39:22] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:39:23] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:39:38] Starting app 998930
+
+[2020-05-10 10:39:44] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:40:02] Starting app 909080
+
+[2020-05-10 10:40:06] Starting app 863550
+
+[2020-05-10 10:40:08] Starting app 644560
+
+[2020-05-10 10:40:11] Starting app 441380
+
+[2020-05-10 10:40:13] Starting app 1281800
+
+[2020-05-10 10:40:19] Starting app 219740
+
+[2020-05-10 10:40:42] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:41:04] Starting app 322330
+
+[2020-05-10 10:41:10] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:41:11] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:41:20] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 10:41:20] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 11:04:22] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 11:04:23] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 13:43:15] Exiting app 322330
+
+[2020-05-10 13:43:15] Exiting app 219740
+
+[2020-05-10 13:43:15] Exiting app 1281800
+
+[2020-05-10 13:43:15] Exiting app 441380
+
+[2020-05-10 13:43:15] Exiting app 644560
+
+[2020-05-10 13:43:15] Exiting app 863550
+
+[2020-05-10 13:43:15] Exiting app 909080
+
+[2020-05-10 13:43:15] Exiting app 998930
+
+
+
+[2020-05-10 14:05:23] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:05:32] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:05:34] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:05:50] Starting app 958260
+
+[2020-05-10 14:05:55] Starting app 909080
+
+[2020-05-10 14:05:57] Starting app 219740
+
+[2020-05-10 14:06:00] Starting app 838380
+
+[2020-05-10 14:06:06] Starting app 863550
+
+[2020-05-10 14:06:08] Starting app 644560
+
+[2020-05-10 14:06:11] Starting app 441380
+
+[2020-05-10 14:06:13] Starting app 1281800
+
+[2020-05-10 14:06:16] Starting app 998930
+
+[2020-05-10 14:06:20] Starting app 1122750
+
+[2020-05-10 14:06:33] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:06:34] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:06:48] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:06:59] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:07:00] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:07:02] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 14:07:21] Starting app 322330
+
+[2020-05-10 14:37:17] Lizard Mode: Privileged process
+
+[2020-05-10 14:37:17] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 14:37:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 14:37:24] Lizard Mode: Unprivileged process
+
+[2020-05-10 14:37:24] Lizard Mode: Restoring app mapping
+
+[2020-05-10 16:53:18] Lizard Mode: Privileged process
+
+[2020-05-10 16:53:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 16:53:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 16:53:21] Lizard Mode: Unprivileged process
+
+[2020-05-10 16:53:21] Lizard Mode: Restoring app mapping
+
+[2020-05-10 16:53:49] Lizard Mode: Privileged process
+
+[2020-05-10 16:53:49] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 16:53:49] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 16:53:53] Lizard Mode: Unprivileged process
+
+[2020-05-10 16:53:53] Lizard Mode: Restoring app mapping
+
+[2020-05-10 16:54:48] Lizard Mode: Privileged process
+
+[2020-05-10 16:54:48] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 16:54:48] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 16:54:55] Lizard Mode: Unprivileged process
+
+[2020-05-10 16:54:55] Lizard Mode: Restoring app mapping
+
+[2020-05-10 16:55:06] Exiting app 219740
+
+[2020-05-10 16:55:06] Exiting app 1122750
+
+[2020-05-10 16:55:06] Exiting app 998930
+
+[2020-05-10 16:55:06] Exiting app 1281800
+
+[2020-05-10 16:55:06] Exiting app 441380
+
+[2020-05-10 16:55:06] Exiting app 644560
+
+[2020-05-10 16:55:06] Exiting app 863550
+
+[2020-05-10 16:55:06] Exiting app 838380
+
+[2020-05-10 16:55:06] Exiting app 909080
+
+[2020-05-10 16:55:06] Exiting app 958260
+
+
+
+[2020-05-10 16:58:01] Lizard Mode: Privileged process
+
+[2020-05-10 16:58:01] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 16:58:01] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 16:58:07] Lizard Mode: Unprivileged process
+
+[2020-05-10 16:58:07] Lizard Mode: Restoring app mapping
+
+[2020-05-10 16:58:07] Lizard Mode: Privileged process
+
+[2020-05-10 16:58:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 16:58:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 16:58:19] Lizard Mode: Unprivileged process
+
+[2020-05-10 16:58:19] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-10 17:02:55] Lizard Mode: Privileged process
+
+[2020-05-10 17:02:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:02:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:03:09] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:03:09] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:03:09] Lizard Mode: Privileged process
+
+[2020-05-10 17:03:09] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:03:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:03:10] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:03:10] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:03:11] Lizard Mode: Privileged process
+
+[2020-05-10 17:03:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:03:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:03:12] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:03:12] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-10 17:07:07] Starting app 322330
+
+[2020-05-10 17:07:31] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 17:07:31] Exiting app 322330
+
+[2020-05-10 17:07:32] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 17:08:05] Lizard Mode: Privileged process
+
+[2020-05-10 17:08:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:08:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:08:24] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:08:24] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:08:43] Lizard Mode: Privileged process
+
+[2020-05-10 17:08:43] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:08:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:08:44] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:08:44] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:09:05] Lizard Mode: Privileged process
+
+[2020-05-10 17:09:05] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:09:05] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:09:07] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:09:07] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:09:10] Lizard Mode: Privileged process
+
+[2020-05-10 17:09:10] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:09:10] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:09:10] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:09:10] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:09:10] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:13:12] Lizard Mode: Privileged process
+
+[2020-05-10 17:13:12] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:13:12] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:13:15] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:13:15] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:13:16] Lizard Mode: Privileged process
+
+[2020-05-10 17:13:16] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:13:16] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:13:17] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:13:17] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:13:22] Lizard Mode: Privileged process
+
+[2020-05-10 17:13:22] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:13:22] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:13:25] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:13:25] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:14:57] Lizard Mode: Privileged process
+
+[2020-05-10 17:14:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:14:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:14:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:14:59] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:15:17] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:15:18] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:15:18] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:15:21] Lizard Mode: Privileged process
+
+[2020-05-10 17:15:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:15:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:15:21] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:15:21] Lizard Mode: Restoring app mapping
+
+[2020-05-10 17:17:11] Lizard Mode: Privileged process
+
+[2020-05-10 17:17:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 17:17:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 17:17:23] Lizard Mode: Unprivileged process
+
+[2020-05-10 17:17:23] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-10 18:27:38] Lizard Mode: Privileged process
+
+[2020-05-10 18:27:38] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 18:27:38] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 18:27:39] Lizard Mode: Unprivileged process
+
+[2020-05-10 18:27:39] Lizard Mode: Restoring app mapping
+
+[2020-05-10 18:27:39] Lizard Mode: Privileged process
+
+[2020-05-10 18:27:39] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 18:27:39] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 18:27:42] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 18:27:43] Lizard Mode: Unprivileged process
+
+[2020-05-10 18:27:43] Lizard Mode: Restoring app mapping
+
+[2020-05-10 18:27:52] Lizard Mode: Privileged process
+
+[2020-05-10 18:27:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 18:27:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 18:27:54] Lizard Mode: Unprivileged process
+
+[2020-05-10 18:27:54] Lizard Mode: Restoring app mapping
+
+[2020-05-10 18:28:48] Starting app 322330
+
+[2020-05-10 18:28:55] Lizard Mode: Privileged process
+
+[2020-05-10 18:28:55] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 18:28:55] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 18:28:57] Lizard Mode: Unprivileged process
+
+[2020-05-10 18:28:57] Lizard Mode: Restoring app mapping
+
+[2020-05-10 18:29:01] [826480]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-10 18:30:06] Starting app 322330
+
+[2020-05-10 18:30:20] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 18:30:39] Starting app 909080
+
+[2020-05-10 18:30:42] Starting app 838380
+
+[2020-05-10 18:30:45] Starting app 219740
+
+[2020-05-10 18:30:51] Starting app 863550
+
+[2020-05-10 18:30:54] Starting app 644560
+
+[2020-05-10 18:30:57] Starting app 998930
+
+[2020-05-10 18:31:03] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 18:31:09] Starting app 1076280
+
+[2020-05-10 18:31:12] Starting app 1281800
+
+[2020-05-10 18:31:19] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 18:31:29] Starting app 826480
+
+[2020-05-10 18:55:03] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:55:56] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:18] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:22] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:26] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:28] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:29] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:30] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:32] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-10 20:56:41] Lizard Mode: Privileged process
+
+[2020-05-10 20:56:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-10 20:56:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-10 20:57:00] Lizard Mode: Unprivileged process
+
+[2020-05-10 20:57:00] Lizard Mode: Restoring app mapping
+
+[2020-05-10 22:24:55] Exiting app 826480
+
+[2020-05-10 22:24:55] Exiting app 1281800
+
+[2020-05-10 22:24:55] Exiting app 1076280
+
+[2020-05-10 22:24:55] Exiting app 998930
+
+[2020-05-10 22:24:55] Exiting app 644560
+
+[2020-05-10 22:24:55] Exiting app 863550
+
+[2020-05-10 22:24:55] Exiting app 219740
+
+[2020-05-10 22:24:55] Exiting app 838380
+
+[2020-05-10 22:24:55] Exiting app 909080
+
+[2020-05-10 22:24:55] Exiting app 322330
+
+
+
+[2020-05-11 10:58:11] Lizard Mode: Privileged process
+
+[2020-05-11 10:58:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-11 10:58:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-11 10:58:12] Lizard Mode: Unprivileged process
+
+[2020-05-11 10:58:12] Lizard Mode: Restoring app mapping
+
+[2020-05-11 10:58:12] Lizard Mode: Privileged process
+
+[2020-05-11 10:58:12] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-11 10:58:12] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-11 10:58:15] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-11 10:58:16] Lizard Mode: Unprivileged process
+
+[2020-05-11 10:58:16] Lizard Mode: Restoring app mapping
+
+[2020-05-11 10:58:20] Lizard Mode: Privileged process
+
+[2020-05-11 10:58:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-11 10:58:20] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-11 10:58:21] Lizard Mode: Unprivileged process
+
+[2020-05-11 10:58:21] Lizard Mode: Restoring app mapping
+
+[2020-05-11 11:01:19] Lizard Mode: Privileged process
+
+[2020-05-11 11:01:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-11 11:01:19] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-11 11:01:24] Lizard Mode: Unprivileged process
+
+[2020-05-11 11:01:24] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-11 11:04:47] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:04:50] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:05:19] Starting app 322330
+
+[2020-05-11 11:05:24] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:05:24] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:05:33] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:05:47] Starting app 909080
+
+[2020-05-11 11:05:49] Starting app 332950
+
+[2020-05-11 11:05:52] Starting app 838380
+
+[2020-05-11 11:05:54] Starting app 921590
+
+[2020-05-11 11:05:57] Starting app 219740
+
+[2020-05-11 11:06:06] Starting app 974470
+
+[2020-05-11 11:06:09] Starting app 863550
+
+[2020-05-11 11:06:10] Exiting app 974470
+
+[2020-05-11 11:06:15] Starting app 1281800
+
+[2020-05-11 11:06:19] Starting app 998930
+
+[2020-05-11 11:06:22] Starting app 1076280
+
+[2020-05-11 11:06:28] Starting app 1122750
+
+[2020-05-11 11:06:34] Starting app 974470
+
+[2020-05-11 11:13:23] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:13:23] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:13:23] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:14:30] Exiting app 974470
+
+[2020-05-11 11:30:42] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:30:42] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:30:42] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 11:43:54] Exiting app 332950
+
+[2020-05-11 11:43:54] Exiting app 219740
+
+[2020-05-11 11:43:54] Exiting app 909080
+
+[2020-05-11 11:43:56] Exiting app 838380
+
+[2020-05-11 11:43:56] Exiting app 322330
+
+[2020-05-11 11:43:56] Exiting app 1122750
+
+[2020-05-11 11:43:56] Exiting app 1076280
+
+[2020-05-11 11:43:56] Exiting app 998930
+
+[2020-05-11 11:43:56] Exiting app 1281800
+
+[2020-05-11 11:43:56] Exiting app 863550
+
+[2020-05-11 11:43:56] Exiting app 921590
+
+[2020-05-11 11:45:42] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:29:54] Starting app 322330
+
+[2020-05-11 12:30:27] Starting app 909080
+
+[2020-05-11 12:30:30] Starting app 332950
+
+[2020-05-11 12:30:33] Starting app 838380
+
+[2020-05-11 12:30:35] Starting app 921590
+
+[2020-05-11 12:30:39] Starting app 219740
+
+[2020-05-11 12:30:45] Starting app 974470
+
+[2020-05-11 12:30:48] Starting app 863550
+
+[2020-05-11 12:30:53] Starting app 441380
+
+[2020-05-11 12:31:05] Starting app 998930
+
+[2020-05-11 12:31:08] Starting app 1281800
+
+[2020-05-11 12:31:10] Starting app 1076280
+
+[2020-05-11 12:31:13] Starting app 1122750
+
+[2020-05-11 12:31:23] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:31:39] Starting app 826480
+
+[2020-05-11 12:31:43] Starting app 644560
+
+[2020-05-11 12:42:02] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:42:04] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:42:07] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 12:55:02] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:17:54] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:30:33] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:18] Exiting app 644560
+
+[2020-05-11 13:33:51] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:51] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:51] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:51] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:51] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:51] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:51] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:33:52] Starting app 644560
+
+[2020-05-11 13:38:58] Exiting app 644560
+
+[2020-05-11 13:39:18] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:18] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:18] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:18] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:18] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:18] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:18] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:40] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:39:41] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:40:03] Starting app 644560
+
+[2020-05-11 13:40:10] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:40:11] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 13:40:28] Starting app 958260
+
+[2020-05-11 13:55:39] Starting app 862690
+
+[2020-05-11 13:59:47] Exiting app 862690
+
+[2020-05-11 14:00:25] Exiting app 998930
+
+[2020-05-11 14:00:25] Exiting app 441380
+
+[2020-05-11 14:00:25] Exiting app 863550
+
+[2020-05-11 14:00:25] Exiting app 974470
+
+[2020-05-11 14:00:25] Exiting app 219740
+
+[2020-05-11 14:00:25] Exiting app 921590
+
+[2020-05-11 14:00:25] Exiting app 838380
+
+[2020-05-11 14:00:25] Exiting app 332950
+
+[2020-05-11 14:00:25] Exiting app 909080
+
+[2020-05-11 14:00:25] Exiting app 322330
+
+[2020-05-11 14:00:25] Exiting app 958260
+
+[2020-05-11 14:00:25] Exiting app 644560
+
+[2020-05-11 14:00:25] Exiting app 826480
+
+[2020-05-11 14:00:25] Exiting app 1122750
+
+[2020-05-11 14:00:25] Exiting app 1076280
+
+[2020-05-11 14:00:25] Exiting app 1281800
+
+
+
+[2020-05-11 14:01:27] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 14:01:28] Starting app 974470
+
+[2020-05-11 14:10:14] Exiting app 974470
+
+
+
+[2020-05-11 17:59:21] Starting app 480
+
+[2020-05-11 17:59:28] Exiting app 480
+
+[2020-05-11 17:59:29] Starting app 958260
+
+[2020-05-11 17:59:45] Starting app 322330
+
+[2020-05-11 17:59:54] Starting app 826480
+
+[2020-05-11 18:00:09] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:00:12] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:00:19] Starting app 909080
+
+[2020-05-11 18:00:22] Starting app 332950
+
+[2020-05-11 18:00:27] Starting app 838380
+
+[2020-05-11 18:00:29] Starting app 921590
+
+[2020-05-11 18:00:32] Starting app 219740
+
+[2020-05-11 18:00:38] Starting app 974470
+
+[2020-05-11 18:00:41] Starting app 863550
+
+[2020-05-11 18:00:47] Starting app 862690
+
+[2020-05-11 18:00:50] Starting app 644560
+
+[2020-05-11 18:00:52] Starting app 441380
+
+[2020-05-11 18:00:56] Starting app 1281800
+
+[2020-05-11 18:00:59] Starting app 998930
+
+[2020-05-11 18:01:02] Starting app 1076280
+
+[2020-05-11 18:01:12] Starting app 1122750
+
+[2020-05-11 18:01:17] [1161770]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:01:20] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:01:20] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:01:28] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:01:35] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:02:56] [1161770]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:03:03] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:03:05] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:03:08] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-11 18:12:12] [1161770]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-12 13:25:52] Lizard Mode: Privileged process
+
+[2020-05-12 13:25:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 13:25:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 13:25:53] Lizard Mode: Unprivileged process
+
+[2020-05-12 13:25:53] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-12 13:46:34] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 13:46:36] Starting app 644560
+
+[2020-05-12 14:01:38] Exiting app 644560
+
+[2020-05-12 14:24:52] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 14:24:52] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 14:24:57] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 14:26:05] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 14:26:10] Starting app 998930
+
+[2020-05-12 14:27:53] Exiting app 998930
+
+[2020-05-12 14:38:11] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 14:43:07] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 15:18:18] Lizard Mode: Privileged process
+
+[2020-05-12 15:18:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 15:18:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 15:18:19] Lizard Mode: Unprivileged process
+
+[2020-05-12 15:18:19] Lizard Mode: Restoring app mapping
+
+[2020-05-12 15:42:18] Lizard Mode: Privileged process
+
+[2020-05-12 15:42:18] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 15:42:18] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 15:42:31] Lizard Mode: Unprivileged process
+
+[2020-05-12 15:42:31] Lizard Mode: Restoring app mapping
+
+[2020-05-12 15:45:11] Lizard Mode: Privileged process
+
+[2020-05-12 15:45:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 15:45:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 15:45:12] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 15:45:13] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 15:45:13] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 15:45:13] Lizard Mode: Unprivileged process
+
+[2020-05-12 15:45:13] Lizard Mode: Restoring app mapping
+
+[2020-05-12 16:14:35] Lizard Mode: Privileged process
+
+[2020-05-12 16:14:35] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 16:14:35] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 16:14:39] Lizard Mode: Unprivileged process
+
+[2020-05-12 16:14:39] Lizard Mode: Restoring app mapping
+
+[2020-05-12 16:19:11] Lizard Mode: Privileged process
+
+[2020-05-12 16:19:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 16:19:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 16:19:12] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 16:19:12] Lizard Mode: Unprivileged process
+
+[2020-05-12 16:19:12] Lizard Mode: Restoring app mapping
+
+[2020-05-12 16:39:21] Lizard Mode: Privileged process
+
+[2020-05-12 16:39:21] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 16:39:21] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 16:39:23] Lizard Mode: Unprivileged process
+
+[2020-05-12 16:39:23] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-12 17:00:29] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:01:45] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:02:23] Lizard Mode: Privileged process
+
+[2020-05-12 17:02:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 17:02:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 17:02:26] Lizard Mode: Unprivileged process
+
+[2020-05-12 17:02:26] Lizard Mode: Restoring app mapping
+
+[2020-05-12 17:02:28] Lizard Mode: Privileged process
+
+[2020-05-12 17:02:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 17:02:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 17:02:32] Lizard Mode: Unprivileged process
+
+[2020-05-12 17:02:32] Lizard Mode: Restoring app mapping
+
+[2020-05-12 17:04:07] Lizard Mode: Privileged process
+
+[2020-05-12 17:04:07] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 17:04:07] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 17:04:08] Lizard Mode: Unprivileged process
+
+[2020-05-12 17:04:08] Lizard Mode: Restoring app mapping
+
+[2020-05-12 17:04:46] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:05:19] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:06:37] Lizard Mode: Privileged process
+
+[2020-05-12 17:06:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-12 17:06:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-12 17:07:19] Lizard Mode: Unprivileged process
+
+[2020-05-12 17:07:19] Lizard Mode: Restoring app mapping
+
+[2020-05-12 17:07:24] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:07:33] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:07:36] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 17:07:44] [921590]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-12 21:21:37] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 21:21:42] Starting app 644560
+
+[2020-05-12 22:16:25] Exiting app 644560
+
+[2020-05-12 22:29:55] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-12 22:31:27] Starting app 909080
+
+[2020-05-12 22:38:49] Exiting app 909080
+
+
+
+[2020-05-13 12:08:07] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-13 13:37:26] Lizard Mode: Privileged process
+
+[2020-05-13 13:37:26] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:37:26] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:37:34] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:37:34] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:45:02] Lizard Mode: Privileged process
+
+[2020-05-13 13:45:02] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:45:02] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:45:03] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:45:03] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:45:04] Lizard Mode: Privileged process
+
+[2020-05-13 13:45:04] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:45:04] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:45:06] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:45:06] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:45:41] Lizard Mode: Privileged process
+
+[2020-05-13 13:45:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:45:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:45:47] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:45:47] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:49:30] Lizard Mode: Privileged process
+
+[2020-05-13 13:49:30] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:49:30] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:49:31] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:49:31] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:49:32] Lizard Mode: Privileged process
+
+[2020-05-13 13:49:32] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:49:32] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:49:34] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:49:34] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:50:11] Lizard Mode: Privileged process
+
+[2020-05-13 13:50:11] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:50:11] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:50:17] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:50:17] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:51:25] Lizard Mode: Privileged process
+
+[2020-05-13 13:51:25] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:51:25] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:51:26] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:51:26] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:51:27] Lizard Mode: Privileged process
+
+[2020-05-13 13:51:27] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:51:27] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:51:28] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:51:28] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:56:37] Lizard Mode: Privileged process
+
+[2020-05-13 13:56:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:56:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:56:39] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:56:39] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:56:39] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:56:43] Lizard Mode: Privileged process
+
+[2020-05-13 13:56:43] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:56:43] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:56:54] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:56:54] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:56:57] Lizard Mode: Privileged process
+
+[2020-05-13 13:56:57] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:56:57] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:57:04] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:57:04] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:57:14] Lizard Mode: Privileged process
+
+[2020-05-13 13:57:14] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:57:14] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:57:17] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:57:17] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:57:20] Lizard Mode: Privileged process
+
+[2020-05-13 13:57:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:57:20] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:57:21] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:57:21] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:57:53] Lizard Mode: Privileged process
+
+[2020-05-13 13:57:53] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:57:53] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:57:54] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:57:54] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:58:28] Lizard Mode: Privileged process
+
+[2020-05-13 13:58:28] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:58:28] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:58:34] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:58:34] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:58:37] Lizard Mode: Privileged process
+
+[2020-05-13 13:58:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:58:37] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:58:40] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:58:40] Lizard Mode: Restoring app mapping
+
+[2020-05-13 13:58:41] Lizard Mode: Privileged process
+
+[2020-05-13 13:58:41] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 13:58:41] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 13:58:41] Lizard Mode: Unprivileged process
+
+[2020-05-13 13:58:41] Lizard Mode: Restoring app mapping
+
+[2020-05-13 14:03:03] Lizard Mode: Privileged process
+
+[2020-05-13 14:03:03] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 14:03:03] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 14:03:05] Lizard Mode: Unprivileged process
+
+[2020-05-13 14:03:05] Lizard Mode: Restoring app mapping
+
+[2020-05-13 14:03:09] Lizard Mode: Privileged process
+
+[2020-05-13 14:03:09] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-13 14:03:09] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-13 14:03:12] Lizard Mode: Unprivileged process
+
+[2020-05-13 14:03:12] Lizard Mode: Restoring app mapping
+
+[2020-05-13 16:43:11] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-13 19:18:24] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-13 19:18:25] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-13 19:18:31] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-13 20:13:13] [644560]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-14 09:47:47] Starting app 322330
+
+[2020-05-14 09:48:27] Starting app 909080
+
+[2020-05-14 09:48:30] Starting app 332950
+
+[2020-05-14 09:48:32] Starting app 838380
+
+[2020-05-14 09:48:34] Starting app 921590
+
+[2020-05-14 09:48:37] Starting app 219740
+
+[2020-05-14 09:48:41] Starting app 974470
+
+[2020-05-14 09:48:43] Starting app 863550
+
+[2020-05-14 09:48:46] Starting app 862690
+
+[2020-05-14 09:48:49] Starting app 644560
+
+[2020-05-14 09:48:52] Starting app 441380
+
+[2020-05-14 09:48:55] Starting app 1281800
+
+[2020-05-14 09:48:58] Starting app 998930
+
+[2020-05-14 09:49:00] Starting app 1076280
+
+[2020-05-14 09:49:03] Starting app 1122750
+
+[2020-05-14 09:49:30] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 09:49:44] Starting app 958260
+
+[2020-05-14 09:49:47] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 09:50:02] Starting app 826480
+
+[2020-05-14 11:02:57] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 11:02:57] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 11:58:28] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 11:58:29] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 12:02:58] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 12:32:58] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 13:03:01] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 17:17:51] [958260]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 18:06:39] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:38:27] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:38:28] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:38:30] [838380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:20] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:22] [1161770]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:22] [921590]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:30] [219740]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:31] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:37] [308600]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:39] [863550]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:44] [943700]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:45] [441380]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:46] [950460]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:48] [1076280]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:39:49] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:40:30] [1253950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:40:39] Exiting app 826480
+
+[2020-05-14 20:40:39] Exiting app 958260
+
+[2020-05-14 20:40:39] Exiting app 1122750
+
+[2020-05-14 20:40:39] Exiting app 1076280
+
+[2020-05-14 20:40:39] Exiting app 998930
+
+[2020-05-14 20:40:39] Exiting app 1281800
+
+[2020-05-14 20:40:39] Exiting app 441380
+
+[2020-05-14 20:40:39] Exiting app 644560
+
+[2020-05-14 20:40:39] Exiting app 862690
+
+[2020-05-14 20:40:39] Exiting app 863550
+
+[2020-05-14 20:40:39] Exiting app 974470
+
+[2020-05-14 20:40:39] Exiting app 219740
+
+[2020-05-14 20:40:39] Exiting app 921590
+
+[2020-05-14 20:40:39] Exiting app 838380
+
+[2020-05-14 20:40:39] Exiting app 332950
+
+[2020-05-14 20:40:39] Exiting app 909080
+
+[2020-05-14 20:40:39] Exiting app 322330
+
+
+
+[2020-05-14 20:53:55] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:54:18] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:54:33] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 20:54:34] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-14 21:12:23] Lizard Mode: Privileged process
+
+[2020-05-14 21:12:23] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 21:12:23] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 21:12:24] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 21:12:28] Lizard Mode: Unprivileged process
+
+[2020-05-14 21:12:28] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-14 22:15:46] Lizard Mode: Privileged process
+
+[2020-05-14 22:15:46] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:15:46] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:16:02] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:16:02] Lizard Mode: Restoring app mapping
+
+[2020-05-14 22:16:04] Lizard Mode: Privileged process
+
+[2020-05-14 22:16:04] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:16:04] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:16:41] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:16:41] Lizard Mode: Restoring app mapping
+
+[2020-05-14 22:17:54] Lizard Mode: Privileged process
+
+[2020-05-14 22:17:54] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:17:54] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:17:59] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:17:59] Lizard Mode: Restoring app mapping
+
+[2020-05-14 22:18:35] Lizard Mode: Privileged process
+
+[2020-05-14 22:18:35] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:18:35] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:18:47] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:18:47] Lizard Mode: Restoring app mapping
+
+[2020-05-14 22:19:10] Lizard Mode: Privileged process
+
+[2020-05-14 22:19:10] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:19:10] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:19:24] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:19:24] Lizard Mode: Restoring app mapping
+
+[2020-05-14 22:19:52] Lizard Mode: Privileged process
+
+[2020-05-14 22:19:52] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:19:52] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:20:38] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:20:38] Lizard Mode: Restoring app mapping
+
+[2020-05-14 22:21:44] Lizard Mode: Privileged process
+
+[2020-05-14 22:21:44] Lizard Mode: Reverting to default M/KB Configuration
+
+[2020-05-14 22:21:44] OnFocusWindowChanged to Lizard Mode
+
+[2020-05-14 22:22:12] Lizard Mode: Unprivileged process
+
+[2020-05-14 22:22:12] Lizard Mode: Restoring app mapping
+
+
+
+[2020-05-16 15:11:03] [826480]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-21 19:24:44] Starting app 644560
+
+[2020-05-21 19:24:50] Exiting app 644560
+
+[2020-05-21 19:24:57] [644560]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-21 21:16:25] Starting app 644560
+
+[2020-05-21 21:16:34] Exiting app 644560
+
+[2020-05-21 21:16:49] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-21 21:16:50] Starting app 644560
+
+[2020-05-21 21:16:57] Exiting app 644560
+
+[2020-05-21 21:17:40] Starting app 644560
+
+[2020-05-21 21:17:47] Exiting app 644560
+
+[2020-05-21 21:19:49] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-21 21:20:18] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-21 21:20:20] Starting app 909080
+
+[2020-05-21 21:20:58] Exiting app 909080
+
+[2020-05-21 21:21:01] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-21 21:21:04] Starting app 862690
+
+[2020-05-21 21:21:25] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-21 21:21:28] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-21 21:21:31] Starting app 998930
+
+[2020-05-21 21:21:52] Exiting app 998930
+
+[2020-05-21 21:31:28] Exiting app 862690
+
+
+
+[2020-05-22 10:17:50] Starting app 322330
+
+[2020-05-22 10:21:37] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 10:21:54] Exiting app 322330
+
+[2020-05-22 13:13:00] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 13:13:35] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 13:13:35] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 13:13:57] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 13:14:00] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:41:20] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:41:20] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:41:20] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:41:20] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:41:20] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:41:20] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 18:56:15] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 19:09:41] [530210]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 19:13:48] Starting app 530210
+
+[2020-05-22 19:26:15] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-22 19:26:58] Exiting app 530210
+
+[2020-05-22 19:56:15] [644560]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-23 10:16:56] Starting app 950460
+
+[2020-05-23 10:18:24] Exiting app 950460
+
+[2020-05-23 10:19:34] Starting app 909080
+
+[2020-05-23 10:20:02] Starting app 579110
+
+[2020-05-23 10:20:23] Exiting app 909080
+
+[2020-05-23 10:20:28] Exiting app 579110
+
+[2020-05-23 10:20:34] Starting app 1281800
+
+[2020-05-23 10:23:38] Exiting app 1281800
+
+[2020-05-23 10:25:29] Starting app 308600
+
+[2020-05-23 10:26:59] Exiting app 308600
+
+[2020-05-23 10:27:32] Starting app 1258080
+
+[2020-05-23 10:29:31] Exiting app 1258080
+
+[2020-05-23 10:34:21] Starting app 1122750
+
+[2020-05-23 10:35:32] Exiting app 1122750
+
+[2020-05-23 10:35:50] Starting app 444930
+
+[2020-05-23 10:36:22] Exiting app 444930
+
+[2020-05-23 10:37:13] Starting app 332950
+
+[2020-05-23 10:38:11] Exiting app 332950
+
+[2020-05-23 10:41:06] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:11] [314970]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:13] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:20] [579110]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:27] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:31] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:37] [950460]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:40] [308600]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:41:50] [444930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:42:07] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:42:25] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:42:33] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:42:44] [530210]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 10:43:10] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 11:30:48] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 12:30:49] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 13:30:49] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 15:45:48] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 16:15:49] [308600]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 16:30:49] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 17:30:50] [579110]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 18:45:49] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 19:45:49] [579110]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [530210]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [862690]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [308600]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [579110]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [950460]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [314970]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [1258080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-23 20:02:50] [444930]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-25 07:52:13] [950460]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 07:52:31] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 07:58:34] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:01:49] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:01:49] [221100]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:01:55] [530210]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:02:10] [435790]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:02:15] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:02:18] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:02:34] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:02:40] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:24:41] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 08:24:42] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 12:21:46] [435790]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [322330]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [530210]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [909080]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [950460]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [1122750]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [1281800]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [435790]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 17:34:05] [221100]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-25 18:09:45] [863550]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-26 12:02:30] [1224230]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-26 12:09:41] [1161770]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-26 12:23:50] Starting app 1224230
+
+[2020-05-26 12:24:11] Exiting app 1224230
+
+[2020-05-26 12:24:11] Starting app 1224230
+
+[2020-05-26 12:24:25] Exiting app 1224230
+
+[2020-05-26 12:45:20] Starting app 1048290
+
+[2020-05-26 13:11:48] Exiting app 1048290
+
+[2020-05-26 13:27:41] Starting app 1248980
+
+[2020-05-26 14:04:50] Exiting app 1248980
+
+[2020-05-26 14:10:14] Starting app 1224230
+
+[2020-05-26 14:10:24] Exiting app 1224230
+
+[2020-05-26 14:10:27] [1248980]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-26 14:10:36] [1048290]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-26 19:14:15] Starting app 1048290
+
+[2020-05-26 19:24:09] Exiting app 1048290
+
+
+
+[2020-05-27 09:37:09] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 11:37:36] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 12:12:40] [1048290]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 12:12:43] [1248980]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 12:25:36] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 12:27:42] Starting app 644560
+
+[2020-05-27 12:27:48] Exiting app 644560
+
+[2020-05-27 12:27:48] Starting app 644560
+
+[2020-05-27 12:27:53] Exiting app 644560
+
+[2020-05-27 12:28:19] Starting app 644560
+
+[2020-05-27 12:28:24] Exiting app 644560
+
+[2020-05-27 12:30:02] [4217560886]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 16:18:27] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-27 18:29:48] Starting app 1048290
+
+[2020-05-27 18:38:13] Exiting app 1048290
+
+[2020-05-27 19:29:32] Starting app 1048290
+
+[2020-05-27 19:29:37] Exiting app 1048290
+
+[2020-05-27 20:06:52] Starting app 730
+
+[2020-05-27 21:08:20] Exiting app 730
+
+
+
+[2020-05-27 21:25:06] Starting app 730
+
+[2020-05-27 21:40:12] Exiting app 730
+
+
+
+[2020-05-28 09:25:38] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-28 09:25:43] Starting app 730
+
+[2020-05-28 10:04:31] Exiting app 730
+
+[2020-05-28 10:10:06] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-28 10:10:10] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-28 10:10:15] [4217560886]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-28 18:51:15] Starting app 730
+
+[2020-05-28 19:17:36] Exiting app 730
+
+[2020-05-28 19:19:32] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-28 19:19:54] Starting app 730
+
+[2020-05-28 20:23:21] Exiting app 730
+
+
+
+[2020-05-29 10:59:49] Starting app 730
+
+[2020-05-29 11:16:39] Exiting app 730
+
+[2020-05-29 11:16:44] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 11:21:39] [826480]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 11:21:46] [4217560886]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 13:14:19] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 13:14:30] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 13:14:39] Starting app 1048290
+
+[2020-05-29 13:14:44] Exiting app 1048290
+
+[2020-05-29 16:55:02] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 16:55:02] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 16:55:02] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-29 16:55:02] [826480]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-05-30 20:47:49] [310360]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-30 20:47:55] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-30 20:47:56] [4217560886]Non-Steam Controller Configs Enabled: 1
+
+[2020-05-30 20:47:58] [998930]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-06-02 20:47:28] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-02 20:50:16] Starting app 644560
+
+[2020-06-02 20:50:23] Exiting app 644560
+
+[2020-06-02 20:50:25] Starting app 644560
+
+[2020-06-02 20:50:30] Exiting app 644560
+
+[2020-06-02 20:50:44] Starting app 644560
+
+[2020-06-02 22:02:31] Exiting app 644560
+
+
+
+[2020-06-02 22:04:42] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-02 22:05:17] Starting app 644560
+
+[2020-06-02 22:05:27] Exiting app 644560
+
+[2020-06-02 22:05:27] [974470]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-02 22:05:41] Starting app 644560
+
+[2020-06-02 22:27:27] Exiting app 644560
+
+
+
+[2020-06-03 11:30:57] [644560]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-03 11:31:06] [1048290]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-03 11:31:10] [998930]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-03 11:31:11] [974470]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-06-03 18:08:05] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-03 18:10:29] [332950]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-03 19:59:09] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-03 19:59:09] [332950]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-06-05 20:53:05] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-06 00:00:09] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-06 09:53:40] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-06 09:57:16] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-06 11:20:33] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-06 18:13:52] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 10:23:02] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 10:29:34] [640590]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 10:29:58] [406970]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 10:30:12] [406970]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 10:30:26] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 12:04:49] [730]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 12:04:49] [640590]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 12:04:49] [578080]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 12:04:49] [406970]Non-Steam Controller Configs Enabled: 1
+
+[2020-06-07 12:34:50] [578080]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2020-06-07 13:04:42] [998930]Non-Steam Controller Configs Enabled: 1
+

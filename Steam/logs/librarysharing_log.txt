@@ -1,0 +1,41 @@
+
+
+[2020-04-30 14:39:37] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+[2020-04-30 14:40:01] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-06 11:12:38] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-06 11:15:48] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-06 11:26:03] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-08 11:19:24] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-10 13:44:21] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-10 13:48:12] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-10 13:49:09] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+[2020-05-10 13:50:43] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-14 21:51:26] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-21 21:16:44] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-05-23 10:15:37] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-06-07 13:02:38] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2020-06-07 13:22:43] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK

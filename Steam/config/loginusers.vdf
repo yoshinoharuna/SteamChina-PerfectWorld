@@ -1,0 +1,13 @@
+"users"
+{
+	"Here is a random number or account ID, randomly generated such as 123456789"
+	{
+		"AccountName"		"Your account name"
+		"PersonaName"		"Random number ID"
+		"RememberPassword"		"1 1 Remember password"
+		"MostRecent"		"1 Recently logged in? Did not understand"
+		"Timestamp"		"1591506268 Login timestamp"
+		"WantsOfflineMode"		"0 0 is non-offline mode, if it is 1, it is offline"
+		"SkipOfflineModeWarning"		"0 Skip offline mode warning, default 0"
+	}
+}

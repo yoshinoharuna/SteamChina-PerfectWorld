@@ -1,0 +1,1338 @@
+
+
+[2020-05-25 07:51:45] [AppID 7] Starting sync (down,)
+[2020-05-25 07:51:45] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-25 07:51:45] [AppID 7] Download complete in build list
+[2020-05-25 07:51:45] Starting sync job
+[2020-05-25 07:51:45] [AppID 7] Starting sync (eval,)
+[2020-05-25 07:51:45] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-25 07:51:45] [AppID 7] Eval complete
+[2020-05-25 07:52:13] [U:1:1094737614] [AppID 950460] Init cache request complete
+[2020-05-25 07:52:13] Starting sync job
+[2020-05-25 07:52:13] [AppID 950460] Starting sync (init,)
+[2020-05-25 07:52:31] [U:1:1094737614] [AppID 322330] Init cache request complete
+[2020-05-25 07:52:31] Starting sync job
+[2020-05-25 07:52:31] [AppID 322330] Starting sync (init,eval,)
+[2020-05-25 07:52:31] [AppID 322330] Eval complete
+[2020-05-25 07:58:35] [U:1:1094737614] [AppID 1122750] Init cache request complete
+[2020-05-25 07:58:35] Starting sync job
+[2020-05-25 07:58:35] [AppID 1122750] Starting sync (init,)
+[2020-05-25 07:58:46] Starting sync job
+[2020-05-25 07:58:46] [AppID 7] Starting sync (up,)
+[2020-05-25 07:58:46] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-25 07:58:47] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-25 07:58:55] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=2005) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_26.dat - success.
+[2020-05-25 07:58:55] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-25 07:58:55] [AppID 7] Upload complete, result OK
+[2020-05-25 08:01:55] [U:1:1094737614] [AppID 530210] Init cache request complete
+[2020-05-25 08:01:55] Starting sync job
+[2020-05-25 08:01:55] [AppID 530210] Starting sync (init,eval,)
+[2020-05-25 08:01:56] [AppID 530210] File is in sync INSIDE.sav
+[2020-05-25 08:01:56] [AppID 530210] Eval complete
+[2020-05-25 08:02:15] [U:1:1094737614] [AppID 974470] Init cache request complete
+[2020-05-25 08:02:15] Starting sync job
+[2020-05-25 08:02:15] [AppID 974470] Starting sync (init,)
+[2020-05-25 08:02:18] [U:1:1094737614] [AppID 644560] Init cache request complete
+[2020-05-25 08:02:18] Starting sync job
+[2020-05-25 08:02:18] [AppID 644560] Starting sync (init,eval,)
+[2020-05-25 08:02:18] [AppID 644560] File is in sync save/Save2.db
+[2020-05-25 08:02:18] [AppID 644560] File is in sync save/game.db
+[2020-05-25 08:02:18] [AppID 644560] File is in sync save/Save1.db
+[2020-05-25 08:02:18] [AppID 644560] Eval complete
+[2020-05-25 08:02:35] [U:1:1094737614] [AppID 826480] Init cache request complete
+[2020-05-25 08:02:35] Starting sync job
+[2020-05-25 08:02:35] [AppID 826480] Starting sync (init,)
+[2020-05-25 08:02:40] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-05-25 08:02:40] Starting sync job
+[2020-05-25 08:02:40] [AppID 998930] Starting sync (init,eval,)
+[2020-05-25 08:02:40] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-05-25 08:02:40] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-05-25 08:02:40] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-05-25 08:02:40] [AppID 998930] Eval complete
+[2020-05-25 08:24:42] [U:1:1094737614] [AppID 1281800] Init cache request complete
+[2020-05-25 08:24:42] Starting sync job
+[2020-05-25 08:24:42] [AppID 1281800] Starting sync (init,eval,)
+[2020-05-25 08:24:42] [AppID 1281800] Eval complete
+[2020-05-25 08:24:42] [U:1:1094737614] [AppID 909080] Init cache request complete
+[2020-05-25 08:24:42] Starting sync job
+[2020-05-25 08:24:42] [AppID 909080] Starting sync (init,eval,)
+[2020-05-25 08:24:43] [AppID 909080] File is in sync Rusty Lake/Paradox/saveGame.sav
+[2020-05-25 08:24:43] [AppID 909080] Eval complete
+[2020-05-25 17:34:05] Starting sync job
+[2020-05-25 17:34:05] [AppID 7] Starting sync (down,)
+[2020-05-25 17:34:05] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-25 17:34:05] [AppID 7] Download complete in build list
+
+
+[2020-05-26 11:52:21] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-26 11:52:21] Starting sync job
+[2020-05-26 11:52:21] [AppID 7] Starting sync (init,)
+[2020-05-26 11:52:22] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-26 11:52:22] Starting sync job
+[2020-05-26 11:52:22] [AppID 7] Starting sync (init,)
+[2020-05-26 11:52:23] Starting sync job
+[2020-05-26 11:52:23] [AppID 7] Starting sync (eval,)
+[2020-05-26 11:52:23] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-26 11:52:23] [AppID 7] Eval complete
+[2020-05-26 11:52:23] Starting sync job
+[2020-05-26 11:52:23] [AppID 7] Starting sync (down,)
+[2020-05-26 11:52:23] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-26 11:52:23] [AppID 7] Download complete in build list
+[2020-05-26 11:52:23] Starting sync job
+[2020-05-26 11:52:23] [AppID 7] Starting sync (eval,)
+[2020-05-26 11:52:23] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-26 11:52:23] [AppID 7] Eval complete
+[2020-05-26 11:53:29] Starting sync job
+[2020-05-26 11:53:29] [AppID 1224230] Starting sync (down,)
+[2020-05-26 11:53:29] [AppID 1224230] Download complete in build list
+[2020-05-26 11:56:44] Starting sync job
+[2020-05-26 11:56:44] [AppID 1224230] Starting sync (down,)
+[2020-05-26 11:56:44] [AppID 1224230] Download complete in build list
+[2020-05-26 12:10:00] Starting sync job
+[2020-05-26 12:10:00] [AppID 7] Starting sync (up,)
+[2020-05-26 12:10:00] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-26 12:10:01] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-26 12:10:02] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=2601) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_27.dat - success.
+[2020-05-26 12:10:02] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-26 12:10:02] [AppID 7] Upload complete, result OK
+[2020-05-26 12:23:48] Starting sync job
+[2020-05-26 12:23:48] [AppID 1224230] Starting sync (eval,)
+[2020-05-26 12:23:48] [AppID 1224230] Eval complete
+[2020-05-26 12:23:49] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-05-26 12:23:49] Starting sync job
+[2020-05-26 12:23:49] [AppID 760] Starting sync (init,eval,)
+[2020-05-26 12:23:49] [AppID 1224230] Starting sync (eval,)
+[2020-05-26 12:23:50] [AppID 760] Eval complete
+[2020-05-26 12:23:50] [AppID 1224230] Eval complete
+[2020-05-26 12:23:50] Starting sync job
+[2020-05-26 12:23:50] [AppID 1224230] Starting sync (AC Launch,down,)
+[2020-05-26 12:23:50] [AppID 1224230] Download complete in build list
+[2020-05-26 12:23:50] [AppID 1224230] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-26 12:23:50] [AppID 1224230] AutoCloud done. Watching 0 files
+[2020-05-26 12:24:11] [AppID 1224230] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-26 12:24:11] [AppID 1224230]     Evaluating rule 0 with root="WinSavedGames" path="Quantic Dream/Detroit Become Human/S/76561199055003342/R/INTER_4" pattern="*.qdsav" (recursive)
+[2020-05-26 12:24:11] [AppID 1224230]         Found 0 files that match C:\Users\Yoshino\Saved Games\Quantic Dream\Detroit Become Human\S\76561199055003342\R\INTER_4\*.qdsav
+[2020-05-26 12:24:11] [AppID 1224230] AutoCloud complete
+[2020-05-26 12:24:11] Starting sync job
+[2020-05-26 12:24:11] [AppID 1224230] Starting sync (up,AC Exit,)
+[2020-05-26 12:24:11] [AppID 1224230] Upload complete in build list
+[2020-05-26 12:24:25] [AppID 1224230] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-26 12:24:25] [AppID 1224230]     Evaluating rule 0 with root="WinSavedGames" path="Quantic Dream/Detroit Become Human/S/76561199055003342/R/INTER_4" pattern="*.qdsav" (recursive)
+[2020-05-26 12:24:25] [AppID 1224230]         Found 0 files that match C:\Users\Yoshino\Saved Games\Quantic Dream\Detroit Become Human\S\76561199055003342\R\INTER_4\*.qdsav
+[2020-05-26 12:24:25] [AppID 1224230]     No launch record found. Skipping looking for files while the game was running
+[2020-05-26 12:24:25] [AppID 1224230] AutoCloud complete
+[2020-05-26 12:24:26] Starting sync job
+[2020-05-26 12:24:26] [AppID 1224230] Starting sync (up,AC Exit,)
+[2020-05-26 12:24:26] [AppID 1224230] Upload complete in build list
+[2020-05-26 12:24:58] Starting sync job
+[2020-05-26 12:24:58] [AppID 1048290] Starting sync (down,)
+[2020-05-26 12:24:58] [AppID 1048290] Download complete in build list
+[2020-05-26 12:27:56] Starting sync job
+[2020-05-26 12:27:56] [AppID 7] Starting sync (up,)
+[2020-05-26 12:27:56] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-26 12:27:57] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-26 12:27:57] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=3445) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_28.dat - success.
+[2020-05-26 12:27:58] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-26 12:27:58] [AppID 7] Upload complete, result OK
+[2020-05-26 12:45:16] Starting sync job
+[2020-05-26 12:45:16] [AppID 1048290] Starting sync (eval,)
+[2020-05-26 12:45:16] [AppID 1048290] Eval complete
+[2020-05-26 12:45:20] Starting sync job
+[2020-05-26 12:45:20] [AppID 1048290] Starting sync (eval,)
+[2020-05-26 12:45:20] [AppID 1048290] Eval complete
+[2020-05-26 12:45:20] Starting sync job
+[2020-05-26 12:45:20] [AppID 1048290] Starting sync (AC Launch,down,)
+[2020-05-26 12:45:20] [AppID 1048290] Download complete in build list
+[2020-05-26 12:45:20] [AppID 1048290] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-26 12:45:20] [AppID 1048290] AutoCloud done. Watching 0 files
+[2020-05-26 13:11:48] [AppID 1048290] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-26 13:11:48] [AppID 1048290]     Evaluating rule 0 with root="WinSavedGames" path="HeavyRainDemo" pattern="*" (recursive)
+[2020-05-26 13:11:48] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\*
+[2020-05-26 13:11:48] [AppID 1048290]         Found 1 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\*
+[2020-05-26 13:11:48] [AppID 1048290]     Evaluating rule 1 with root="WinSavedGames" path="HeavyRainDemoJP" pattern="*" (recursive)
+[2020-05-26 13:11:48] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemoJP\*
+[2020-05-26 13:11:48] [AppID 1048290]     Persisting file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0 to the cloud
+[2020-05-26 13:11:48] [AppID 1048290] AutoCloud complete
+[2020-05-26 13:11:48] Starting sync job
+[2020-05-26 13:11:48] [AppID 1048290] Starting sync (up,AC Exit,)
+[2020-05-26 13:11:48] [AppID 1048290] Need to upload file HeavyRainDemo/TEST00000-A/0
+[2020-05-26 13:11:48] [AppID 1048290] HTTP upload for file 'HeavyRainDemo/TEST00000-A/0' beginning . . .
+[2020-05-26 13:11:56] [AppID 1048290] HTTP upload for file 'HeavyRainDemo/TEST00000-A/0' (offset=0, length=99) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/1048290/038_2_1CF5C332_D5309_1.dat - success.
+[2020-05-26 13:11:56] [AppID 1048290] Upload OK for file HeavyRainDemo/TEST00000-A/0
+[2020-05-26 13:11:56] [AppID 1048290] Upload complete, result OK
+[2020-05-26 13:13:45] Starting sync job
+[2020-05-26 13:13:45] [AppID 1248980] Starting sync (eval,down,)
+[2020-05-26 13:13:45] [AppID 1248980] Eval complete
+[2020-05-26 13:13:45] [AppID 1248980] Download complete in build list
+[2020-05-26 13:27:40] Starting sync job
+[2020-05-26 13:27:40] [AppID 1248980] Starting sync (eval,)
+[2020-05-26 13:27:40] [AppID 1248980] Eval complete
+[2020-05-26 13:27:41] Starting sync job
+[2020-05-26 13:27:41] [AppID 1248980] Starting sync (AC Launch,down,)
+[2020-05-26 13:27:41] [AppID 1248980] Download complete in build list
+[2020-05-26 13:27:41] [AppID 1248980] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-26 13:27:41] [AppID 1248980] AutoCloud done. Watching 0 files
+[2020-05-26 14:04:50] [AppID 1248980] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-26 14:04:50] [AppID 1248980]     Evaluating rule 0 with root="WinSavedGames" path="Beyond Two Souls Steam Demo/Save" pattern="*" (recursive)
+[2020-05-26 14:04:50] [AppID 1248980]         Found 0 files that match C:\Users\Yoshino\Saved Games\Beyond Two Souls Steam Demo\Save\*
+[2020-05-26 14:04:50] [AppID 1248980]         Found 1 files that match C:\Users\Yoshino\Saved Games\Beyond Two Souls Steam Demo\Save\Options\*
+[2020-05-26 14:04:50] [AppID 1248980]     Persisting file C:\Users\Yoshino\Saved Games\Beyond Two Souls Steam Demo\Save\Options\0 to the cloud
+[2020-05-26 14:04:50] [AppID 1248980] AutoCloud complete
+[2020-05-26 14:04:50] Starting sync job
+[2020-05-26 14:04:50] [AppID 1248980] Starting sync (up,AC Exit,)
+[2020-05-26 14:04:50] [AppID 1248980] Need to upload file Beyond Two Souls Steam Demo/Save/Options/0
+[2020-05-26 14:04:50] [AppID 1248980] HTTP upload for file 'Beyond Two Souls Steam Demo/Save/Options/0' beginning . . .
+[2020-05-26 14:04:58] [AppID 1248980] HTTP upload for file 'Beyond Two Souls Steam Demo/Save/Options/0' (offset=0, length=387) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/1248980/038_2_1CF5C332_FE08A_1.dat - success.
+[2020-05-26 14:04:58] [AppID 1248980] Upload OK for file Beyond Two Souls Steam Demo/Save/Options/0
+[2020-05-26 14:04:58] [AppID 1248980] Upload complete, result OK
+[2020-05-26 14:10:14] Starting sync job
+[2020-05-26 14:10:14] [AppID 1224230] Starting sync (eval,)
+[2020-05-26 14:10:14] [AppID 1224230] Eval complete
+[2020-05-26 14:10:14] Starting sync job
+[2020-05-26 14:10:14] [AppID 1224230] Starting sync (AC Launch,down,)
+[2020-05-26 14:10:14] [AppID 1224230] Download complete in build list
+[2020-05-26 14:10:14] [AppID 1224230] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-26 14:10:14] [AppID 1224230] AutoCloud done. Watching 0 files
+[2020-05-26 14:10:25] [AppID 1224230] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-26 14:10:25] [AppID 1224230]     Evaluating rule 0 with root="WinSavedGames" path="Quantic Dream/Detroit Become Human/S/76561199055003342/R/INTER_4" pattern="*.qdsav" (recursive)
+[2020-05-26 14:10:25] [AppID 1224230]         Found 0 files that match C:\Users\Yoshino\Saved Games\Quantic Dream\Detroit Become Human\S\76561199055003342\R\INTER_4\*.qdsav
+[2020-05-26 14:10:25] [AppID 1224230] AutoCloud complete
+[2020-05-26 14:10:25] Starting sync job
+[2020-05-26 14:10:25] [AppID 1224230] Starting sync (up,AC Exit,)
+[2020-05-26 14:10:25] [AppID 1224230] Upload complete in build list
+[2020-05-26 14:11:55] Starting sync job
+[2020-05-26 14:11:55] [AppID 7] Starting sync (up,)
+[2020-05-26 14:11:55] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-26 14:11:56] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-26 14:11:56] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=3637) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_29.dat - success.
+[2020-05-26 14:11:57] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-26 14:11:57] [AppID 7] Upload complete, result OK
+[2020-05-26 19:14:14] Starting sync job
+[2020-05-26 19:14:14] [AppID 1048290] Starting sync (eval,)
+[2020-05-26 19:14:14] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-26 19:14:14] [AppID 1048290] Eval complete
+[2020-05-26 19:14:14] Starting sync job
+[2020-05-26 19:14:14] [AppID 1048290] Starting sync (AC Launch,down,)
+[2020-05-26 19:14:14] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-26 19:14:14] [AppID 1048290] Download complete in build list
+[2020-05-26 19:14:14] [AppID 1048290] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-26 19:14:14] [AppID 1048290]     Watching file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0
+[2020-05-26 19:14:14] [AppID 1048290] AutoCloud done. Watching 1 files
+[2020-05-26 19:24:09] [AppID 1048290] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-26 19:24:09] [AppID 1048290]     Evaluating rule 0 with root="WinSavedGames" path="HeavyRainDemo" pattern="*" (recursive)
+[2020-05-26 19:24:09] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\*
+[2020-05-26 19:24:09] [AppID 1048290]         Found 1 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\*
+[2020-05-26 19:24:09] [AppID 1048290]     Evaluating rule 1 with root="WinSavedGames" path="HeavyRainDemoJP" pattern="*" (recursive)
+[2020-05-26 19:24:09] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemoJP\*
+[2020-05-26 19:24:09] [AppID 1048290]     Persisting file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0 to the cloud
+[2020-05-26 19:24:09] [AppID 1048290] AutoCloud complete
+[2020-05-26 19:24:09] Starting sync job
+[2020-05-26 19:24:09] [AppID 1048290] Starting sync (up,AC Exit,)
+[2020-05-26 19:24:09] [AppID 1048290] Need to upload file HeavyRainDemo/TEST00000-A/0
+[2020-05-26 19:24:09] [AppID 1048290] HTTP upload for file 'HeavyRainDemo/TEST00000-A/0' beginning . . .
+[2020-05-26 19:24:17] [AppID 1048290] HTTP upload for file 'HeavyRainDemo/TEST00000-A/0' (offset=0, length=99) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/1048290/038_2_1CF5C332_D5309_2.dat - success.
+[2020-05-26 19:24:17] [AppID 1048290] Upload OK for file HeavyRainDemo/TEST00000-A/0
+[2020-05-26 19:24:17] [AppID 1048290] Upload complete, result OK
+[2020-05-26 19:47:48] Starting sync job
+[2020-05-26 19:47:48] [AppID 7] Starting sync (up,)
+[2020-05-26 19:47:48] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-26 19:47:48] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-26 19:47:49] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=3637) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_30.dat - success.
+[2020-05-26 19:47:49] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-26 19:47:49] [AppID 7] Upload complete, result OK
+
+
+[2020-05-27 09:33:07] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-27 09:33:07] Starting sync job
+[2020-05-27 09:33:07] [AppID 7] Starting sync (init,)
+[2020-05-27 09:33:07] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-27 09:33:07] Starting sync job
+[2020-05-27 09:33:07] [AppID 7] Starting sync (init,)
+[2020-05-27 09:33:14] Starting sync job
+[2020-05-27 09:33:14] [AppID 7] Starting sync (eval,)
+[2020-05-27 09:33:15] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 09:33:15] [AppID 7] Eval complete
+[2020-05-27 09:33:15] Starting sync job
+[2020-05-27 09:33:15] [AppID 7] Starting sync (down,)
+[2020-05-27 09:33:15] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 09:33:15] [AppID 7] Download complete in build list
+[2020-05-27 09:33:15] Starting sync job
+[2020-05-27 09:33:15] [AppID 7] Starting sync (eval,)
+[2020-05-27 09:33:15] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 09:33:15] [AppID 7] Eval complete
+[2020-05-27 09:33:30] Starting sync job
+[2020-05-27 09:33:30] [AppID 7] Starting sync (up,)
+[2020-05-27 09:33:30] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-27 09:33:30] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-27 09:33:31] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=4822) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_31.dat - success.
+[2020-05-27 09:33:31] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-27 09:33:31] [AppID 7] Upload complete, result OK
+[2020-05-27 11:37:35] Starting sync job
+[2020-05-27 11:37:35] [AppID 7] Starting sync (down,)
+[2020-05-27 11:37:35] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 11:37:35] [AppID 7] Download complete in build list
+[2020-05-27 12:12:40] [U:1:1094737614] [AppID 1048290] Init cache request complete
+[2020-05-27 12:12:40] Starting sync job
+[2020-05-27 12:12:40] [AppID 1048290] Starting sync (init,eval,)
+[2020-05-27 12:12:40] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 12:12:40] [AppID 1048290] Eval complete
+[2020-05-27 12:12:43] [U:1:1094737614] [AppID 1248980] Init cache request complete
+[2020-05-27 12:12:43] Starting sync job
+[2020-05-27 12:12:43] [AppID 1248980] Starting sync (init,eval,)
+[2020-05-27 12:12:43] [AppID 1248980] File is in sync Beyond Two Souls Steam Demo/Save/Options/0
+[2020-05-27 12:12:43] [AppID 1248980] Eval complete
+[2020-05-27 12:25:47] Starting sync job
+[2020-05-27 12:25:47] [AppID 644560] Starting sync (down,)
+[2020-05-27 12:25:48] [AppID 644560] Need to download file save/game.db
+[2020-05-27 12:25:48] [AppID 644560] Need to download file save/Save1.db
+[2020-05-27 12:25:48] [AppID 644560] Need to download file save/Save2.db
+[2020-05-27 12:25:48] [AppID 644560] HTTP download for file 'save/game.db' from host 'steamcloudsg.blob.core.windows.net' beginning. . .
+[2020-05-27 12:25:49] [AppID 644560] HTTP download for file 'save/game.db' from host 'steamcloudsg.blob.core.windows.net' - Success.
+[2020-05-27 12:25:49] [AppID 644560] Download OK for file save/game.db
+[2020-05-27 12:25:49] [AppID 644560] HTTP download for file 'save/Save1.db' from host 'steamcloudhk.blob.core.windows.net' beginning. . .
+[2020-05-27 12:25:49] [AppID 644560] HTTP download for file 'save/Save1.db' from host 'steamcloudhk.blob.core.windows.net' - Success.
+[2020-05-27 12:25:49] [AppID 644560] Download OK for file save/Save1.db
+[2020-05-27 12:25:50] [AppID 644560] HTTP download for file 'save/Save2.db' from host 'steamcloudsg.blob.core.windows.net' beginning. . .
+[2020-05-27 12:25:50] [AppID 644560] HTTP download for file 'save/Save2.db' from host 'steamcloudsg.blob.core.windows.net' - Success.
+[2020-05-27 12:25:51] [AppID 644560] Download OK for file save/Save2.db
+[2020-05-27 12:25:51] [AppID 644560] Download complete, result OK
+[2020-05-27 12:27:38] Starting sync job
+[2020-05-27 12:27:38] [AppID 644560] Starting sync (eval,)
+[2020-05-27 12:27:38] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:27:38] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:27:38] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:27:38] [AppID 644560] Eval complete
+[2020-05-27 12:27:41] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-05-27 12:27:41] Starting sync job
+[2020-05-27 12:27:41] [AppID 760] Starting sync (init,eval,)
+[2020-05-27 12:27:41] [AppID 644560] Starting sync (eval,)
+[2020-05-27 12:27:42] [AppID 760] Eval complete
+[2020-05-27 12:27:42] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:27:42] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:27:42] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:27:42] [AppID 644560] Eval complete
+[2020-05-27 12:27:42] Starting sync job
+[2020-05-27 12:27:42] [AppID 644560] Starting sync (AC Launch,down,)
+[2020-05-27 12:27:42] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:27:42] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:27:42] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:27:42] [AppID 644560] Download complete in build list
+[2020-05-27 12:27:42] [AppID 644560] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-27 12:27:42] [AppID 644560]     Watching file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save2.db
+[2020-05-27 12:27:42] [AppID 644560]     Watching file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save1.db
+[2020-05-27 12:27:42] [AppID 644560]     Watching file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\game.db
+[2020-05-27 12:27:42] [AppID 644560] AutoCloud done. Watching 3 files
+[2020-05-27 12:27:48] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 12:27:48] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-05-27 12:27:48] [AppID 644560]         Found 3 files that match C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\*.db
+[2020-05-27 12:27:48] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-05-27 12:27:48] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\game.db to the cloud
+[2020-05-27 12:27:48] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-05-27 12:27:48] [AppID 644560] AutoCloud complete
+[2020-05-27 12:27:48] Starting sync job
+[2020-05-27 12:27:48] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-05-27 12:27:48] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:27:48] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:27:48] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:27:48] [AppID 644560] Upload complete in build list
+[2020-05-27 12:27:53] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 12:27:53] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-05-27 12:27:53] [AppID 644560]         Found 3 files that match C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\*.db
+[2020-05-27 12:27:53] [AppID 644560]     No launch record found. Skipping looking for files while the game was running
+[2020-05-27 12:27:53] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-05-27 12:27:53] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\game.db to the cloud
+[2020-05-27 12:27:53] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-05-27 12:27:53] [AppID 644560] AutoCloud complete
+[2020-05-27 12:27:53] Starting sync job
+[2020-05-27 12:27:53] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-05-27 12:27:53] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:27:53] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:27:53] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:27:53] [AppID 644560] Upload complete in build list
+[2020-05-27 12:28:18] Starting sync job
+[2020-05-27 12:28:18] [AppID 644560] Starting sync (eval,)
+[2020-05-27 12:28:19] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:28:19] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:28:19] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:28:19] [AppID 644560] Eval complete
+[2020-05-27 12:28:19] Starting sync job
+[2020-05-27 12:28:19] [AppID 644560] Starting sync (AC Launch,down,)
+[2020-05-27 12:28:19] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:28:19] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:28:19] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:28:19] [AppID 644560] Download complete in build list
+[2020-05-27 12:28:19] [AppID 644560] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-27 12:28:19] [AppID 644560]     Watching file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save2.db
+[2020-05-27 12:28:19] [AppID 644560]     Watching file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save1.db
+[2020-05-27 12:28:19] [AppID 644560]     Watching file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\game.db
+[2020-05-27 12:28:19] [AppID 644560] AutoCloud done. Watching 3 files
+[2020-05-27 12:28:24] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 12:28:24] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-05-27 12:28:24] [AppID 644560]         Found 3 files that match C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\*.db
+[2020-05-27 12:28:24] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-05-27 12:28:24] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\game.db to the cloud
+[2020-05-27 12:28:24] [AppID 644560]     Persisting file C:\Program Files (x86)\Steam\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-05-27 12:28:24] [AppID 644560] AutoCloud complete
+[2020-05-27 12:28:24] Starting sync job
+[2020-05-27 12:28:24] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-05-27 12:28:24] [AppID 644560] File is in sync save/game.db
+[2020-05-27 12:28:24] [AppID 644560] File is in sync save/Save1.db
+[2020-05-27 12:28:24] [AppID 644560] File is in sync save/Save2.db
+[2020-05-27 12:28:24] [AppID 644560] Upload complete in build list
+[2020-05-27 12:30:03] [U:1:1094737614] [AppID 4217560886] Init cache request complete
+[2020-05-27 12:30:03] Starting sync job
+[2020-05-27 12:30:03] [AppID 4217560886] Starting sync (init,)
+[2020-05-27 12:31:36] [U:1:1094737614] [AppID 413856] Init cache request complete
+[2020-05-27 12:31:36] Starting sync job
+[2020-05-27 12:31:36] [AppID 413856] Starting sync (init,)
+[2020-05-27 14:08:26] Starting sync job
+[2020-05-27 14:08:26] [AppID 998930] Starting sync (eval,)
+[2020-05-27 14:08:26] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-05-27 14:08:26] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-05-27 14:08:26] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-05-27 14:08:26] [AppID 998930] Eval complete
+[2020-05-27 14:08:26] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-05-27 14:08:26] Starting sync job
+[2020-05-27 14:08:26] [AppID 998930] Starting sync (init,)
+[2020-05-27 18:29:47] Starting sync job
+[2020-05-27 18:29:47] [AppID 1048290] Starting sync (eval,)
+[2020-05-27 18:29:47] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 18:29:47] [AppID 1048290] Eval complete
+[2020-05-27 18:29:48] Starting sync job
+[2020-05-27 18:29:48] [AppID 1048290] Starting sync (AC Launch,down,)
+[2020-05-27 18:29:48] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 18:29:48] [AppID 1048290] Download complete in build list
+[2020-05-27 18:29:48] [AppID 1048290] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-27 18:29:48] [AppID 1048290]     Watching file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0
+[2020-05-27 18:29:48] [AppID 1048290] AutoCloud done. Watching 1 files
+[2020-05-27 18:38:13] [AppID 1048290] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 18:38:13] [AppID 1048290]     Evaluating rule 0 with root="WinSavedGames" path="HeavyRainDemo" pattern="*" (recursive)
+[2020-05-27 18:38:13] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\*
+[2020-05-27 18:38:13] [AppID 1048290]         Found 1 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\*
+[2020-05-27 18:38:13] [AppID 1048290]     Evaluating rule 1 with root="WinSavedGames" path="HeavyRainDemoJP" pattern="*" (recursive)
+[2020-05-27 18:38:13] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemoJP\*
+[2020-05-27 18:38:13] [AppID 1048290]     Persisting file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0 to the cloud
+[2020-05-27 18:38:13] [AppID 1048290] AutoCloud complete
+[2020-05-27 18:38:13] Starting sync job
+[2020-05-27 18:38:13] [AppID 1048290] Starting sync (up,AC Exit,)
+[2020-05-27 18:38:13] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 18:38:13] [AppID 1048290] Upload complete in build list
+[2020-05-27 19:20:50] Starting sync job
+[2020-05-27 19:20:50] [AppID 730] Starting sync (down,)
+[2020-05-27 19:20:50] [AppID 730] Download complete in build list
+[2020-05-27 19:29:30] Starting sync job
+[2020-05-27 19:29:30] [AppID 1048290] Starting sync (eval,)
+[2020-05-27 19:29:30] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 19:29:30] [AppID 1048290] Eval complete
+[2020-05-27 19:29:32] Starting sync job
+[2020-05-27 19:29:32] [AppID 1048290] Starting sync (eval,)
+[2020-05-27 19:29:32] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 19:29:32] [AppID 1048290] Eval complete
+[2020-05-27 19:29:32] Starting sync job
+[2020-05-27 19:29:32] [AppID 1048290] Starting sync (AC Launch,down,)
+[2020-05-27 19:29:32] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 19:29:32] [AppID 1048290] Download complete in build list
+[2020-05-27 19:29:32] [AppID 1048290] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-27 19:29:32] [AppID 1048290]     Watching file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0
+[2020-05-27 19:29:32] [AppID 1048290] AutoCloud done. Watching 1 files
+[2020-05-27 19:29:38] [AppID 1048290] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 19:29:38] [AppID 1048290]     Evaluating rule 0 with root="WinSavedGames" path="HeavyRainDemo" pattern="*" (recursive)
+[2020-05-27 19:29:38] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\*
+[2020-05-27 19:29:38] [AppID 1048290]         Found 1 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\*
+[2020-05-27 19:29:38] [AppID 1048290]     Evaluating rule 1 with root="WinSavedGames" path="HeavyRainDemoJP" pattern="*" (recursive)
+[2020-05-27 19:29:38] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemoJP\*
+[2020-05-27 19:29:38] [AppID 1048290]     Persisting file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0 to the cloud
+[2020-05-27 19:29:38] [AppID 1048290] AutoCloud complete
+[2020-05-27 19:29:38] Starting sync job
+[2020-05-27 19:29:38] [AppID 1048290] Starting sync (up,AC Exit,)
+[2020-05-27 19:29:38] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-27 19:29:38] [AppID 1048290] Upload complete in build list
+[2020-05-27 19:29:48] Starting sync job
+[2020-05-27 19:29:48] [AppID 730] Starting sync (eval,)
+[2020-05-27 19:29:48] [AppID 730] Eval complete
+[2020-05-27 19:31:08] Starting sync job
+[2020-05-27 19:31:08] [AppID 7] Starting sync (up,)
+[2020-05-27 19:31:08] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-27 19:31:11] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-27 19:31:12] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=4896) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_32.dat - success.
+[2020-05-27 19:31:12] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-27 19:31:12] [AppID 7] Upload complete, result OK
+[2020-05-27 20:06:51] Starting sync job
+[2020-05-27 20:06:51] [AppID 730] Starting sync (eval,)
+[2020-05-27 20:06:51] [AppID 730] Eval complete
+[2020-05-27 20:06:52] Starting sync job
+[2020-05-27 20:06:52] [AppID 730] Starting sync (AC Launch,down,)
+[2020-05-27 20:06:52] [AppID 730] Download complete in build list
+[2020-05-27 20:06:52] [AppID 730] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-27 20:06:52] [AppID 730] AutoCloud done. Watching 0 files
+[2020-05-27 20:16:14] Starting sync job
+[2020-05-27 20:16:14] [AppID 7] Starting sync (up,)
+[2020-05-27 20:16:14] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 20:16:14] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-27 20:16:14] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-27 20:16:21] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_1.dat - success.
+[2020-05-27 20:16:22] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-27 20:16:22] [AppID 7] Upload complete, result OK
+[2020-05-27 20:46:29] [UGC][1005935839706287619] Downloading UGC
+[2020-05-27 20:46:30] [UGC][2425627585389027114] Downloading UGC
+[2020-05-27 20:46:31] [UGC][2425627585389027114] Download completed
+[2020-05-27 20:46:36] [UGC][1005935839706287619] Download completed
+[2020-05-27 20:46:55] [UGC][1007063843987336838] Downloading UGC
+[2020-05-27 20:46:55] [UGC][436073278216348686] Downloading UGC
+[2020-05-27 20:46:56] [UGC][436073278216348686] Download completed
+[2020-05-27 20:47:05] [UGC][1007063843987336838] Download completed
+[2020-05-27 20:47:16] [UGC][1011567142514105930] Downloading UGC
+[2020-05-27 20:47:16] [UGC][945094122218694074] Downloading UGC
+[2020-05-27 20:47:16] [UGC][945094122218694074] Download completed
+[2020-05-27 20:47:36] [UGC][1011567142514105930] Download completed
+[2020-05-27 20:48:24] Starting sync job
+[2020-05-27 20:48:24] [AppID 7] Starting sync (up,)
+[2020-05-27 20:48:24] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 20:48:24] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-27 20:48:24] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-27 20:48:25] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_2.dat - success.
+[2020-05-27 20:48:25] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-27 20:48:25] [AppID 7] Upload complete, result OK
+[2020-05-27 20:56:55] Starting sync job
+[2020-05-27 20:56:55] [AppID 7] Starting sync (up,)
+[2020-05-27 20:56:55] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 20:56:55] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-27 20:56:55] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-27 20:57:03] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_3.dat - success.
+[2020-05-27 20:57:08] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-27 20:57:08] [AppID 7] Upload complete, result OK
+[2020-05-27 21:08:20] [AppID 730] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 21:08:20] [AppID 730] AutoCloud complete
+[2020-05-27 21:08:20] Starting sync job
+[2020-05-27 21:08:20] [AppID 730] Starting sync (up,AC Exit,)
+[2020-05-27 21:08:20] [AppID 730] Need to upload file cfg/csgo_saved_item_shuffles.txt
+[2020-05-27 21:08:21] [AppID 730] HTTP upload for file 'cfg/csgo_saved_item_shuffles.txt' beginning . . .
+[2020-05-27 21:08:22] [AppID 730] HTTP upload for file 'cfg/csgo_saved_item_shuffles.txt' (offset=0, length=24) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/730/039_A_1CF73FF8_AABBA_1.dat - success.
+[2020-05-27 21:08:22] [AppID 730] Upload OK for file cfg/csgo_saved_item_shuffles.txt
+[2020-05-27 21:08:22] [AppID 730] Upload complete, result OK
+
+
+[2020-05-27 21:25:01] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-27 21:25:01] Starting sync job
+[2020-05-27 21:25:01] [AppID 7] Starting sync (init,)
+[2020-05-27 21:25:01] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-27 21:25:01] Starting sync job
+[2020-05-27 21:25:01] [AppID 7] Starting sync (init,)
+[2020-05-27 21:25:02] Starting sync job
+[2020-05-27 21:25:02] [AppID 7] Starting sync (eval,)
+[2020-05-27 21:25:02] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 21:25:02] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-27 21:25:02] [AppID 7] Eval complete
+[2020-05-27 21:25:03] Starting sync job
+[2020-05-27 21:25:03] [AppID 7] Starting sync (down,)
+[2020-05-27 21:25:03] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 21:25:03] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-27 21:25:03] [AppID 7] Download complete in build list
+[2020-05-27 21:25:03] Starting sync job
+[2020-05-27 21:25:03] [AppID 7] Starting sync (eval,)
+[2020-05-27 21:25:03] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 21:25:03] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-27 21:25:03] [AppID 7] Eval complete
+[2020-05-27 21:25:05] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-05-27 21:25:05] [U:1:1094737614] [AppID 730] Init cache request complete
+[2020-05-27 21:25:05] Starting sync job
+[2020-05-27 21:25:05] [AppID 760] Starting sync (init,eval,)
+[2020-05-27 21:25:05] [AppID 730] Starting sync (init,eval,)
+[2020-05-27 21:25:06] [AppID 760] Eval complete
+[2020-05-27 21:25:06] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-27 21:25:06] [AppID 730] Eval complete
+[2020-05-27 21:25:06] Starting sync job
+[2020-05-27 21:25:06] [AppID 730] Starting sync (AC Launch,down,)
+[2020-05-27 21:25:06] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-27 21:25:06] [AppID 730] Download complete in build list
+[2020-05-27 21:25:06] [AppID 730] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-27 21:25:06] [AppID 730] AutoCloud done. Watching 0 files
+[2020-05-27 21:29:03] Starting sync job
+[2020-05-27 21:29:03] [AppID 7] Starting sync (up,)
+[2020-05-27 21:29:03] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-27 21:29:03] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-27 21:29:04] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-27 21:29:11] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_4.dat - success.
+[2020-05-27 21:29:12] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-27 21:29:12] [AppID 7] Upload complete, result OK
+[2020-05-27 21:40:12] [AppID 730] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-27 21:40:12] [AppID 730] AutoCloud complete
+[2020-05-27 21:40:12] Starting sync job
+[2020-05-27 21:40:12] [AppID 730] Starting sync (up,AC Exit,)
+[2020-05-27 21:40:12] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-27 21:40:12] [AppID 730] Upload complete in build list
+
+
+[2020-05-28 09:23:05] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-28 09:23:05] Starting sync job
+[2020-05-28 09:23:05] [AppID 7] Starting sync (init,)
+[2020-05-28 09:23:05] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-28 09:23:05] Starting sync job
+[2020-05-28 09:23:05] [AppID 7] Starting sync (init,)
+[2020-05-28 09:23:13] Starting sync job
+[2020-05-28 09:23:13] [AppID 7] Starting sync (eval,)
+[2020-05-28 09:23:13] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 09:23:13] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 09:23:13] [AppID 7] Eval complete
+[2020-05-28 09:23:13] Starting sync job
+[2020-05-28 09:23:13] [AppID 7] Starting sync (down,)
+[2020-05-28 09:23:13] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 09:23:13] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 09:23:13] [AppID 7] Download complete in build list
+[2020-05-28 09:23:13] Starting sync job
+[2020-05-28 09:23:13] [AppID 7] Starting sync (eval,)
+[2020-05-28 09:23:13] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 09:23:13] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 09:23:13] [AppID 7] Eval complete
+[2020-05-28 09:25:38] [U:1:1094737614] [AppID 730] Init cache request complete
+[2020-05-28 09:25:38] Starting sync job
+[2020-05-28 09:25:38] [AppID 730] Starting sync (init,eval,)
+[2020-05-28 09:25:39] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 09:25:39] [AppID 730] Eval complete
+[2020-05-28 09:25:43] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-05-28 09:25:43] Starting sync job
+[2020-05-28 09:25:43] [AppID 760] Starting sync (init,eval,)
+[2020-05-28 09:25:43] [AppID 730] Starting sync (eval,)
+[2020-05-28 09:25:43] [AppID 760] Eval complete
+[2020-05-28 09:25:43] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 09:25:43] [AppID 730] Eval complete
+[2020-05-28 09:25:43] Starting sync job
+[2020-05-28 09:25:43] [AppID 730] Starting sync (AC Launch,down,)
+[2020-05-28 09:25:43] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 09:25:43] [AppID 730] Download complete in build list
+[2020-05-28 09:25:43] [AppID 730] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-28 09:25:43] [AppID 730] AutoCloud done. Watching 0 files
+[2020-05-28 09:28:59] Starting sync job
+[2020-05-28 09:28:59] [AppID 7] Starting sync (up,)
+[2020-05-28 09:28:59] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 09:28:59] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 09:28:59] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 09:29:00] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_5.dat - success.
+[2020-05-28 09:29:00] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 09:29:00] [AppID 7] Upload complete, result OK
+[2020-05-28 09:56:01] Starting sync job
+[2020-05-28 09:56:01] [AppID 7] Starting sync (up,)
+[2020-05-28 09:56:01] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 09:56:01] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 09:56:01] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 09:56:01] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_6.dat - success.
+[2020-05-28 09:56:02] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 09:56:02] [AppID 7] Upload complete, result OK
+[2020-05-28 10:04:31] [AppID 730] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-28 10:04:31] [AppID 730] AutoCloud complete
+[2020-05-28 10:04:31] Starting sync job
+[2020-05-28 10:04:31] [AppID 730] Starting sync (up,AC Exit,)
+[2020-05-28 10:04:31] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 10:04:31] [AppID 730] Upload complete in build list
+[2020-05-28 10:10:06] [U:1:1094737614] [AppID 974470] Init cache request complete
+[2020-05-28 10:10:06] Starting sync job
+[2020-05-28 10:10:06] [AppID 974470] Starting sync (init,)
+[2020-05-28 10:10:10] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-05-28 10:10:10] Starting sync job
+[2020-05-28 10:10:10] [AppID 998930] Starting sync (init,eval,)
+[2020-05-28 10:10:10] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-05-28 10:10:10] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-05-28 10:10:10] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-05-28 10:10:10] [AppID 998930] Eval complete
+[2020-05-28 10:10:15] [U:1:1094737614] [AppID 4217560886] Init cache request complete
+[2020-05-28 10:10:15] Starting sync job
+[2020-05-28 10:10:15] [AppID 4217560886] Starting sync (init,)
+[2020-05-28 10:10:31] Starting sync job
+[2020-05-28 10:10:31] [AppID 7] Starting sync (up,)
+[2020-05-28 10:10:31] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-28 10:10:31] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 10:10:31] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-28 10:10:32] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=4896) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_33.dat - success.
+[2020-05-28 10:10:32] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-28 10:10:32] [AppID 7] Upload complete, result OK
+
+
+[2020-05-28 18:50:37] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-28 18:50:37] Starting sync job
+[2020-05-28 18:50:37] [AppID 7] Starting sync (init,)
+[2020-05-28 18:50:38] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-28 18:50:38] Starting sync job
+[2020-05-28 18:50:38] [AppID 7] Starting sync (init,)
+[2020-05-28 18:50:46] Starting sync job
+[2020-05-28 18:50:46] [AppID 7] Starting sync (eval,)
+[2020-05-28 18:50:46] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 18:50:46] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 18:50:46] [AppID 7] Eval complete
+[2020-05-28 18:50:46] Starting sync job
+[2020-05-28 18:50:46] [AppID 7] Starting sync (down,)
+[2020-05-28 18:50:46] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 18:50:46] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 18:50:46] [AppID 7] Download complete in build list
+[2020-05-28 18:50:47] Starting sync job
+[2020-05-28 18:50:47] [AppID 7] Starting sync (eval,)
+[2020-05-28 18:50:47] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 18:50:47] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 18:50:47] [AppID 7] Eval complete
+[2020-05-28 18:50:56] [U:1:1094737614] [AppID 4217560886] Init cache request complete
+[2020-05-28 18:50:56] Starting sync job
+[2020-05-28 18:50:56] [AppID 4217560886] Starting sync (init,)
+[2020-05-28 18:51:00] Starting sync job
+[2020-05-28 18:51:00] [AppID 730] Starting sync (eval,)
+[2020-05-28 18:51:00] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 18:51:00] [AppID 730] Eval complete
+[2020-05-28 18:51:01] [U:1:1094737614] [AppID 730] Init cache request complete
+[2020-05-28 18:51:01] Starting sync job
+[2020-05-28 18:51:01] [AppID 730] Starting sync (init,)
+[2020-05-28 18:51:14] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-05-28 18:51:14] Starting sync job
+[2020-05-28 18:51:14] [AppID 760] Starting sync (init,eval,)
+[2020-05-28 18:51:14] [AppID 730] Starting sync (eval,)
+[2020-05-28 18:51:14] [AppID 760] Eval complete
+[2020-05-28 18:51:14] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 18:51:14] [AppID 730] Eval complete
+[2020-05-28 18:51:14] Starting sync job
+[2020-05-28 18:51:14] [AppID 730] Starting sync (AC Launch,down,)
+[2020-05-28 18:51:14] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 18:51:14] [AppID 730] Download complete in build list
+[2020-05-28 18:51:14] [AppID 730] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-28 18:51:14] [AppID 730] AutoCloud done. Watching 0 files
+[2020-05-28 18:51:56] [UGC][2425627585389027114] Downloading UGC
+[2020-05-28 18:51:57] [UGC][2425627585389027114] Download completed
+[2020-05-28 18:51:57] [UGC][1038589286205328767] Downloading UGC
+[2020-05-28 18:52:08] [UGC][1038589286205328767] Download completed
+[2020-05-28 18:53:29] Starting sync job
+[2020-05-28 18:53:29] [AppID 7] Starting sync (up,)
+[2020-05-28 18:53:29] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 18:53:29] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 18:53:29] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 18:53:30] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_7.dat - success.
+[2020-05-28 18:53:30] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 18:53:30] [AppID 7] Upload complete, result OK
+[2020-05-28 19:05:01] Starting sync job
+[2020-05-28 19:05:01] [AppID 7] Starting sync (up,)
+[2020-05-28 19:05:01] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 19:05:01] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 19:05:01] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 19:05:01] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_8.dat - success.
+[2020-05-28 19:05:02] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 19:05:02] [AppID 7] Upload complete, result OK
+[2020-05-28 19:17:36] [AppID 730] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-28 19:17:36] [AppID 730] AutoCloud complete
+[2020-05-28 19:17:36] Starting sync job
+[2020-05-28 19:17:36] [AppID 730] Starting sync (up,AC Exit,)
+[2020-05-28 19:17:36] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 19:17:36] [AppID 730] Upload complete in build list
+[2020-05-28 19:19:50] Starting sync job
+[2020-05-28 19:19:50] [AppID 730] Starting sync (eval,)
+[2020-05-28 19:19:50] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 19:19:50] [AppID 730] Eval complete
+[2020-05-28 19:19:54] Starting sync job
+[2020-05-28 19:19:54] [AppID 730] Starting sync (eval,)
+[2020-05-28 19:19:54] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 19:19:54] [AppID 730] Eval complete
+[2020-05-28 19:19:54] Starting sync job
+[2020-05-28 19:19:54] [AppID 730] Starting sync (AC Launch,down,)
+[2020-05-28 19:19:54] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 19:19:54] [AppID 730] Download complete in build list
+[2020-05-28 19:19:54] [AppID 730] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-28 19:19:54] [AppID 730] AutoCloud done. Watching 0 files
+[2020-05-28 19:22:09] Starting sync job
+[2020-05-28 19:22:09] [AppID 7] Starting sync (up,)
+[2020-05-28 19:22:09] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 19:22:09] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 19:22:10] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 19:22:10] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_9.dat - success.
+[2020-05-28 19:22:11] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 19:22:11] [AppID 7] Upload complete, result OK
+[2020-05-28 19:34:12] Starting sync job
+[2020-05-28 19:34:12] [AppID 7] Starting sync (up,)
+[2020-05-28 19:34:12] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 19:34:12] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 19:34:12] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 19:34:20] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_10.dat - success.
+[2020-05-28 19:34:20] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 19:34:20] [AppID 7] Upload complete, result OK
+[2020-05-28 20:02:51] Starting sync job
+[2020-05-28 20:02:51] [AppID 7] Starting sync (up,)
+[2020-05-28 20:02:51] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 20:02:51] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 20:02:52] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 20:02:53] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_11.dat - success.
+[2020-05-28 20:02:54] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 20:02:54] [AppID 7] Upload complete, result OK
+[2020-05-28 20:17:25] Starting sync job
+[2020-05-28 20:17:25] [AppID 7] Starting sync (up,)
+[2020-05-28 20:17:25] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-28 20:17:25] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-28 20:17:25] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-28 20:17:26] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_12.dat - success.
+[2020-05-28 20:17:26] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-28 20:17:26] [AppID 7] Upload complete, result OK
+[2020-05-28 20:23:21] [AppID 730] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-28 20:23:21] [AppID 730] AutoCloud complete
+[2020-05-28 20:23:21] Starting sync job
+[2020-05-28 20:23:21] [AppID 730] Starting sync (up,AC Exit,)
+[2020-05-28 20:23:21] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-28 20:23:21] [AppID 730] Upload complete in build list
+[2020-05-28 20:24:52] Starting sync job
+[2020-05-28 20:24:52] [AppID 7] Starting sync (up,)
+[2020-05-28 20:24:52] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-05-28 20:24:52] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-28 20:24:52] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-05-28 20:24:59] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=4986) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_34.dat - success.
+[2020-05-28 20:25:00] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-05-28 20:25:00] [AppID 7] Upload complete, result OK
+
+
+[2020-05-29 10:58:32] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-29 10:58:32] Starting sync job
+[2020-05-29 10:58:32] [AppID 7] Starting sync (init,)
+[2020-05-29 10:58:32] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-29 10:58:32] Starting sync job
+[2020-05-29 10:58:32] [AppID 7] Starting sync (init,)
+[2020-05-29 10:58:38] Starting sync job
+[2020-05-29 10:58:38] [AppID 7] Starting sync (eval,)
+[2020-05-29 10:58:39] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-29 10:58:39] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-29 10:58:39] [AppID 7] Eval complete
+[2020-05-29 10:58:39] Starting sync job
+[2020-05-29 10:58:39] [AppID 7] Starting sync (down,)
+[2020-05-29 10:58:39] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-29 10:58:39] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-29 10:58:39] [AppID 7] Download complete in build list
+[2020-05-29 10:58:39] Starting sync job
+[2020-05-29 10:58:39] [AppID 7] Starting sync (eval,)
+[2020-05-29 10:58:39] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-29 10:58:39] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-29 10:58:39] [AppID 7] Eval complete
+[2020-05-29 10:59:45] Starting sync job
+[2020-05-29 10:59:45] [AppID 730] Starting sync (eval,)
+[2020-05-29 10:59:45] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-29 10:59:45] [AppID 730] Eval complete
+[2020-05-29 10:59:46] [U:1:1094737614] [AppID 730] Init cache request complete
+[2020-05-29 10:59:46] Starting sync job
+[2020-05-29 10:59:46] [AppID 730] Starting sync (init,)
+[2020-05-29 10:59:48] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-05-29 10:59:48] Starting sync job
+[2020-05-29 10:59:48] [AppID 760] Starting sync (init,eval,)
+[2020-05-29 10:59:48] [AppID 730] Starting sync (eval,)
+[2020-05-29 10:59:48] [AppID 760] Eval complete
+[2020-05-29 10:59:48] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-29 10:59:48] [AppID 730] Eval complete
+[2020-05-29 10:59:48] Starting sync job
+[2020-05-29 10:59:48] [AppID 730] Starting sync (AC Launch,down,)
+[2020-05-29 10:59:48] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-29 10:59:48] [AppID 730] Download complete in build list
+[2020-05-29 10:59:48] [AppID 730] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-29 10:59:48] [AppID 730] AutoCloud done. Watching 0 files
+[2020-05-29 11:02:03] Starting sync job
+[2020-05-29 11:02:03] [AppID 7] Starting sync (up,)
+[2020-05-29 11:02:03] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-29 11:02:03] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-29 11:02:04] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-29 11:02:11] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_13.dat - success.
+[2020-05-29 11:02:11] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-29 11:02:11] [AppID 7] Upload complete, result OK
+[2020-05-29 11:11:12] Starting sync job
+[2020-05-29 11:11:12] [AppID 7] Starting sync (up,)
+[2020-05-29 11:11:12] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-29 11:11:12] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-29 11:11:12] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-29 11:11:13] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_14.dat - success.
+[2020-05-29 11:11:13] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-29 11:11:13] [AppID 7] Upload complete, result OK
+[2020-05-29 11:16:39] [AppID 730] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-29 11:16:39] [AppID 730] AutoCloud complete
+[2020-05-29 11:16:39] Starting sync job
+[2020-05-29 11:16:39] [AppID 730] Starting sync (up,AC Exit,)
+[2020-05-29 11:16:39] [AppID 730] File is in sync cfg/csgo_saved_item_shuffles.txt
+[2020-05-29 11:16:39] [AppID 730] Upload complete in build list
+[2020-05-29 11:21:46] [U:1:1094737614] [AppID 4217560886] Init cache request complete
+[2020-05-29 11:21:46] Starting sync job
+[2020-05-29 11:21:46] [AppID 4217560886] Starting sync (init,)
+[2020-05-29 13:14:20] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-05-29 13:14:20] Starting sync job
+[2020-05-29 13:14:20] [AppID 998930] Starting sync (init,eval,)
+[2020-05-29 13:14:20] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-05-29 13:14:20] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-05-29 13:14:20] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-05-29 13:14:20] [AppID 998930] Eval complete
+[2020-05-29 13:14:39] [U:1:1094737614] [AppID 1048290] Init cache request complete
+[2020-05-29 13:14:39] Starting sync job
+[2020-05-29 13:14:39] [AppID 1048290] Starting sync (init,eval,)
+[2020-05-29 13:14:39] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-29 13:14:39] [AppID 1048290] Eval complete
+[2020-05-29 13:14:39] Starting sync job
+[2020-05-29 13:14:39] [AppID 1048290] Starting sync (AC Launch,down,)
+[2020-05-29 13:14:39] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-29 13:14:39] [AppID 1048290] Download complete in build list
+[2020-05-29 13:14:39] [AppID 1048290] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-05-29 13:14:39] [AppID 1048290]     Watching file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0
+[2020-05-29 13:14:39] [AppID 1048290] AutoCloud done. Watching 1 files
+[2020-05-29 13:14:44] [AppID 1048290] Running AutoCloud on exit. Looking for new and updated files
+[2020-05-29 13:14:44] [AppID 1048290]     Evaluating rule 0 with root="WinSavedGames" path="HeavyRainDemo" pattern="*" (recursive)
+[2020-05-29 13:14:44] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\*
+[2020-05-29 13:14:44] [AppID 1048290]         Found 1 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\*
+[2020-05-29 13:14:44] [AppID 1048290]     Evaluating rule 1 with root="WinSavedGames" path="HeavyRainDemoJP" pattern="*" (recursive)
+[2020-05-29 13:14:44] [AppID 1048290]         Found 0 files that match C:\Users\Yoshino\Saved Games\HeavyRainDemoJP\*
+[2020-05-29 13:14:44] [AppID 1048290]     Persisting file C:\Users\Yoshino\Saved Games\HeavyRainDemo\TEST00000-A\0 to the cloud
+[2020-05-29 13:14:44] [AppID 1048290] AutoCloud complete
+[2020-05-29 13:14:44] Starting sync job
+[2020-05-29 13:14:44] [AppID 1048290] Starting sync (up,AC Exit,)
+[2020-05-29 13:14:44] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-05-29 13:14:44] [AppID 1048290] Upload complete in build list
+[2020-05-29 16:55:01] Starting sync job
+[2020-05-29 16:55:01] [AppID 7] Starting sync (down,)
+[2020-05-29 16:55:01] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-29 16:55:01] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-29 16:55:01] [AppID 7] Download complete in build list
+
+
+[2020-05-30 20:46:12] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-30 20:46:12] Starting sync job
+[2020-05-30 20:46:12] [AppID 7] Starting sync (init,)
+[2020-05-30 20:46:12] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-05-30 20:46:12] Starting sync job
+[2020-05-30 20:46:12] [AppID 7] Starting sync (init,)
+[2020-05-30 20:46:13] Starting sync job
+[2020-05-30 20:46:13] [AppID 7] Starting sync (eval,)
+[2020-05-30 20:46:14] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-30 20:46:14] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-30 20:46:14] [AppID 7] Eval complete
+[2020-05-30 20:46:14] Starting sync job
+[2020-05-30 20:46:14] [AppID 7] Starting sync (down,)
+[2020-05-30 20:46:14] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-30 20:46:14] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-30 20:46:14] [AppID 7] Download complete in build list
+[2020-05-30 20:46:14] Starting sync job
+[2020-05-30 20:46:14] [AppID 7] Starting sync (eval,)
+[2020-05-30 20:46:14] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-30 20:46:14] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-05-30 20:46:14] [AppID 7] Eval complete
+[2020-05-30 20:46:29] Starting sync job
+[2020-05-30 20:46:29] [AppID 7] Starting sync (up,)
+[2020-05-30 20:46:29] [AppID 7] File is in sync sharedconfig.vdf
+[2020-05-30 20:46:29] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-05-30 20:46:30] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-05-30 20:46:31] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_15.dat - success.
+[2020-05-30 20:46:31] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-05-30 20:46:31] [AppID 7] Upload complete, result OK
+[2020-05-30 20:47:55] [U:1:1094737614] [AppID 974470] Init cache request complete
+[2020-05-30 20:47:55] Starting sync job
+[2020-05-30 20:47:55] [AppID 974470] Starting sync (init,)
+[2020-05-30 20:47:57] [U:1:1094737614] [AppID 4217560886] Init cache request complete
+[2020-05-30 20:47:57] Starting sync job
+[2020-05-30 20:47:57] [AppID 4217560886] Starting sync (init,)
+[2020-05-30 20:47:59] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-05-30 20:47:59] Starting sync job
+[2020-05-30 20:47:59] [AppID 998930] Starting sync (init,eval,)
+[2020-05-30 20:47:59] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-05-30 20:47:59] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-05-30 20:47:59] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-05-30 20:47:59] [AppID 998930] Eval complete
+
+
+[2020-06-02 20:45:42] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-02 20:45:42] Starting sync job
+[2020-06-02 20:45:42] [AppID 7] Starting sync (init,)
+[2020-06-02 20:45:42] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-02 20:45:42] Starting sync job
+[2020-06-02 20:45:42] [AppID 7] Starting sync (init,)
+[2020-06-02 20:45:48] Starting sync job
+[2020-06-02 20:45:48] [AppID 7] Starting sync (eval,)
+[2020-06-02 20:45:48] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 20:45:48] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-02 20:45:48] [AppID 7] Eval complete
+[2020-06-02 20:45:48] Starting sync job
+[2020-06-02 20:45:48] [AppID 7] Starting sync (down,)
+[2020-06-02 20:45:48] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 20:45:48] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-02 20:45:48] [AppID 7] Download complete in build list
+[2020-06-02 20:45:48] Starting sync job
+[2020-06-02 20:45:48] [AppID 7] Starting sync (eval,)
+[2020-06-02 20:45:48] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 20:45:48] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-02 20:45:48] [AppID 7] Eval complete
+[2020-06-02 20:46:04] Starting sync job
+[2020-06-02 20:46:04] [AppID 7] Starting sync (up,)
+[2020-06-02 20:46:04] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 20:46:04] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-06-02 20:46:04] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-06-02 20:46:05] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_16.dat - success.
+[2020-06-02 20:46:05] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-06-02 20:46:05] [AppID 7] Upload complete, result OK
+[2020-06-02 20:47:55] Starting sync job
+[2020-06-02 20:47:55] [AppID 644560] Starting sync (down,)
+[2020-06-02 20:47:55] [AppID 644560] Need to download file save/game.db
+[2020-06-02 20:47:55] [AppID 644560] Need to download file save/Save1.db
+[2020-06-02 20:47:55] [AppID 644560] Need to download file save/Save2.db
+[2020-06-02 20:47:56] [AppID 644560] HTTP download for file 'save/game.db' from host 'steamcloudsg.blob.core.windows.net' beginning. . .
+[2020-06-02 20:47:56] [AppID 644560] HTTP download for file 'save/game.db' from host 'steamcloudsg.blob.core.windows.net' - Success.
+[2020-06-02 20:47:56] [AppID 644560] Download OK for file save/game.db
+[2020-06-02 20:47:57] [AppID 644560] HTTP download for file 'save/Save1.db' from host 'steamcloudhk.blob.core.windows.net' beginning. . .
+[2020-06-02 20:47:59] [AppID 644560] HTTP download for file 'save/Save1.db' from host 'steamcloudhk.blob.core.windows.net' - Success.
+[2020-06-02 20:47:59] [AppID 644560] Download OK for file save/Save1.db
+[2020-06-02 20:48:00] [AppID 644560] HTTP download for file 'save/Save2.db' from host 'steamcloudsg.blob.core.windows.net' beginning. . .
+[2020-06-02 20:48:00] [AppID 644560] HTTP download for file 'save/Save2.db' from host 'steamcloudsg.blob.core.windows.net' - Success.
+[2020-06-02 20:48:00] [AppID 644560] Download OK for file save/Save2.db
+[2020-06-02 20:48:00] [AppID 644560] Download complete, result OK
+[2020-06-02 20:50:16] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-06-02 20:50:16] Starting sync job
+[2020-06-02 20:50:16] [AppID 760] Starting sync (init,eval,)
+[2020-06-02 20:50:16] [AppID 644560] Starting sync (eval,)
+[2020-06-02 20:50:16] [AppID 760] Eval complete
+[2020-06-02 20:50:16] [AppID 644560] File is in sync save/game.db
+[2020-06-02 20:50:16] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 20:50:16] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 20:50:16] [AppID 644560] Eval complete
+[2020-06-02 20:50:16] Starting sync job
+[2020-06-02 20:50:16] [AppID 644560] Starting sync (AC Launch,down,)
+[2020-06-02 20:50:16] [AppID 644560] File is in sync save/game.db
+[2020-06-02 20:50:16] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 20:50:16] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 20:50:16] [AppID 644560] Download complete in build list
+[2020-06-02 20:50:16] [AppID 644560] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-06-02 20:50:16] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db
+[2020-06-02 20:50:16] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db
+[2020-06-02 20:50:16] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\game.db
+[2020-06-02 20:50:16] [AppID 644560] AutoCloud done. Watching 3 files
+[2020-06-02 20:50:23] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-06-02 20:50:23] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-06-02 20:50:23] [AppID 644560]         Found 3 files that match F:\SteamLibrary\steamapps\common\Mirror\save\*.db
+[2020-06-02 20:50:23] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-06-02 20:50:23] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\game.db to the cloud
+[2020-06-02 20:50:23] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-06-02 20:50:23] [AppID 644560] AutoCloud complete
+[2020-06-02 20:50:23] Starting sync job
+[2020-06-02 20:50:23] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-06-02 20:50:23] [AppID 644560] File is in sync save/game.db
+[2020-06-02 20:50:23] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 20:50:23] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 20:50:23] [AppID 644560] Upload complete in build list
+[2020-06-02 20:50:24] Starting sync job
+[2020-06-02 20:50:24] [AppID 644560] Starting sync (eval,)
+[2020-06-02 20:50:25] [AppID 644560] File is in sync save/game.db
+[2020-06-02 20:50:25] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 20:50:25] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 20:50:25] [AppID 644560] Eval complete
+[2020-06-02 20:50:25] Starting sync job
+[2020-06-02 20:50:25] [AppID 644560] Starting sync (AC Launch,down,)
+[2020-06-02 20:50:25] [AppID 644560] File is in sync save/game.db
+[2020-06-02 20:50:25] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 20:50:25] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 20:50:25] [AppID 644560] Download complete in build list
+[2020-06-02 20:50:25] [AppID 644560] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-06-02 20:50:25] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db
+[2020-06-02 20:50:25] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db
+[2020-06-02 20:50:25] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\game.db
+[2020-06-02 20:50:25] [AppID 644560] AutoCloud done. Watching 3 files
+[2020-06-02 20:50:30] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-06-02 20:50:30] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-06-02 20:50:30] [AppID 644560]         Found 3 files that match F:\SteamLibrary\steamapps\common\Mirror\save\*.db
+[2020-06-02 20:50:30] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-06-02 20:50:30] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\game.db to the cloud
+[2020-06-02 20:50:30] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-06-02 20:50:30] [AppID 644560] AutoCloud complete
+[2020-06-02 20:50:30] Starting sync job
+[2020-06-02 20:50:30] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-06-02 20:50:30] [AppID 644560] File is in sync save/game.db
+[2020-06-02 20:50:30] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 20:50:30] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 20:50:30] [AppID 644560] Upload complete in build list
+[2020-06-02 22:02:31] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-06-02 22:02:31] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-06-02 22:02:31] [AppID 644560]         Found 3 files that match F:\SteamLibrary\steamapps\common\Mirror\save\*.db
+[2020-06-02 22:02:31] [AppID 644560]     No launch record found. Skipping looking for files while the game was running
+[2020-06-02 22:02:31] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-06-02 22:02:31] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-06-02 22:02:31] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\game.db to the cloud
+[2020-06-02 22:02:31] [AppID 644560] AutoCloud complete
+[2020-06-02 22:02:31] Starting sync job
+[2020-06-02 22:02:31] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-06-02 22:02:31] [AppID 644560] Need to upload file save/game.db
+[2020-06-02 22:02:31] [AppID 644560] Need to upload file save/Save1.db
+[2020-06-02 22:02:31] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 22:02:32] [AppID 644560] Upload OK for file save/game.db
+[2020-06-02 22:02:32] [AppID 644560] HTTP upload for file 'save/Save1.db' beginning . . .
+[2020-06-02 22:02:32] [AppID 644560] HTTP upload for file 'save/Save1.db' (offset=0, length=15351) to (52.239.224.36 / 52.239.224.36, host: steamcloudhk.blob.core.windows.net), path /cloud/CE/5E/40/41/644560/038_2_1CE221F9_EA981_3.dat - success.
+[2020-06-02 22:02:33] [AppID 644560] Upload OK for file save/Save1.db
+[2020-06-02 22:02:33] [AppID 644560] Upload complete, result OK
+
+
+[2020-06-02 22:04:30] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-02 22:04:30] Starting sync job
+[2020-06-02 22:04:30] [AppID 7] Starting sync (init,)
+[2020-06-02 22:04:31] Starting sync job
+[2020-06-02 22:04:31] [AppID 7] Starting sync (eval,)
+[2020-06-02 22:04:32] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 22:04:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-02 22:04:32] [AppID 7] Eval complete
+[2020-06-02 22:04:32] Starting sync job
+[2020-06-02 22:04:32] [AppID 7] Starting sync (down,)
+[2020-06-02 22:04:32] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 22:04:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-02 22:04:32] [AppID 7] Download complete in build list
+[2020-06-02 22:04:32] Starting sync job
+[2020-06-02 22:04:32] [AppID 7] Starting sync (eval,)
+[2020-06-02 22:04:32] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-02 22:04:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-02 22:04:32] [AppID 7] Eval complete
+[2020-06-02 22:04:42] [U:1:1094737614] [AppID 644560] Init cache request complete
+[2020-06-02 22:04:42] Starting sync job
+[2020-06-02 22:04:42] [AppID 644560] Starting sync (init,eval,)
+[2020-06-02 22:04:43] [AppID 644560] File is in sync save/game.db
+[2020-06-02 22:04:43] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 22:04:43] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 22:04:43] [AppID 644560] Eval complete
+[2020-06-02 22:05:17] [U:1:1094737614] [AppID 760] Init cache request complete
+[2020-06-02 22:05:17] Starting sync job
+[2020-06-02 22:05:17] [AppID 760] Starting sync (init,eval,)
+[2020-06-02 22:05:17] [AppID 644560] Starting sync (eval,)
+[2020-06-02 22:05:17] [AppID 760] Eval complete
+[2020-06-02 22:05:17] [AppID 644560] File is in sync save/game.db
+[2020-06-02 22:05:17] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 22:05:17] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 22:05:17] [AppID 644560] Eval complete
+[2020-06-02 22:05:17] Starting sync job
+[2020-06-02 22:05:17] [AppID 644560] Starting sync (AC Launch,down,)
+[2020-06-02 22:05:17] [AppID 644560] File is in sync save/game.db
+[2020-06-02 22:05:17] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 22:05:17] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 22:05:17] [AppID 644560] Download complete in build list
+[2020-06-02 22:05:17] [AppID 644560] Running AutoCloud on launch. Looking for existing files to watch:
+[2020-06-02 22:05:17] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db
+[2020-06-02 22:05:17] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db
+[2020-06-02 22:05:17] [AppID 644560]     Watching file F:\SteamLibrary\steamapps\common\Mirror\save\game.db
+[2020-06-02 22:05:17] [AppID 644560] AutoCloud done. Watching 3 files
+[2020-06-02 22:05:27] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-06-02 22:05:27] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-06-02 22:05:27] [AppID 644560]         Found 3 files that match F:\SteamLibrary\steamapps\common\Mirror\save\*.db
+[2020-06-02 22:05:27] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-06-02 22:05:27] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\game.db to the cloud
+[2020-06-02 22:05:27] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-06-02 22:05:27] [AppID 644560] AutoCloud complete
+[2020-06-02 22:05:27] Starting sync job
+[2020-06-02 22:05:27] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-06-02 22:05:27] [AppID 644560] File is in sync save/game.db
+[2020-06-02 22:05:27] [AppID 644560] File is in sync save/Save1.db
+[2020-06-02 22:05:27] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 22:05:27] [AppID 644560] Upload complete in build list
+[2020-06-02 22:05:27] [U:1:1094737614] [AppID 974470] Init cache request complete
+[2020-06-02 22:05:27] Starting sync job
+[2020-06-02 22:05:27] [AppID 974470] Starting sync (init,)
+[2020-06-02 22:27:28] [AppID 644560] Running AutoCloud on exit. Looking for new and updated files
+[2020-06-02 22:27:28] [AppID 644560]     Evaluating rule 0 with root="GameInstall" path="save" pattern="*.db"
+[2020-06-02 22:27:28] [AppID 644560]         Found 3 files that match F:\SteamLibrary\steamapps\common\Mirror\save\*.db
+[2020-06-02 22:27:28] [AppID 644560]     No launch record found. Skipping looking for files while the game was running
+[2020-06-02 22:27:28] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save2.db to the cloud
+[2020-06-02 22:27:28] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\game.db to the cloud
+[2020-06-02 22:27:28] [AppID 644560]     Persisting file F:\SteamLibrary\steamapps\common\Mirror\save\Save1.db to the cloud
+[2020-06-02 22:27:28] [AppID 644560] AutoCloud complete
+[2020-06-02 22:27:28] Starting sync job
+[2020-06-02 22:27:28] [AppID 644560] Starting sync (up,AC Exit,)
+[2020-06-02 22:27:28] [AppID 644560] Need to upload file save/game.db
+[2020-06-02 22:27:28] [AppID 644560] Need to upload file save/Save1.db
+[2020-06-02 22:27:28] [AppID 644560] File is in sync save/Save2.db
+[2020-06-02 22:27:28] [AppID 644560] Upload OK for file save/game.db
+[2020-06-02 22:27:28] [AppID 644560] HTTP upload for file 'save/Save1.db' beginning . . .
+[2020-06-02 22:27:36] [AppID 644560] HTTP upload for file 'save/Save1.db' (offset=0, length=15352) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/644560/038_2_1CE221F9_EA981_4.dat - success.
+[2020-06-02 22:27:36] [AppID 644560] Upload OK for file save/Save1.db
+[2020-06-02 22:27:36] [AppID 644560] Upload complete, result OK
+
+
+[2020-06-03 11:30:31] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-03 11:30:31] Starting sync job
+[2020-06-03 11:30:31] [AppID 7] Starting sync (init,)
+[2020-06-03 11:30:31] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-03 11:30:31] Starting sync job
+[2020-06-03 11:30:31] [AppID 7] Starting sync (init,)
+[2020-06-03 11:30:37] Starting sync job
+[2020-06-03 11:30:37] [AppID 7] Starting sync (eval,)
+[2020-06-03 11:30:38] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 11:30:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 11:30:38] [AppID 7] Eval complete
+[2020-06-03 11:30:38] Starting sync job
+[2020-06-03 11:30:38] [AppID 7] Starting sync (down,)
+[2020-06-03 11:30:38] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 11:30:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 11:30:38] [AppID 7] Download complete in build list
+[2020-06-03 11:30:38] Starting sync job
+[2020-06-03 11:30:38] [AppID 7] Starting sync (eval,)
+[2020-06-03 11:30:38] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 11:30:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 11:30:38] [AppID 7] Eval complete
+[2020-06-03 11:30:57] [U:1:1094737614] [AppID 644560] Init cache request complete
+[2020-06-03 11:30:57] Starting sync job
+[2020-06-03 11:30:57] [AppID 644560] Starting sync (init,eval,)
+[2020-06-03 11:30:58] [AppID 644560] File is in sync save/game.db
+[2020-06-03 11:30:58] [AppID 644560] Need to upload file save/Save1.db
+[2020-06-03 11:30:58] [AppID 644560] File is in sync save/Save2.db
+[2020-06-03 11:30:58] [AppID 644560] Eval complete
+[2020-06-03 11:31:06] [U:1:1094737614] [AppID 1048290] Init cache request complete
+[2020-06-03 11:31:06] Starting sync job
+[2020-06-03 11:31:06] [AppID 1048290] Starting sync (init,eval,)
+[2020-06-03 11:31:07] [AppID 1048290] File is in sync HeavyRainDemo/TEST00000-A/0
+[2020-06-03 11:31:07] [AppID 1048290] Eval complete
+[2020-06-03 11:31:11] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-06-03 11:31:11] Starting sync job
+[2020-06-03 11:31:11] [AppID 998930] Starting sync (init,eval,)
+[2020-06-03 11:31:11] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-06-03 11:31:11] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-06-03 11:31:11] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-06-03 11:31:11] [AppID 998930] Eval complete
+[2020-06-03 11:31:11] [U:1:1094737614] [AppID 974470] Init cache request complete
+[2020-06-03 11:31:11] Starting sync job
+[2020-06-03 11:31:11] [AppID 974470] Starting sync (init,)
+
+
+[2020-06-03 18:02:35] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-03 18:02:35] Starting sync job
+[2020-06-03 18:02:35] [AppID 7] Starting sync (init,)
+[2020-06-03 18:02:35] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-03 18:02:35] Starting sync job
+[2020-06-03 18:02:35] [AppID 7] Starting sync (init,)
+[2020-06-03 18:02:36] Starting sync job
+[2020-06-03 18:02:36] [AppID 7] Starting sync (eval,)
+[2020-06-03 18:02:36] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 18:02:36] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 18:02:36] [AppID 7] Eval complete
+[2020-06-03 18:02:37] Starting sync job
+[2020-06-03 18:02:37] [AppID 7] Starting sync (down,)
+[2020-06-03 18:02:37] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 18:02:37] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 18:02:37] [AppID 7] Download complete in build list
+[2020-06-03 18:02:37] Starting sync job
+[2020-06-03 18:02:37] [AppID 7] Starting sync (eval,)
+[2020-06-03 18:02:37] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 18:02:37] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 18:02:37] [AppID 7] Eval complete
+[2020-06-03 19:59:09] Starting sync job
+[2020-06-03 19:59:09] [AppID 7] Starting sync (down,)
+[2020-06-03 19:59:09] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-03 19:59:09] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-03 19:59:09] [AppID 7] Download complete in build list
+
+
+[2020-06-05 20:51:30] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-05 20:51:30] Starting sync job
+[2020-06-05 20:51:30] [AppID 7] Starting sync (init,)
+[2020-06-05 20:51:30] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-05 20:51:30] Starting sync job
+[2020-06-05 20:51:30] [AppID 7] Starting sync (init,)
+[2020-06-05 20:51:32] Starting sync job
+[2020-06-05 20:51:32] [AppID 7] Starting sync (eval,)
+[2020-06-05 20:51:32] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-05 20:51:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-05 20:51:32] [AppID 7] Eval complete
+[2020-06-05 20:51:32] Starting sync job
+[2020-06-05 20:51:32] [AppID 7] Starting sync (down,)
+[2020-06-05 20:51:32] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-05 20:51:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-05 20:51:32] [AppID 7] Download complete in build list
+[2020-06-05 20:51:32] Starting sync job
+[2020-06-05 20:51:32] [AppID 7] Starting sync (eval,)
+[2020-06-05 20:51:32] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-05 20:51:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-05 20:51:32] [AppID 7] Eval complete
+[2020-06-05 20:51:47] Starting sync job
+[2020-06-05 20:51:47] [AppID 7] Starting sync (up,)
+[2020-06-05 20:51:47] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-05 20:51:47] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-06-05 20:51:48] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-06-05 20:51:50] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_17.dat - success.
+[2020-06-05 20:51:50] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-06-05 20:51:50] [AppID 7] Upload complete, result OK
+[2020-06-05 20:53:21] Starting sync job
+[2020-06-05 20:53:21] [AppID 7] Starting sync (up,)
+[2020-06-05 20:53:21] [AppID 7] Need to upload file sharedconfig.vdf
+[2020-06-05 20:53:21] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-05 20:53:21] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2020-06-05 20:53:22] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=5066) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/038_2_1CDB9909_C5E42_35.dat - success.
+[2020-06-05 20:53:23] [AppID 7] Upload OK for file sharedconfig.vdf
+[2020-06-05 20:53:23] [AppID 7] Upload complete, result OK
+[2020-06-06 00:00:09] Starting sync job
+[2020-06-06 00:00:09] [AppID 7] Starting sync (down,)
+[2020-06-06 00:00:09] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-06 00:00:09] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-06 00:00:09] [AppID 7] Download complete in build list
+[2020-06-06 09:53:40] Starting sync job
+[2020-06-06 09:53:40] [AppID 7] Starting sync (down,)
+[2020-06-06 09:53:40] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-06 09:53:40] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-06 09:53:40] [AppID 7] Download complete in build list
+[2020-06-06 11:20:33] Starting sync job
+[2020-06-06 11:20:33] [AppID 7] Starting sync (down,)
+[2020-06-06 11:20:33] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-06 11:20:33] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-06 11:20:33] [AppID 7] Download complete in build list
+[2020-06-06 18:13:52] Starting sync job
+[2020-06-06 18:13:52] [AppID 7] Starting sync (down,)
+[2020-06-06 18:13:52] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-06 18:13:52] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-06 18:13:52] [AppID 7] Download complete in build list
+[2020-06-07 10:23:02] Starting sync job
+[2020-06-07 10:23:02] [AppID 7] Starting sync (down,)
+[2020-06-07 10:23:02] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 10:23:02] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 10:23:02] [AppID 7] Download complete in build list
+[2020-06-07 12:04:49] Starting sync job
+[2020-06-07 12:04:49] [AppID 7] Starting sync (down,)
+[2020-06-07 12:04:49] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 12:04:49] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 12:04:49] [AppID 7] Download complete in build list
+
+
+[2020-06-07 13:03:13] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-07 13:03:13] Starting sync job
+[2020-06-07 13:03:13] [AppID 7] Starting sync (init,)
+[2020-06-07 13:03:13] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-07 13:03:13] Starting sync job
+[2020-06-07 13:03:13] [AppID 7] Starting sync (init,)
+[2020-06-07 13:03:20] Starting sync job
+[2020-06-07 13:03:20] [AppID 7] Starting sync (eval,)
+[2020-06-07 13:03:21] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:03:21] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 13:03:21] [AppID 7] Eval complete
+[2020-06-07 13:03:21] Starting sync job
+[2020-06-07 13:03:21] [AppID 7] Starting sync (down,)
+[2020-06-07 13:03:21] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:03:21] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 13:03:21] [AppID 7] Download complete in build list
+[2020-06-07 13:03:21] Starting sync job
+[2020-06-07 13:03:21] [AppID 7] Starting sync (eval,)
+[2020-06-07 13:03:21] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:03:21] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 13:03:21] [AppID 7] Eval complete
+[2020-06-07 13:03:51] Starting sync job
+[2020-06-07 13:03:51] [AppID 7] Starting sync (up,)
+[2020-06-07 13:03:51] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:03:51] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2020-06-07 13:03:52] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2020-06-07 13:03:53] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=227) to (52.163.176.16 / 52.163.176.16, host: steamcloudsg.blob.core.windows.net), path /cloud/CE/5E/40/41/7/039_A_1CF73FF8_7FC19_18.dat - success.
+[2020-06-07 13:03:53] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2020-06-07 13:03:53] [AppID 7] Upload complete, result OK
+
+
+[2020-06-07 13:04:18] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-07 13:04:18] Starting sync job
+[2020-06-07 13:04:18] [AppID 7] Starting sync (init,)
+[2020-06-07 13:04:18] [U:1:1094737614] [AppID 7] Init cache request complete
+[2020-06-07 13:04:18] Starting sync job
+[2020-06-07 13:04:18] [AppID 7] Starting sync (init,)
+[2020-06-07 13:04:27] Starting sync job
+[2020-06-07 13:04:27] [AppID 7] Starting sync (eval,)
+[2020-06-07 13:04:28] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:04:28] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 13:04:28] [AppID 7] Eval complete
+[2020-06-07 13:04:28] Starting sync job
+[2020-06-07 13:04:28] [AppID 7] Starting sync (down,)
+[2020-06-07 13:04:28] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:04:28] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 13:04:28] [AppID 7] Download complete in build list
+[2020-06-07 13:04:28] Starting sync job
+[2020-06-07 13:04:28] [AppID 7] Starting sync (eval,)
+[2020-06-07 13:04:28] [AppID 7] File is in sync sharedconfig.vdf
+[2020-06-07 13:04:28] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2020-06-07 13:04:28] [AppID 7] Eval complete
+[2020-06-07 13:04:42] [U:1:1094737614] [AppID 998930] Init cache request complete
+[2020-06-07 13:04:42] Starting sync job
+[2020-06-07 13:04:42] [AppID 998930] Starting sync (init,eval,)
+[2020-06-07 13:04:43] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_3.sav
+[2020-06-07 13:04:43] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4_2.sav
+[2020-06-07 13:04:43] [AppID 998930] File is in sync DSGame/SeekGirl/save1_4.sav
+[2020-06-07 13:04:43] [AppID 998930] Eval complete

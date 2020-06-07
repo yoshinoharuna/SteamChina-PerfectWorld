@@ -1,0 +1,915 @@
+
+
+[2020-05-26 12:01:01] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-26 12:01:01] Downloading 14330 chunks from depot 1224231
+[2020-05-26 12:01:02] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (220.194.79.66:80 / 220.194.79.66:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:01:02] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (220.194.79.66:80 / 220.194.79.66:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:01:02] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (220.194.79.66:80 / 220.194.79.66:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (1224231) - Success!
+[2020-05-26 12:01:02] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (220.194.79.66:80 / 220.194.79.66:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (1224231) - Success!
+[2020-05-26 12:01:03] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (220.194.79.66:80 / 220.194.79.66:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:01:03] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (220.194.79.66:80 / 220.194.79.66:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (1224231) - Success!
+[2020-05-26 12:01:21] Increasing target number of download connections to 4 (rate was 0.000, now 81.740)
+[2020-05-26 12:01:21] Current download rate: 81.740 Mbps
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 12:01:21] Skipping download source as it does not allow AppID 1224230: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 12:01:21] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 12:01:21] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:01:21] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1224231) - Success!
+[2020-05-26 12:02:22] Current download rate: 92.170 Mbps
+[2020-05-26 12:03:23] Current download rate: 92.664 Mbps
+[2020-05-26 12:04:23] Current download rate: 74.772 Mbps
+[2020-05-26 12:05:24] Current download rate: 90.365 Mbps
+[2020-05-26 12:06:26] Current download rate: 87.448 Mbps
+[2020-05-26 12:07:26] Current download rate: 91.053 Mbps
+[2020-05-26 12:08:27] Current download rate: 88.051 Mbps
+[2020-05-26 12:09:28] Current download rate: 81.866 Mbps
+[2020-05-26 12:10:29] Current download rate: 92.411 Mbps
+[2020-05-26 12:11:30] Current download rate: 90.146 Mbps
+[2020-05-26 12:12:31] Current download rate: 82.334 Mbps
+[2020-05-26 12:13:32] Current download rate: 81.078 Mbps
+[2020-05-26 12:14:33] Current download rate: 89.692 Mbps
+[2020-05-26 12:15:34] Current download rate: 91.217 Mbps
+[2020-05-26 12:16:35] Current download rate: 78.085 Mbps
+[2020-05-26 12:17:35] Current download rate: 50.872 Mbps
+[2020-05-26 12:18:36] Current download rate: 91.204 Mbps
+[2020-05-26 12:19:37] Current download rate: 83.495 Mbps
+[2020-05-26 12:20:38] Current download rate: 86.101 Mbps
+[2020-05-26 12:21:39] Current download rate: 91.561 Mbps
+[2020-05-26 12:22:40] Current download rate: 84.951 Mbps
+[2020-05-26 12:23:19] AppID 1224230 update changed : Running,
+[2020-05-26 12:23:19] AppID 1224230 update changed : Running,Committing,
+[2020-05-26 12:23:19] AppID 1224230 starting commit from "E:\SteamLibrary\steamapps\downloading\1224230" to "E:\SteamLibrary\steamapps\common\Detroit Become Human Demo" : 30 updated, 0 moved, 0 deleted files
+[2020-05-26 12:23:19] AppID 1224230 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-26 12:23:19] AppID 1224230 finished update, mounted depots (BuildID 5053332) : 1224231 (6777916178537508560),
+[2020-05-26 12:23:19] AppID 1224230 update changed : Running,
+[2020-05-26 12:23:19] AppID 1224230 update changed : None
+[2020-05-26 12:23:19] AppID 1224230 state changed : Fully Installed,Update Queued,
+[2020-05-26 12:23:19] AppID 1224230 state changed : Fully Installed,
+[2020-05-26 12:23:19] AppID 1224230 scheduler finished : removed from schedule
+[2020-05-26 12:23:41] Current download rate: 0.000 Mbps
+[2020-05-26 12:23:50] AppID 1224230 state changed : Fully Installed,App Running,
+[2020-05-26 12:24:11] AppID 1224230 state changed : Fully Installed,
+[2020-05-26 12:24:11] AppID 1224230 state changed : Fully Installed,App Running,
+[2020-05-26 12:24:18] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.94:80 / 36.250.225.94:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-26 12:24:19] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.94:80 / 36.250.225.94:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-26 12:24:19] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.94:80 / 36.250.225.94:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-26 12:24:19] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.125.46.111:80 / 123.125.46.111:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 12:24:25] AppID 1224230 state changed : Fully Installed,
+[2020-05-26 12:24:58] AppID 1048290 state changed : Update Required,
+[2020-05-26 12:24:58] Dependency added: parent 228980, child 1048290, depot 228988
+[2020-05-26 12:24:58] AppID 228980 state changed : Update Required,Fully Installed,
+[2020-05-26 12:24:58] Dependency added: parent 228980, child 1048290, depot 228990
+[2020-05-26 12:24:58] AppID 1048290 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=2, appDisableSecondsRemaining=0
+[2020-05-26 12:24:58] AppID 1048290 state changed : Update Required,Update Queued,
+[2020-05-26 12:24:58] AppID 228980 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=1590467098, appDisableSecondsRemaining=0
+[2020-05-26 12:24:58] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,
+[2020-05-26 12:24:58] AppID 1048290 state changed : Update Required,Update Queued,Update Running,
+[2020-05-26 12:24:58] AppID 1048290 update changed : Running,
+[2020-05-26 12:24:58] AppID 1048290 update changed : Running,Reconfiguring,
+[2020-05-26 12:24:59] Download system icon for AppID 1048290 to C:\Program Files (x86)\Steam\steam\games/44d0ea98a7fe46518fe9e6c2ed6da4f3acba6dbd.ico
+[2020-05-26 12:24:59] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 12:24:59] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 12:24:59] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 12:24:59] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 12:24:59] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1048291) - Success!
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1048292) - Success!
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): st.dl.pinyuncloud.com/depot/1048291/manifest/5167554264092838980/5 - received 200 (OK) HTTP response
+[2020-05-26 12:25:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): st.dl.pinyuncloud.com/depot/1048292/manifest/5927343987344527580/5 - received 200 (OK) HTTP response
+[2020-05-26 12:25:00] AppID 1048290 update changed : Running,
+[2020-05-26 12:25:00] AppID 1048290 update changed : Running,Validating,
+[2020-05-26 12:25:00] Validating files (new target,full) ...
+[2020-05-26 12:25:01] File validation finished: 23 files (4868382644 bytes) total, 23 files (4868382644 bytes) mismatched (39 msec).
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,Preallocating,
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,
+[2020-05-26 12:25:01] AppID 1048290 update started : download 0/4195729712, store 0/0, reuse 0/0, delta 0/0, stage 0/4868382644 
+[2020-05-26 12:25:01] AppID 1048290 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,Downloading,
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,Downloading,Staging,
+[2020-05-26 12:25:01] Downloading 52 chunks from depot 1048291
+[2020-05-26 12:25:01] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1048291) - Success!
+[2020-05-26 12:25:01] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1048291) - Success!
+[2020-05-26 12:25:01] AppID 1048290 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=5, appDisableSecondsRemaining=0
+[2020-05-26 12:25:01] AppID 1048290 update canceled : Priority (Suspended)
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,Downloading,Staging,Stopping,
+[2020-05-26 12:25:01] AppID 1048290 update changed : Running,Stopping,
+[2020-05-26 12:25:01] AppID 1048290 update changed : None
+[2020-05-26 12:25:01] AppID 1048290 state changed : Update Required,Update Queued,Update Started, (Suspended)
+[2020-05-26 12:25:01] AppID 1048290 scheduler finished : staying in schedule
+[2020-05-26 12:25:01] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2020-05-26 12:25:01] AppID 228980 update changed : Running,
+[2020-05-26 12:25:01] AppID 228980 update changed : Running,Reconfiguring,
+[2020-05-26 12:25:02] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (228988) - Success!
+[2020-05-26 12:25:02] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): st.dl.pinyuncloud.com/depot/228988/manifest/6988565055293785057/5 - received 200 (OK) HTTP response
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,Validating,
+[2020-05-26 12:25:02] Validating files (new target,full) ...
+[2020-05-26 12:25:02] File validation finished: 164 files (132358491 bytes) total, 164 files (132358491 bytes) mismatched (47 msec).
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,Preallocating,
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,
+[2020-05-26 12:25:02] AppID 228980 update started : download 0/123277024, store 0/0, reuse 0/0, delta 0/0, stage 0/132358491 
+[2020-05-26 12:25:02] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,Downloading,
+[2020-05-26 12:25:02] AppID 228980 update changed : Running,Downloading,Staging,
+[2020-05-26 12:25:02] Downloading 27 chunks from depot 228988
+[2020-05-26 12:25:02] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (228988) - Success!
+[2020-05-26 12:25:02] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (228988) - Success!
+[2020-05-26 12:25:05] Downloading 203 chunks from depot 228990
+[2020-05-26 12:25:06] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (228990) - Success!
+[2020-05-26 12:25:06] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (228990) - Success!
+[2020-05-26 12:25:06] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (228990) - Success!
+[2020-05-26 12:25:13] Increasing target number of download connections to 4 (rate was 0.000, now 40.463)
+[2020-05-26 12:25:13] Current download rate: 40.463 Mbps
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 12:25:13] Skipping download source as it does not allow AppID 228980: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 12:25:13] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-26 12:25:13] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:25:13] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): AuthenticateDepotID (228990) - Success!
+[2020-05-26 12:25:13] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::CChunkRequestRedirectHandler - allowing redirects to 'http://153.35.172.1/dl.steam.ksyna.com/depot/228990/chunk/bdd99a00d1da51d29336001cb3176766c4e7338c'
+[2020-05-26 12:25:18] AppID 228980 update changed : Running,
+[2020-05-26 12:25:18] AppID 228980 update changed : Running,Committing,
+[2020-05-26 12:25:18] AppID 228980 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\228980" to "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared" : 164 updated, 0 moved, 0 deleted files
+[2020-05-26 12:25:19] AppID 228980 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-26 12:25:19] AppID 228980 finished update, mounted depots (BuildID 4685643) : 228988 (6988565055293785057),228990 (1829726630299308803),
+[2020-05-26 12:25:19] AppID 228980 update changed : Running,
+[2020-05-26 12:25:19] AppID 228980 update changed : None
+[2020-05-26 12:25:19] AppID 228980 state changed : Fully Installed,Update Queued,
+[2020-05-26 12:25:19] AppID 228980 state changed : Fully Installed,
+[2020-05-26 12:25:19] AppID 228980 scheduler finished : removed from schedule
+[2020-05-26 12:25:19] AppID 1048290 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-05-26 12:25:19] AppID 1048290 update changed : Running,
+[2020-05-26 12:25:19] AppID 1048290 update changed : Running,Reconfiguring,
+[2020-05-26 12:25:19] AppID 1048290 update changed : Running,
+[2020-05-26 12:25:19] AppID 1048290 update started : download 912/4195729712, store 0/0, reuse 0/0, delta 0/0, stage 460928/4868382644 
+[2020-05-26 12:25:19] AppID 1048290 update changed : Running,Downloading,
+[2020-05-26 12:25:19] AppID 1048290 update changed : Running,Downloading,Staging,
+[2020-05-26 12:25:19] Downloading 51 chunks from depot 1048291
+[2020-05-26 12:25:19] HTTP (CDN,30) - dl.steam.ksyna.com (119.167.249.4:80 / 119.167.249.4:80, host: dl.steam.ksyna.com): AuthenticateDepotID (1048291) - Success!
+[2020-05-26 12:25:24] Downloading 4592 chunks from depot 1048292
+[2020-05-26 12:25:24] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1048292) - Success!
+[2020-05-26 12:25:24] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.88:80 / 116.153.4.88:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1048292) - Success!
+[2020-05-26 12:25:24] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.1:80 / 119.188.195.1:80, host: dl.steam.ksyna.com): AuthenticateDepotID (1048292) - Success!
+[2020-05-26 12:25:25] Increasing target number of download connections to 5 (rate was 40.463, now 57.708)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 12:25:25] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 12:25:25] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-26 12:25:26] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:25:26] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): AuthenticateDepotID (1048292) - Success!
+[2020-05-26 12:25:26] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::CChunkRequestRedirectHandler - allowing redirects to 'http://119.188.195.1/dl.steam.ksyna.com/depot/1048292/chunk/961e926a59337de73fb317d53eadf66bb42c4c0f'
+[2020-05-26 12:25:37] Increasing target number of download connections to 6 (rate was 57.708, now 78.461)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 12:25:37] Skipping download source as it does not allow AppID 1048290: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 12:25:37] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-26 12:25:38] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 12:25:38] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): AuthenticateDepotID (1048292) - Success!
+[2020-05-26 12:25:38] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::CChunkRequestRedirectHandler - allowing redirects to 'http://119.167.249.5/dl.steam.ksyna.com/depot/1048292/chunk/9127097df4d50e1ba1763ec01000736932bb383e'
+[2020-05-26 12:26:14] Current download rate: 84.306 Mbps
+[2020-05-26 12:27:15] Current download rate: 88.748 Mbps
+[2020-05-26 12:28:16] Current download rate: 90.142 Mbps
+[2020-05-26 12:29:17] Current download rate: 90.838 Mbps
+[2020-05-26 12:30:18] Current download rate: 85.670 Mbps
+[2020-05-26 12:31:19] Current download rate: 91.250 Mbps
+[2020-05-26 12:31:46] AppID 1048290 update changed : Running,
+[2020-05-26 12:31:46] AppID 1048290 update changed : Running,Committing,
+[2020-05-26 12:31:46] AppID 1048290 starting commit from "E:\SteamLibrary\steamapps\downloading\1048290" to "E:\SteamLibrary\steamapps\common\HEAVY RAIN Demo" : 27 updated, 0 moved, 0 deleted files
+[2020-05-26 12:31:46] AppID 1048290 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-26 12:31:46] AppID 1048290 finished update, mounted depots (BuildID 5032040) : 1048291 (5167554264092838980),1048292 (5927343987344527580),
+[2020-05-26 12:31:46] AppID 1048290 update changed : Running,
+[2020-05-26 12:31:46] AppID 1048290 update changed : None
+[2020-05-26 12:31:46] AppID 1048290 state changed : Fully Installed,Update Queued,
+[2020-05-26 12:31:46] AppID 1048290 state changed : Fully Installed,
+[2020-05-26 12:31:46] AppID 1048290 scheduler finished : removed from schedule
+[2020-05-26 12:32:20] Current download rate: 0.000 Mbps
+[2020-05-26 12:32:46] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 12:32:46] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 12:32:46] HTTP (CDN,30) - dl.steam.ksyna.com (119.167.249.3:80 / 119.167.249.3:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-26 12:32:46] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 12:32:46] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.3:80 / 119.188.195.3:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-26 12:32:47] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-26 12:45:20] AppID 1048290 state changed : Fully Installed,App Running,
+[2020-05-26 13:11:48] AppID 1048290 state changed : Fully Installed,
+[2020-05-26 13:13:45] AppID 1248980 state changed : Update Required,
+[2020-05-26 13:13:45] Dependency added: parent 228980, child 1248980, depot 228988
+[2020-05-26 13:13:45] Dependency added: parent 228980, child 1248980, depot 228990
+[2020-05-26 13:13:45] AppID 1248980 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=2, appDisableSecondsRemaining=0
+[2020-05-26 13:13:45] AppID 1248980 state changed : Update Required,Update Queued,
+[2020-05-26 13:13:45] AppID 1248980 state changed : Update Required,Update Queued,Update Running,
+[2020-05-26 13:13:45] AppID 1248980 update changed : Running,
+[2020-05-26 13:13:45] AppID 1248980 update changed : Running,Reconfiguring,
+[2020-05-26 13:13:45] Download system icon for AppID 1248980 to C:\Program Files (x86)\Steam\steam\games/671a44b1a1d2394d3d8d6cd1336f8ef5e090f82c.ico
+[2020-05-26 13:13:46] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 13:13:46] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 13:13:46] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 13:13:46] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 13:13:46] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 13:13:46] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:13:46] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:13:46] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1248981) - Success!
+[2020-05-26 13:13:47] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): st.dl.pinyuncloud.com/depot/1248981/manifest/2392243563104744660/5 - received 200 (OK) HTTP response
+[2020-05-26 13:13:47] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:13:47] AppID 1248980 update changed : Running,
+[2020-05-26 13:13:47] AppID 1248980 update changed : Running,Validating,
+[2020-05-26 13:13:47] Validating files (new target,full) ...
+[2020-05-26 13:13:47] File validation finished: 220 files (9041869189 bytes) total, 220 files (9041869189 bytes) mismatched (40 msec).
+[2020-05-26 13:13:47] AppID 1248980 update changed : Running,
+[2020-05-26 13:13:47] AppID 1248980 update changed : Running,Preallocating,
+[2020-05-26 13:13:59] Current download rate: 0.000 Mbps
+[2020-05-26 13:14:47] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 13:14:47] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 13:14:48] HTTP (CDN,29) - st.dl.pinyuncloud.com (118.212.226.112:80 / 118.212.226.112:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 13:16:38] AppID 1248980 update changed : Running,
+[2020-05-26 13:16:38] AppID 1248980 update started : download 0/6695306928, store 0/0, reuse 0/0, delta 0/0, stage 0/9041869189 
+[2020-05-26 13:16:38] AppID 1248980 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-05-26 13:16:38] AppID 1248980 update changed : Running,Downloading,
+[2020-05-26 13:16:38] AppID 1248980 update changed : Running,Downloading,Staging,
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 13:16:38] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 13:16:38] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 13:16:38] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 13:16:38] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-26 13:16:38] Downloading 8551 chunks from depot 1248981
+[2020-05-26 13:16:39] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:16:39] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1248981) - Success!
+[2020-05-26 13:16:39] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:16:39] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1248981) - Success!
+[2020-05-26 13:16:39] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:16:39] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (1248981) - Success!
+[2020-05-26 13:16:51] Increasing target number of download connections to 4 (rate was 0.000, now 67.839)
+[2020-05-26 13:16:51] Current download rate: 67.839 Mbps
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 13:16:51] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 13:16:51] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-26 13:16:52] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:16:52] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): AuthenticateDepotID (1248981) - Success!
+[2020-05-26 13:16:52] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::CChunkRequestRedirectHandler - allowing redirects to 'http://119.188.195.6/dl.steam.ksyna.com/depot/1248981/chunk/f6f052b6b52ae2a214e8cb901c4dcd4ee5a1896f'
+[2020-05-26 13:17:51] Current download rate: 79.754 Mbps
+[2020-05-26 13:17:57] Increasing target number of download connections to 5 (rate was 67.839, now 81.953)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-26 13:17:57] Skipping download source as it does not allow AppID 1248980: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-26 13:17:57] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-26 13:17:59] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-26 13:17:59] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): AuthenticateDepotID (1248981) - Success!
+[2020-05-26 13:17:59] HTTP (CDN,30) - dl.steam.ksyna.com (123.130.122.125:80 / 123.130.122.125:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::CChunkRequestRedirectHandler - allowing redirects to 'http://119.188.195.3/dl.steam.ksyna.com/depot/1248981/chunk/125ad2ca42eb2c66bbd4c7146690ca6ebe26a0c7'
+[2020-05-26 13:18:52] Current download rate: 84.825 Mbps
+[2020-05-26 13:19:52] Current download rate: 82.671 Mbps
+[2020-05-26 13:20:53] Current download rate: 86.525 Mbps
+[2020-05-26 13:21:54] Current download rate: 83.312 Mbps
+[2020-05-26 13:22:54] Current download rate: 85.233 Mbps
+[2020-05-26 13:23:55] Current download rate: 83.080 Mbps
+[2020-05-26 13:24:56] Current download rate: 85.691 Mbps
+[2020-05-26 13:25:57] Current download rate: 81.918 Mbps
+[2020-05-26 13:26:57] Current download rate: 84.505 Mbps
+[2020-05-26 13:27:35] AppID 1248980 update changed : Running,
+[2020-05-26 13:27:35] AppID 1248980 update changed : Running,Committing,
+[2020-05-26 13:27:35] AppID 1248980 starting commit from "E:\SteamLibrary\steamapps\downloading\1248980" to "E:\SteamLibrary\steamapps\common\BEYOND Two Souls Demo" : 226 updated, 0 moved, 0 deleted files
+[2020-05-26 13:27:36] AppID 1248980 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-26 13:27:36] AppID 1248980 finished update, mounted depots (BuildID 5047341) : 1248981 (2392243563104744660),
+[2020-05-26 13:27:36] AppID 1248980 update changed : Running,
+[2020-05-26 13:27:36] AppID 1248980 update changed : None
+[2020-05-26 13:27:36] AppID 1248980 state changed : Fully Installed,Update Queued,
+[2020-05-26 13:27:36] AppID 1248980 state changed : Fully Installed,
+[2020-05-26 13:27:36] AppID 1248980 scheduler finished : removed from schedule
+[2020-05-26 13:27:41] AppID 1248980 state changed : Fully Installed,App Running,
+[2020-05-26 13:27:58] Current download rate: 0.000 Mbps
+[2020-05-26 13:28:34] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 13:28:34] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 13:28:35] HTTP (CDN,30) - dl.steam.ksyna.com (119.167.249.4:80 / 119.167.249.4:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-26 13:28:35] HTTP (CDN,29) - st.dl.pinyuncloud.com (123.6.6.71:80 / 123.6.6.71:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-26 13:28:36] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.2:80 / 119.188.195.2:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-26 14:04:50] AppID 1248980 state changed : Fully Installed,
+[2020-05-26 14:10:14] AppID 1224230 state changed : Fully Installed,App Running,
+[2020-05-26 14:10:24] AppID 1224230 state changed : Fully Installed,
+[2020-05-26 19:14:15] AppID 1048290 state changed : Fully Installed,App Running,
+[2020-05-26 19:24:09] AppID 1048290 state changed : Fully Installed,
+
+
+[2020-05-27 09:33:06] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-05-27 09:33:07] Loaded 6 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-05-27 12:25:47] AppID 644560 state changed : Update Required,
+[2020-05-27 12:25:47] AppID 644560 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=2, appDisableSecondsRemaining=0
+[2020-05-27 12:25:47] AppID 644560 state changed : Update Required,Update Queued,
+[2020-05-27 12:25:47] AppID 644560 state changed : Update Required,Update Queued,Update Running,
+[2020-05-27 12:25:47] AppID 644560 update changed : Running,
+[2020-05-27 12:25:47] AppID 644560 update changed : Running,Reconfiguring,
+[2020-05-27 12:25:48] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 12:25:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 12:25:48] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-27 12:25:48] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-27 12:25:48] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-05-27 12:25:48] Created ipv4-only http client
+[2020-05-27 12:25:48] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 12:25:48] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (644561) - Success!
+[2020-05-27 12:25:48] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 12:25:48] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 12:25:48] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): st.dl.pinyuncloud.com/depot/644561/manifest/5384560173582098134/5 - received 200 (OK) HTTP response
+[2020-05-27 12:25:48] AppID 644560 update changed : Running,
+[2020-05-27 12:25:48] AppID 644560 update changed : Running,Validating,
+[2020-05-27 12:25:48] Validating files (new target,full) ...
+[2020-05-27 12:25:48] File validation finished: 230 files (2763885337 bytes) total, 230 files (2763885337 bytes) mismatched (41 msec).
+[2020-05-27 12:25:48] AppID 644560 update changed : Running,
+[2020-05-27 12:25:48] AppID 644560 update changed : Running,Preallocating,
+[2020-05-27 12:26:01] AppID 644560 update changed : Running,
+[2020-05-27 12:26:01] AppID 644560 update started : download 0/992039920, store 0/0, reuse 0/0, delta 0/0, stage 0/2763885337 
+[2020-05-27 12:26:01] AppID 644560 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-05-27 12:26:01] AppID 644560 update changed : Running,Downloading,
+[2020-05-27 12:26:01] AppID 644560 update changed : Running,Downloading,Staging,
+[2020-05-27 12:26:01] Downloading 2913 chunks from depot 644561
+[2020-05-27 12:26:01] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (644561) - Success!
+[2020-05-27 12:26:01] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (644561) - Success!
+[2020-05-27 12:26:01] AppID 644560 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=16, appDisableSecondsRemaining=0
+[2020-05-27 12:26:02] Increasing target number of download connections to 4 (rate was 0.000, now 16.919)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 12:26:02] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 12:26:02] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-27 12:26:03] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.172:80 / 36.250.225.172:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 12:26:04] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.172:80 / 36.250.225.172:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (644561) - Success!
+[2020-05-27 12:26:15] Increasing target number of download connections to 5 (rate was 16.919, now 61.631)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 12:26:15] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 12:26:15] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-27 12:26:17] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.172:80 / 36.250.225.172:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 12:26:17] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.172:80 / 36.250.225.172:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (644561) - Success!
+[2020-05-27 12:26:27] Increasing target number of download connections to 6 (rate was 61.631, now 78.089)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 12:26:27] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 12:26:27] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-27 12:26:31] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.172:80 / 36.250.225.172:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 12:26:31] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.172:80 / 36.250.225.172:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (644561) - Success!
+[2020-05-27 12:27:02] Current download rate: 90.968 Mbps
+[2020-05-27 12:27:33] AppID 644560 update changed : Running,
+[2020-05-27 12:27:33] AppID 644560 update changed : Running,Committing,
+[2020-05-27 12:27:33] AppID 644560 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\644560" to "C:\Program Files (x86)\Steam\steamapps\common\Mirror" : 244 updated, 0 moved, 0 deleted files
+[2020-05-27 12:27:33] AppID 644560 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-27 12:27:33] AppID 644560 finished update, mounted depots (BuildID 4138637) : 644561 (5384560173582098134),
+[2020-05-27 12:27:33] AppID 644560 update changed : Running,
+[2020-05-27 12:27:33] AppID 644560 update changed : None
+[2020-05-27 12:27:33] AppID 644560 state changed : Fully Installed,Update Queued,
+[2020-05-27 12:27:33] AppID 644560 state changed : Fully Installed,
+[2020-05-27 12:27:33] AppID 644560 scheduler finished : removed from schedule
+[2020-05-27 12:27:42] AppID 644560 state changed : Fully Installed,App Running,
+[2020-05-27 12:27:48] AppID 644560 state changed : Fully Installed,
+[2020-05-27 12:27:48] AppID 644560 state changed : Fully Installed,App Running,
+[2020-05-27 12:27:53] AppID 644560 state changed : Fully Installed,
+[2020-05-27 12:28:03] Current download rate: 0.000 Mbps
+[2020-05-27 12:28:19] AppID 644560 state changed : Fully Installed,App Running,
+[2020-05-27 12:28:24] AppID 644560 state changed : Fully Installed,
+[2020-05-27 12:28:28] AppID 644560 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=5, appDisableSecondsRemaining=0
+[2020-05-27 12:28:28] AppID 644560 state changed : Fully Installed,Update Paused,
+[2020-05-27 12:28:28] AppID 644560 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=5, appDisableSecondsRemaining=0
+[2020-05-27 12:28:28] AppID 644560 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2020-05-27 12:28:29] AppID 644560 state changed : Uninstalled,
+[2020-05-27 12:28:29] AppID 644560 finished uninstall (No Error)
+[2020-05-27 12:28:33] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.239:80 / 27.221.28.239:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-27 12:28:33] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-27 12:28:33] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.239:80 / 27.221.28.239:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-27 12:28:33] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-27 12:28:33] HTTP (CDN,29) - st.dl.pinyuncloud.com (27.221.28.234:80 / 27.221.28.234:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-05-27 12:28:34] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.239:80 / 27.221.28.239:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-27 18:29:48] AppID 1048290 state changed : Fully Installed,App Running,
+[2020-05-27 18:38:13] AppID 1048290 state changed : Fully Installed,
+[2020-05-27 19:20:50] AppID 730 state changed : Update Required,
+[2020-05-27 19:20:50] AppID 730 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=2, appDisableSecondsRemaining=0
+[2020-05-27 19:20:50] AppID 730 state changed : Update Required,Update Queued,
+[2020-05-27 19:20:50] AppID 730 state changed : Update Required,Update Queued,Update Running,
+[2020-05-27 19:20:50] AppID 730 update changed : Running,
+[2020-05-27 19:20:50] AppID 730 update changed : Running,Reconfiguring,
+[2020-05-27 19:20:51] Download system icon for AppID 730 to C:\Program Files (x86)\Steam\steam\games/d1159d1a4d0e18da4d74f85dbb4934d7a92ace2b.ico
+[2020-05-27 19:20:52] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-05-27 19:20:52] Skipping download source as it does not allow AppID 730: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 19:20:52] Created download interface of type 'CDN' (2) to host update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-05-27 19:20:52] Skipping download source as it does not allow AppID 730: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 19:20:52] Skipping download source as it does not allow AppID 730: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 19:20:52] Skipping download source as it does not allow AppID 730: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 19:20:52] Skipping download source as it does not allow AppID 730: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 19:20:52] Skipping download source as it does not allow AppID 730: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 19:20:52] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-27 19:20:52] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-27 19:20:52] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 19:20:52] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 19:20:52] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (732) - Success!
+[2020-05-27 19:20:52] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): cdn.mileweb.cs.steampowered.com.8686c.com/depot/732/manifest/2978074177923904780/5 - received 200 (OK) HTTP response
+[2020-05-27 19:20:52] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (731) - Success!
+[2020-05-27 19:20:53] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): cdn.mileweb.cs.steampowered.com.8686c.com/depot/731/manifest/7617088375292372759/5 - received 200 (OK) HTTP response
+[2020-05-27 19:20:53] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (737) - Success!
+[2020-05-27 19:20:53] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): cdn.mileweb.cs.steampowered.com.8686c.com/depot/737/manifest/5839422051369254619/5 - received 200 (OK) HTTP response
+[2020-05-27 19:20:53] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): AuthenticateDepotID (738) - Success!
+[2020-05-27 19:20:53] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): update1.csgo.wmsj.cn/depot/738/manifest/4720908170210022744/5 - received 200 (OK) HTTP response
+[2020-05-27 19:20:53] AppID 730 update changed : Running,
+[2020-05-27 19:20:53] AppID 730 update changed : Running,Validating,
+[2020-05-27 19:20:53] Validating files (new target,full) ...
+[2020-05-27 19:20:53] File validation finished: 2923 files (24057914908 bytes) total, 2923 files (24057914908 bytes) mismatched (41 msec).
+[2020-05-27 19:20:53] AppID 730 update changed : Running,
+[2020-05-27 19:20:53] AppID 730 update changed : Running,Preallocating,
+[2020-05-27 19:20:54] AppID 730 update changed : Running,
+[2020-05-27 19:20:54] AppID 730 update started : download 0/11195685168, store 0/0, reuse 0/0, delta 0/0, stage 0/24057914908 
+[2020-05-27 19:20:54] AppID 730 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-05-27 19:20:54] AppID 730 update changed : Running,Downloading,
+[2020-05-27 19:20:54] AppID 730 update changed : Running,Downloading,Staging,
+[2020-05-27 19:20:54] Downloading 512 chunks from depot 732
+[2020-05-27 19:20:55] AppID 730 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=7, appDisableSecondsRemaining=0
+[2020-05-27 19:20:55] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): AuthenticateDepotID (732) - Success!
+[2020-05-27 19:20:56] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 19:20:56] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (732) - Success!
+[2020-05-27 19:21:04] Increasing target number of download connections to 4 (rate was 0.000, now 54.637)
+[2020-05-27 19:21:04] Current download rate: 54.637 Mbps
+[2020-05-27 19:21:04] Skipping download source as it does not allow AppID 730: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 19:21:04] Skipping download source as it does not allow AppID 730: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 19:21:04] Skipping download source as it does not allow AppID 730: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 19:21:04] Skipping download source as it does not allow AppID 730: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 19:21:04] Skipping download source as it does not allow AppID 730: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 19:21:04] Skipping download source as it does not allow AppID 730: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 19:21:04] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-05-27 19:21:09] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 19:21:09] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (732) - Success!
+[2020-05-27 19:21:17] Increasing target number of download connections to 5 (rate was 54.637, now 77.635)
+[2020-05-27 19:21:17] Skipping download source as it does not allow AppID 730: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-27 19:21:17] Skipping download source as it does not allow AppID 730: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-27 19:21:17] Skipping download source as it does not allow AppID 730: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-27 19:21:17] Skipping download source as it does not allow AppID 730: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-27 19:21:17] Skipping download source as it does not allow AppID 730: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-27 19:21:17] Skipping download source as it does not allow AppID 730: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-27 19:21:17] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-27 19:21:17] HTTP (CDN,30) - dl.steam.ksyna.com (153.35.174.1:80 / 153.35.174.1:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-27 19:21:21] HTTP (CDN,30) - dl.steam.ksyna.com (153.35.174.1:80 / 153.35.174.1:80, host: dl.steam.ksyna.com): AuthenticateDepotID (732) - Success!
+[2020-05-27 19:21:21] Downloading 24351 chunks from depot 731
+[2020-05-27 19:21:21] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (731) - Success!
+[2020-05-27 19:21:21] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (27.221.28.232:80 / 27.221.28.232:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (731) - Success!
+[2020-05-27 19:21:22] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): AuthenticateDepotID (731) - Success!
+[2020-05-27 19:21:22] HTTP (CDN,30) - dl.steam.ksyna.com (153.35.174.1:80 / 153.35.174.1:80, host: dl.steam.ksyna.com): AuthenticateDepotID (731) - Success!
+[2020-05-27 19:22:06] Current download rate: 53.094 Mbps
+[2020-05-27 19:23:07] Current download rate: 42.944 Mbps
+[2020-05-27 19:24:08] Current download rate: 26.894 Mbps
+[2020-05-27 19:25:09] Current download rate: 36.327 Mbps
+[2020-05-27 19:26:10] Current download rate: 50.356 Mbps
+[2020-05-27 19:27:11] Current download rate: 33.309 Mbps
+[2020-05-27 19:28:12] Current download rate: 33.258 Mbps
+[2020-05-27 19:29:12] Current download rate: 36.671 Mbps
+[2020-05-27 19:29:32] AppID 1048290 state changed : Fully Installed,App Running,
+[2020-05-27 19:29:37] AppID 1048290 state changed : Fully Installed,
+[2020-05-27 19:30:14] Current download rate: 34.104 Mbps
+[2020-05-27 19:31:15] Current download rate: 30.535 Mbps
+[2020-05-27 19:32:16] Current download rate: 47.134 Mbps
+[2020-05-27 19:33:17] Current download rate: 46.787 Mbps
+[2020-05-27 19:34:18] Current download rate: 38.079 Mbps
+[2020-05-27 19:35:19] Current download rate: 29.993 Mbps
+[2020-05-27 19:36:20] Current download rate: 26.778 Mbps
+[2020-05-27 19:37:21] Current download rate: 48.357 Mbps
+[2020-05-27 19:38:22] Current download rate: 50.856 Mbps
+[2020-05-27 19:39:23] Current download rate: 50.836 Mbps
+[2020-05-27 19:40:24] Current download rate: 47.856 Mbps
+[2020-05-27 19:41:26] Current download rate: 69.631 Mbps
+[2020-05-27 19:42:27] Current download rate: 49.212 Mbps
+[2020-05-27 19:43:28] Current download rate: 68.336 Mbps
+[2020-05-27 19:44:29] Current download rate: 87.127 Mbps
+[2020-05-27 19:45:30] Current download rate: 50.452 Mbps
+[2020-05-27 19:46:31] Current download rate: 80.335 Mbps
+[2020-05-27 19:47:21] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-05-27 19:47:21] Downloading 260 chunks from depot 737
+[2020-05-27 19:47:21] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (61.163.109.131:80 / 61.163.109.131:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (737) - Success!
+[2020-05-27 19:47:21] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (61.163.109.131:80 / 61.163.109.131:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (737) - Success!
+[2020-05-27 19:47:21] HTTP (CDN,30) - dl.steam.ksyna.com (119.167.249.1:80 / 119.167.249.1:80, host: dl.steam.ksyna.com): AuthenticateDepotID (737) - Success!
+[2020-05-27 19:47:21] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): AuthenticateDepotID (737) - Success!
+[2020-05-27 19:47:32] Current download rate: 61.762 Mbps
+[2020-05-27 19:47:34] Downloading 930 chunks from depot 738
+[2020-05-27 19:47:34] HTTP (CDN,30) - dl.steam.ksyna.com (119.167.249.1:80 / 119.167.249.1:80, host: dl.steam.ksyna.com): AuthenticateDepotID (738) - Success!
+[2020-05-27 19:47:34] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (61.163.109.131:80 / 61.163.109.131:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (738) - Success!
+[2020-05-27 19:47:34] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (61.163.109.131:80 / 61.163.109.131:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (738) - Success!
+[2020-05-27 19:47:34] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (61.163.109.131:80 / 61.163.109.131:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (738) - Success!
+[2020-05-27 19:48:33] Current download rate: 86.573 Mbps
+[2020-05-27 19:48:50] AppID 730 update changed : Running,
+[2020-05-27 19:48:50] AppID 730 update changed : Running,Verifying,
+[2020-05-27 19:49:34] Current download rate: 0.000 Mbps
+[2020-05-27 19:49:50] HTTP (CDN,20) - update1.csgo.wmsj.cn (1.25.242.252:80 / 1.25.242.252:80, host: update1.csgo.wmsj.cn): Closing connection
+[2020-05-27 19:49:50] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.185:80 / 36.250.225.185:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-27 19:49:50] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.185:80 / 36.250.225.185:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-27 19:49:51] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (36.250.225.185:80 / 36.250.225.185:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-05-27 19:49:51] HTTP (CDN,30) - dl.steam.ksyna.com (119.167.249.1:80 / 119.167.249.1:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-27 20:01:25] AppID 730 update changed : Running,
+[2020-05-27 20:01:25] AppID 730 update changed : Running,Committing,
+[2020-05-27 20:01:25] AppID 730 starting commit from "E:\SteamLibrary\steamapps\downloading\730" to "E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive" : 2923 updated, 0 moved, 0 deleted files
+[2020-05-27 20:01:30] AppID 730 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-27 20:01:30] AppID 730 finished update, mounted depots (BuildID 5013941) : 732 (2978074177923904780),731 (7617088375292372759),737 (5839422051369254619),738 (4720908170210022744),
+[2020-05-27 20:01:30] AppID 730 update changed : Running,
+[2020-05-27 20:01:30] AppID 730 update changed : None
+[2020-05-27 20:01:30] AppID 730 state changed : Fully Installed,Update Queued,
+[2020-05-27 20:01:30] AppID 730 state changed : Fully Installed,
+[2020-05-27 20:01:30] AppID 730 scheduler finished : removed from schedule
+[2020-05-27 20:06:52] AppID 730 state changed : Fully Installed,App Running,
+[2020-05-27 21:08:20] AppID 730 state changed : Fully Installed,
+
+
+[2020-05-27 21:25:00] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-05-27 21:25:01] Loaded 7 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-05-27 21:25:06] AppID 730 state changed : Fully Installed,App Running,
+[2020-05-27 21:40:12] AppID 730 state changed : Fully Installed,
+
+
+[2020-05-28 09:23:04] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-05-28 09:23:05] Loaded 7 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-05-28 09:23:14] AppID 730 state changed : Update Required,Fully Installed,
+[2020-05-28 09:23:19] AppID 730 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=42189, appDisableSecondsRemaining=0
+[2020-05-28 09:23:19] AppID 730 state changed : Update Required,Fully Installed,Update Queued,
+[2020-05-28 09:23:19] AppID 730 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2020-05-28 09:23:19] AppID 730 update changed : Running,
+[2020-05-28 09:23:19] AppID 730 update changed : Running,Reconfiguring,
+[2020-05-28 09:23:20] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-05-28 09:23:20] Skipping download source as it does not allow AppID 730: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-28 09:23:20] Skipping download source as it does not allow AppID 730: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-28 09:23:20] Created download interface of type 'CDN' (2) to host update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-05-28 09:23:20] Skipping download source as it does not allow AppID 730: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-28 09:23:20] Skipping download source as it does not allow AppID 730: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-28 09:23:20] Skipping download source as it does not allow AppID 730: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-28 09:23:20] Skipping download source as it does not allow AppID 730: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-28 09:23:20] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-28 09:23:20] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-28 09:23:20] Created ipv4-only http client
+[2020-05-28 09:23:20] HTTP (CDN,20) - update3.csgo.wmsj.cn (27.221.54.221:80 / 27.221.54.221:80, host: update3.csgo.wmsj.cn): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-28 09:23:20] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-28 09:23:20] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): AuthenticateDepotID (731) - Success!
+[2020-05-28 09:23:20] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): AuthenticateDepotID (737) - Success!
+[2020-05-28 09:23:20] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-28 09:23:20] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): dl.steam.ksyna.com/depot/737/manifest/2330656083032543439/5 - received 200 (OK) HTTP response
+[2020-05-28 09:23:20] HTTP (CDN,20) - update3.csgo.wmsj.cn (27.221.54.221:80 / 27.221.54.221:80, host: update3.csgo.wmsj.cn): AuthenticateDepotID (732) - Success!
+[2020-05-28 09:23:20] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): dl.steam.ksyna.com/depot/731/manifest/8095178295148161582/5 - received 200 (OK) HTTP response
+[2020-05-28 09:23:20] HTTP (CDN,20) - update3.csgo.wmsj.cn (27.221.54.221:80 / 27.221.54.221:80, host: update3.csgo.wmsj.cn): update3.csgo.wmsj.cn/depot/732/manifest/274557624121391520/5 - received 200 (OK) HTTP response
+[2020-05-28 09:23:20] AppID 730 update changed : Running,
+[2020-05-28 09:23:20] AppID 730 update changed : Running,Validating,
+[2020-05-28 09:23:20] Validating files (new target,full) ...
+[2020-05-28 09:23:21] File validation finished: 10 files (7807732 bytes) total, 10 files (7807732 bytes) mismatched (99 msec).
+[2020-05-28 09:23:21] AppID 730 update changed : Running,
+[2020-05-28 09:23:21] AppID 730 update changed : Running,Preallocating,
+[2020-05-28 09:23:21] AppID 730 update changed : Running,
+[2020-05-28 09:23:21] AppID 730 update started : download 0/63947104, store 0/0, reuse 0/857146519, delta 0/0, stage 0/1051114590 
+[2020-05-28 09:23:21] AppID 730 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2020-05-28 09:23:21] AppID 730 update changed : Running,Downloading,
+[2020-05-28 09:23:21] AppID 730 update changed : Running,Downloading,Staging,
+[2020-05-28 09:23:21] Downloading 87 chunks from depot 732
+[2020-05-28 09:23:21] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): AuthenticateDepotID (732) - Success!
+[2020-05-28 09:23:21] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): AuthenticateDepotID (732) - Success!
+[2020-05-28 09:23:24] Downloading 130 chunks from depot 731
+[2020-05-28 09:23:24] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): AuthenticateDepotID (731) - Success!
+[2020-05-28 09:23:25] HTTP (CDN,20) - update3.csgo.wmsj.cn (27.221.54.221:80 / 27.221.54.221:80, host: update3.csgo.wmsj.cn): AuthenticateDepotID (731) - Success!
+[2020-05-28 09:23:59] Downloading 32 chunks from depot 737
+[2020-05-28 09:23:59] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): AuthenticateDepotID (737) - Success!
+[2020-05-28 09:23:59] HTTP (CDN,20) - update3.csgo.wmsj.cn (27.221.54.221:80 / 27.221.54.221:80, host: update3.csgo.wmsj.cn): AuthenticateDepotID (737) - Success!
+[2020-05-28 09:24:01] Increasing target number of download connections to 4 (rate was 0.000, now 46.672)
+[2020-05-28 09:24:01] Skipping download source as it does not allow AppID 730: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-05-28 09:24:01] Skipping download source as it does not allow AppID 730: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-05-28 09:24:01] Skipping download source as it does not allow AppID 730: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-05-28 09:24:01] Skipping download source as it does not allow AppID 730: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-05-28 09:24:01] Skipping download source as it does not allow AppID 730: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-05-28 09:24:01] Skipping download source as it does not allow AppID 730: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-05-28 09:24:01] Created download interface of type 'CDN' (2) to host dl.steam.ksyna.com (dl.steam.ksyna.com)
+[2020-05-28 09:24:01] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-05-28 09:24:14] AppID 730 update changed : Running,
+[2020-05-28 09:24:14] AppID 730 update changed : Running,Verifying,
+[2020-05-28 09:24:30] AppID 730 update changed : Running,
+[2020-05-28 09:24:30] AppID 730 update changed : Running,Committing,
+[2020-05-28 09:24:30] AppID 730 starting commit from "E:\SteamLibrary\steamapps\downloading\730" to "E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive" : 85 updated, 0 moved, 0 deleted files
+[2020-05-28 09:24:31] AppID 730 state changed : Fully Installed,Update Queued,Update Running,
+[2020-05-28 09:24:31] AppID 730 finished update, mounted depots (BuildID 5086281) : 732 (274557624121391520),731 (8095178295148161582),737 (2330656083032543439),738 (4720908170210022744),
+[2020-05-28 09:24:31] AppID 730 update changed : Running,
+[2020-05-28 09:24:31] AppID 730 update changed : None
+[2020-05-28 09:24:31] AppID 730 state changed : Fully Installed,Update Queued,
+[2020-05-28 09:24:31] AppID 730 state changed : Fully Installed,
+[2020-05-28 09:24:31] AppID 730 scheduler finished : removed from schedule
+[2020-05-28 09:24:33] Current download rate: 0.000 Mbps
+[2020-05-28 09:25:01] HTTP (CDN,20) - update3.csgo.wmsj.cn (27.221.54.221:80 / 27.221.54.221:80, host: update3.csgo.wmsj.cn): Closing connection
+[2020-05-28 09:25:01] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-28 09:25:01] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-28 09:25:02] HTTP (CDN,30) - dl.steam.ksyna.com (119.188.195.5:80 / 119.188.195.5:80, host: dl.steam.ksyna.com): Closing connection
+[2020-05-28 09:25:43] AppID 730 state changed : Fully Installed,App Running,
+[2020-05-28 10:04:31] AppID 730 state changed : Fully Installed,
+
+
+[2020-05-28 18:50:37] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-05-28 18:50:37] Loaded 7 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-05-28 18:51:15] AppID 730 state changed : Fully Installed,App Running,
+[2020-05-28 19:17:36] AppID 730 state changed : Fully Installed,
+[2020-05-28 19:19:54] AppID 730 state changed : Fully Installed,App Running,
+[2020-05-28 20:23:21] AppID 730 state changed : Fully Installed,
+
+
+[2020-05-29 10:58:31] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-05-29 10:58:31] Loaded 7 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-05-29 10:59:49] AppID 730 state changed : Fully Installed,App Running,
+[2020-05-29 11:16:39] AppID 730 state changed : Fully Installed,
+[2020-05-29 13:14:39] AppID 1048290 state changed : Fully Installed,App Running,
+[2020-05-29 13:14:44] AppID 1048290 state changed : Fully Installed,
+[2020-05-29 18:06:29] AppID 730 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=24590, appDisableSecondsRemaining=0
+[2020-05-29 18:06:29] AppID 730 state changed : Fully Installed,Update Paused,
+[2020-05-29 18:06:29] AppID 730 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=24590, appDisableSecondsRemaining=0
+[2020-05-29 18:06:29] AppID 730 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2020-05-29 18:06:34] AppID 730 state changed : Uninstalled,
+[2020-05-29 18:06:34] AppID 730 finished uninstall (No Error)
+[2020-05-29 18:40:00] AppID 1224230 state changed : Update Required,Fully Installed, (Update delayed for 32951 secs)
+[2020-05-29 22:05:28] AppID 1224230 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=287705, appDisableSecondsRemaining=0
+[2020-05-29 22:05:28] AppID 1224230 state changed : Update Required,Fully Installed,Update Paused, (Update delayed for 20623 secs)
+[2020-05-29 22:05:30] AppID 1224230 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=287707, appDisableSecondsRemaining=0
+[2020-05-29 22:05:30] AppID 1224230 state changed : Update Required,Fully Installed,Files Missing,Uninstalling, (Update delayed for 20621 secs)
+[2020-05-29 22:05:31] AppID 1224230 state changed : Uninstalled, (Update delayed for 20620 secs)
+[2020-05-29 22:05:31] AppID 1224230 finished uninstall (No Error)
+
+
+[2020-05-30 20:46:11] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-05-30 20:46:11] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+
+
+[2020-06-02 20:45:37] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-02 20:45:41] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-02 20:47:54] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-02 20:47:54] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-02 20:47:54] Loaded 0 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-02 20:47:55] AppID 644560 state changed : Update Required,
+[2020-06-02 20:47:55] AppID 644560 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2020-06-02 20:47:55] AppID 644560 state changed : Update Required,Update Queued,
+[2020-06-02 20:47:55] AppID 644560 state changed : Update Required,Update Queued,Update Running,
+[2020-06-02 20:47:55] AppID 644560 update changed : Running,
+[2020-06-02 20:47:55] AppID 644560 update changed : Running,Reconfiguring,
+[2020-06-02 20:47:55] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (168/0)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-06-02 20:47:55] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-06-02 20:47:55] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-06-02 20:47:55] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-06-02 20:47:55] Created download interface of type 'CDN' (2) to host cdn.mileweb.cs.steampowered.com.8686c.com (cdn.mileweb.cs.steampowered.com.8686c.com)
+[2020-06-02 20:47:55] Created ipv4-only http client
+[2020-06-02 20:47:56] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-06-02 20:47:56] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-06-02 20:47:56] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-06-02 20:47:57] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (644561) - Success!
+[2020-06-02 20:47:57] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): cdn.mileweb.cs.steampowered.com.8686c.com/depot/644561/manifest/3022072755871853603/5 - received 200 (OK) HTTP response
+[2020-06-02 20:47:57] AppID 644560 update changed : Running,
+[2020-06-02 20:47:57] AppID 644560 update changed : Running,Validating,
+[2020-06-02 20:47:57] Validating files (new target,full) ...
+[2020-06-02 20:47:57] File validation finished: 231 files (2763890280 bytes) total, 231 files (2763890280 bytes) mismatched (42 msec).
+[2020-06-02 20:47:57] AppID 644560 update changed : Running,
+[2020-06-02 20:47:57] AppID 644560 update changed : Running,Preallocating,
+[2020-06-02 20:48:21] AppID 644560 update changed : Running,
+[2020-06-02 20:48:21] AppID 644560 update started : download 0/992044544, store 0/0, reuse 0/0, delta 0/0, stage 0/2763890280 
+[2020-06-02 20:48:21] AppID 644560 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-06-02 20:48:21] AppID 644560 update changed : Running,Downloading,
+[2020-06-02 20:48:21] AppID 644560 update changed : Running,Downloading,Staging,
+[2020-06-02 20:48:21] Downloading 2914 chunks from depot 644561
+[2020-06-02 20:48:21] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (644561) - Success!
+[2020-06-02 20:48:21] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (123.125.46.235:80 / 123.125.46.235:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): AuthenticateDepotID (644561) - Success!
+[2020-06-02 20:48:21] AppID 644560 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=27, appDisableSecondsRemaining=0
+[2020-06-02 20:48:23] Increasing target number of download connections to 4 (rate was 0.000, now 14.831)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-06-02 20:48:23] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-06-02 20:48:23] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-06-02 20:48:24] HTTP (CDN,29) - st.dl.pinyuncloud.com (220.194.87.140:80 / 220.194.87.140:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-06-02 20:48:24] HTTP (CDN,29) - st.dl.pinyuncloud.com (220.194.87.140:80 / 220.194.87.140:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (644561) - Success!
+[2020-06-02 20:48:35] Increasing target number of download connections to 5 (rate was 14.831, now 61.231)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-06-02 20:48:35] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-06-02 20:48:35] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-06-02 20:48:36] HTTP (CDN,29) - st.dl.pinyuncloud.com (220.194.87.140:80 / 220.194.87.140:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-06-02 20:48:36] HTTP (CDN,29) - st.dl.pinyuncloud.com (220.194.87.140:80 / 220.194.87.140:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (644561) - Success!
+[2020-06-02 20:48:48] Increasing target number of download connections to 6 (rate was 61.231, now 80.756)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.csgo.wmsj.cn (update4.csgo.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.csgo.wmsj.cn (update6.csgo.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.csgo.wmsj.cn (update3.csgo.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update4.dota2.wmsj.cn (update4.dota2.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.dota2.wmsj.cn (update5.dota2.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.csgo.wmsj.cn (update1.csgo.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update1.dota2.wmsj.cn (update1.dota2.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update6.dota2.wmsj.cn (update6.dota2.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.dota2.wmsj.cn (update2.dota2.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update3.dota2.wmsj.cn (update3.dota2.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update5.csgo.wmsj.cn (update5.csgo.wmsj.cn)
+[2020-06-02 20:48:48] Skipping download source as it does not allow AppID 644560: (CDN,20) - update2.csgo.wmsj.cn (update2.csgo.wmsj.cn)
+[2020-06-02 20:48:48] Created download interface of type 'CDN' (2) to host st.dl.pinyuncloud.com (st.dl.pinyuncloud.com)
+[2020-06-02 20:48:49] HTTP (CDN,29) - st.dl.pinyuncloud.com (220.194.87.140:80 / 220.194.87.140:80, host: st.dl.pinyuncloud.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-06-02 20:48:49] HTTP (CDN,29) - st.dl.pinyuncloud.com (220.194.87.140:80 / 220.194.87.140:80, host: st.dl.pinyuncloud.com): AuthenticateDepotID (644561) - Success!
+[2020-06-02 20:49:10] Current download rate: 86.949 Mbps
+[2020-06-02 20:50:00] AppID 644560 update changed : Running,
+[2020-06-02 20:50:00] AppID 644560 update changed : Running,Committing,
+[2020-06-02 20:50:00] AppID 644560 starting commit from "F:\SteamLibrary\steamapps\downloading\644560" to "F:\SteamLibrary\steamapps\common\Mirror" : 245 updated, 0 moved, 0 deleted files
+[2020-06-02 20:50:00] AppID 644560 state changed : Fully Installed,Update Queued,Update Running,
+[2020-06-02 20:50:00] AppID 644560 finished update, mounted depots (BuildID 5103867) : 644561 (3022072755871853603),
+[2020-06-02 20:50:00] AppID 644560 update changed : Running,
+[2020-06-02 20:50:00] AppID 644560 update changed : None
+[2020-06-02 20:50:00] AppID 644560 state changed : Fully Installed,Update Queued,
+[2020-06-02 20:50:00] AppID 644560 state changed : Fully Installed,
+[2020-06-02 20:50:00] AppID 644560 scheduler finished : removed from schedule
+[2020-06-02 20:50:11] Current download rate: 0.000 Mbps
+[2020-06-02 20:50:16] AppID 644560 state changed : Fully Installed,App Running,
+[2020-06-02 20:50:23] AppID 644560 state changed : Fully Installed,
+[2020-06-02 20:50:25] AppID 644560 state changed : Fully Installed,App Running,
+[2020-06-02 20:50:30] AppID 644560 state changed : Fully Installed,
+[2020-06-02 20:50:44] AppID 644560 state changed : Fully Installed,App Running,
+[2020-06-02 20:50:59] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.117:80 / 116.153.4.117:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-06-02 20:50:59] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (119.188.26.89:80 / 119.188.26.89:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-06-02 20:50:59] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (119.188.26.89:80 / 119.188.26.89:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-06-02 20:50:59] HTTP (CDN,19) - cdn.mileweb.cs.steampowered.com.8686c.com (119.188.26.89:80 / 119.188.26.89:80, host: cdn.mileweb.cs.steampowered.com.8686c.com): Closing connection
+[2020-06-02 20:51:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.117:80 / 116.153.4.117:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-06-02 20:51:00] HTTP (CDN,29) - st.dl.pinyuncloud.com (116.153.4.117:80 / 116.153.4.117:80, host: st.dl.pinyuncloud.com): Closing connection
+[2020-06-02 22:02:31] AppID 644560 state changed : Fully Installed,
+
+
+[2020-06-02 22:04:29] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-02 22:04:30] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-02 22:04:30] Loaded 1 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-02 22:05:17] AppID 644560 state changed : Fully Installed,App Running,
+[2020-06-02 22:05:27] AppID 644560 state changed : Fully Installed,
+[2020-06-02 22:05:41] AppID 644560 state changed : Fully Installed,App Running,
+[2020-06-02 22:27:27] AppID 644560 state changed : Fully Installed,
+
+
+[2020-06-03 11:30:30] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-03 11:30:30] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-03 11:30:30] Loaded 1 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-03 11:31:04] AppID 644560 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=47017, appDisableSecondsRemaining=0
+[2020-06-03 11:31:04] AppID 644560 state changed : Fully Installed,Update Paused,
+[2020-06-03 11:31:04] AppID 644560 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=47017, appDisableSecondsRemaining=0
+[2020-06-03 11:31:04] AppID 644560 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2020-06-03 11:31:04] AppID 644560 state changed : Uninstalled,
+[2020-06-03 11:31:04] AppID 644560 finished uninstall (No Error)
+
+
+[2020-06-03 18:02:34] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-03 18:02:35] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-03 18:02:35] Loaded 0 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
+
+
+[2020-06-05 20:51:29] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-05 20:51:29] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-05 20:51:29] Loaded 0 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
+
+
+[2020-06-07 13:03:12] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-07 13:03:12] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-07 13:03:12] Loaded 0 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
+
+
+[2020-06-07 13:04:17] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2020-06-07 13:04:17] Loaded 5 apps from install folder "E:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2020-06-07 13:04:17] Loaded 0 apps from install folder "F:\SteamLibrary\steamapps\appmanifest_*.acf".
